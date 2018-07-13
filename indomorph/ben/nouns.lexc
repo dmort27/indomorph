@@ -1,0 +1,52 @@
+!!! nouns.lexc !!!
+
+! Noun morphology for Bengali
+
+Multichar_Symbols ^GUESSNOUNSTEM +N +Nom +Acc +Dat +Loc +Gen +Cl1 +Cl2 +Cl3 +Cl4 +Cl5 +Cl6 +Cl7 +Cl8
+
+LEXICON NounStem
+^GUESSNOUNSTEM	Classifier ;
+
+LEXICON Classifier
++Cl1:খানা	Case;
++Cl2:খানি	Case;
++Cl3:গুলো		Case;
++Cl4:গুলি	Case;
++Cl5:টুকু	Case;
++Cl6:যোন		Case;
++Cl7:টা		Case;
++CL8:টি		Case;
+
+LEXICON Case
+! Nominative Case
+Nom+Sg:0	# ; 0
+Nom+Pl:রা	 # ; ra
+Nom+Pl:এরা	 # ; era
+Nom+Pl+NonHum:গুলো	 # ; ɡul
+Nom+Pl+NonHum:গুলি	 # ; ɡuli
+
+! Objective Case
+Acc:রে	 # ; re
+Acc:ডের	 # ; der
+Acc:এডের	 # ; eder
+Acc:দিগ	 # ; diɡ
+Acc:ডেরকে	 # ; derke
+Acc:এডেরকে	 # ; ederke
+Acc:দিগকে	 # ; diɡke
+Acc:গুলোকে	 # ; ɡulke
+Acc:গুলিকে	 # ; ɡulike
+
+! Genitive Case
+Gen:এর	 # ; er
+Gen:গুলির	 # ; ɡulir
+Gen:দিগের	 # ; diɡer
+Gen:গুলোর	 # ; ɡulər
+Gen:গু	 # ; ɡu
+Gen:র	 # ; rə
+
+! Locative Case
+At:গুলোতে	 # ; ɡulte
+At:গুলিতে	 # ; ɡulite
+At:তে	 # ; te
+At:কে	 # ; ke
+At:এ	 # ; e

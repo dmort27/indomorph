@@ -2,6 +2,21 @@
 
 clear stack
 
-define Cons ক | খ | গ | ঘ | ঙ | চ | ছ | জ | ঝ | ট | ঠ | ড | ঢ | ণ | ত | থ | দ | ধ | ন | প | ফ | ব | ভ | ম | য় | ড় | ঢ় | য | র | ল | হ | শ | ষ | স
+define Cons ক | খ | গ | ঘ | ঙ | চ | ছ | জ | ঝ | ট | ঠ | ড | ঢ | ণ | ত | থ | দ | ধ | ন | প | ফ | ব | ভ | ম | য় | ড় | ঢ় | য | র | ল | হ | শ | ষ | স ;
 
-define Vowel 
+define Vowel অ | আ | ই | ঈ | উ | ঊ | ঋ | ৠ | ঌ | ৡ | এ | ঐ | ও | ঔ | া | ি | ী | ু | ূ | ৃ | ৄ | ৢ | ৣ | ে | ৈ | ো | ৌ ;
+
+define Other ৎ | ৗ | ঁ | ং | ঃ | ় | ঽ ;
+
+define PossNounStem [Cons | Vowel | Other]^>2 "+Guess:0" ;
+
+read lexc < nouns.lexc
+
+substitute defined PossNounStem for "^GUESSSTEM"
+define AllNouns ;
+
+read regex ~$["+Guess"] .o. AllNouns ;
+
+read regex $["+Guess"] .o. AllNouns ;
+
+save stack sin.fst
