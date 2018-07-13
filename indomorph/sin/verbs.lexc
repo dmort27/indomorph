@@ -1,0 +1,6 @@
+! verbs.lexc
+
+Multichar_Symbols +V
+
+LEXICON Root
++V:0    #;

@@ -1,0 +1,24 @@
+!!!sin.xfst!!!
+
+clear stack
+
+define Cons ක | ඛ | ග | ඝ | ඞ | ඟ | ච | ඡ | ජ | ඣ | ඤ | ඥ | ඦ | ට | ඨ | ඩ | ඪ | ණ | ඬ | ත | ථ | ද | ධ | න | ඳ | ප | ඵ | බ | භ | ම | ඹ | ය | ර | ල | ළ | ව | හ | ශ | ෂ | ස | ෆ | ‍ය | ‍ර | ක | ්‍ෂ ;
+
+define Vowel ා | ැ | ෑ | ි | ී | ු | ූ | ෙ | ේ | ෛ | ො | ෝ | ෞ | ෘ | ෲ | ෟ | ෳ | අ | ආ | ඇ | ඈ | ඉ | ඊ | උ | ඌ | එ | ඒ | ඓ | ඔ | ඕ | ඖ | ඍ | ඎ | ඏ | ඐ ;
+
+define Other ් | ං | ඃ ;
+
+define PossNounStem [[Cons | Vowel]+ Cons] "+Guess":0 ;
+
+read lexc < nouns.lexc
+
+substitute defined PossNounStem for "^GUESSSTEM"
+define AllInclusive ;
+
+read regex ~$["+Guess"] .o. AllInclusive ;
+save stack attested.fst
+
+read regex $["+Guess"] .o. AllInclusive ;
+save stack guesser.fst
+
+! save stack sin.fst
