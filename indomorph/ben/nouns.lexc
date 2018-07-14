@@ -19,34 +19,35 @@ LEXICON Classifier
 
 LEXICON Case
 ! Nominative Case
-Nom+Sg:0	# ; 0
-Nom+Pl:রা	 # ; ra
-Nom+Pl:এরা	 # ; era
-Nom+Pl+NonHum:গুলো	 # ; ɡul
-Nom+Pl+NonHum:গুলি	 # ; ɡuli
++Nom+Sg:0	# ; 0
++Nom+Pl:রা	 # ; ra
++Nom+Pl:এরা	 # ; era
++Nom+Pl+NonHum:গুলো	 # ; ɡulo
++Nom+Pl+NonHum:গুলি	 # ; ɡuli
 
 ! Objective Case
-Acc:রে	 # ; re
-Acc:ডের	 # ; der
-Acc:এডের	 # ; eder
-Acc:দিগ	 # ; diɡ
-Acc:ডেরকে	 # ; derke
-Acc:এডেরকে	 # ; ederke
-Acc:দিগকে	 # ; diɡke
-Acc:গুলোকে	 # ; ɡulke
-Acc:গুলিকে	 # ; ɡulike
++Acc+Sg:কে  # ; ke
++Acc+Sg:রে	 # ; re
++Acc+Pl:ডের	 # ; der
++Acc+Pl:এডের	 # ; eder
++Acc+Pl:দিগ	 # ; diɡɔ
++Acc+Pl:ডেরকে	 # ; derke
++Acc+Pl:এডেরকে	 # ; ederke
++Acc+Pl:দিগকে	 # ; diɡɔke
++Acc+Pl+NonHum:গুলোকে	 # ; ɡuloke
++Acc+Pl+NonHum:গুলিকে	 # ; ɡulike
 
 ! Genitive Case
-Gen:এর	 # ; er
-Gen:গুলির	 # ; ɡulir
-Gen:দিগের	 # ; diɡer
-Gen:গুলোর	 # ; ɡulər
-Gen:গু	 # ; ɡu
-Gen:র	 # ; rə
++Gen+Sg:এর	 # ; er
++Gen+Sg:র্	 # ; r
++Gen+Pl:ডের	 # ; der
++Gen+Pl:এডের	 # ; eder
++Gen+Pl:দিগের	 # ; diɡer
++Gen+Pl+NonHum:গুলির	 # ; ɡulir
++Gen+Pl+NonHum:গুলোর	 # ; ɡulor
 
 ! Locative Case
-At:গুলোতে	 # ; ɡulte
-At:গুলিতে	 # ; ɡulite
-At:তে	 # ; te
-At:কে	 # ; ke
-At:এ	 # ; e
++At+Sg:তে	 # ; te
++At+Sg:এ	 # ; e
++At+Pl+NonHum:গুলোতে	 # ; ɡulote
++At+Pl+NonHum:গুলিতে	 # ; ɡulite
