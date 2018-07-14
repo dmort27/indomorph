@@ -2,7 +2,7 @@
 
 ! Noun morphology for Bengali
 
-Multichar_Symbols ^GUESSNOUNSTEM +N +Nom +Acc +Dat +Loc +Gen +Cl1 +Cl2 +Cl3 +Cl4 +Cl5 +Cl6 +Cl7 +Cl8
+Multichar_Symbols ^GUESSNOUNSTEM +N +Nom +Acc +Dat +At +Gen +Cl1 +Cl2 +Cl3 +Cl4 +Cl5 +Cl6 +Cl7 +Cl8
 
 LEXICON NounStem
 ^GUESSNOUNSTEM	Classifier ;
