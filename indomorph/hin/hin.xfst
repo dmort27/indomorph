@@ -1,0 +1,28 @@
+!!!hin.xfst!!!
+
+clear stack
+
+define Cons क  | ख  | ग  | घ  | ङ  | च  | छ  | ज  | झ  | ञ  | ट  | ठ  | ड  | ढ  | ण  | त  | थ  | द  | ध  | न  | प  | फ  | ब  | भ  | म  | क़  | ख़  | ग़  | ज़  | ड़  | ढ़  | फ़  | य  | र  | ल  | ळ  | व  | ह  | श  | ष  | स  | ऱ  | ऴ
+
+define Vowel अ  | आ  | इ  | ई  | उ  | ऊ  | ऋ  | ॠ  | ऌ  | ॡ  | ए  | ऐ  | ओ  | औ  | ा  | ि  | ी  | ु   | ू  | ृ  | ॄ  | ॢ  | ॣ  | े  | ै  | ो  | ौ
+
+define Other   ् | ॑  | ॒  | ॓  | ॔  | ँ  | ं  | ः  | ़
+
+define PossClassIStem [Cons | Vowel | Other]^>2 Cons "+Guess":0 ;
+define PossClassIIStem [Cons | Vowel | Other]^>2 Vowel "+Guess":0 ;
+define PossClassIIIStem [Cons | Vowel | Other]^>2 Cons "+Guess":0 ;
+define PossClassIVStem [Cons | Vowel | Other]^>2 Vowel "+Guess":0 ;
+
+read lexc < nouns.lexc
+
+substitute defined PossClassIStem for "^GUESSCLASSISTEM"
+substitute defined PossClassIIStem for "^GUESSCLASSIISTEM"
+substitute defined PossClassIIIStem for "^GUESSCLASSIIISTEM"
+substitute defined PossClassIVStem for "^GUESSCLASSIVSTEM"
+define AllNouns ;
+
+read regex ~$["+Guess"] .o. AllNouns ;
+
+read regex $["+Guess"] .o. AllNouns ;
+
+save stack hin.fst
