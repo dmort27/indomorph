@@ -6,17 +6,17 @@ define Cons ক | খ | গ | ঘ | ঙ | চ | ছ | জ | ঝ | ট | ঠ | �
 
 define Vowel অ | আ | ই | ঈ | উ | ঊ | ঋ | ৠ | ঌ | ৡ | এ | ঐ | ও | ঔ | া | ি | ী | ু | ূ | ৃ | ৄ | ৢ | ৣ | ে | ৈ | ো | ৌ ;
 
-define Other ৎ | ৗ | ঁ | ং | ঃ | ় | ঽ ;
+define Other ৎ | ৗ | ঁ | ং | ঃ | ় | ঽ | ্ ;
 
-define PossNounStem [Cons | Vowel | Other]^>2 "+Guess:0" ;
+define PossNounStem [Cons | Vowel | Other]^>2 "+Guess":0 ;
 
 read lexc < nouns.lexc
 
-substitute defined PossNounStem for "^GUESSSTEM"
+substitute defined PossNounStem for "^GUESSNOUNSTEM"
 define AllNouns ;
 
 read regex ~$["+Guess"] .o. AllNouns ;
 
 read regex $["+Guess"] .o. AllNouns ;
 
-save stack sin.fst
+save stack ben.fst
