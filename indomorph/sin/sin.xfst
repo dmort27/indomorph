@@ -12,13 +12,13 @@ define PossNounStem [[Cons | Vowel]+ Cons] "+Guess":0 ;
 
 read lexc < nouns.lexc
 
-substitute defined PossNounStem for "^GUESSSTEM"
+substitute defined PossNounStem for "^GUESSNOUNSTEM"
 define AllInclusive ;
 
 read regex ~$["+Guess"] .o. AllInclusive ;
-save stack attested.fst
+! save stack attested.fst
 
 read regex $["+Guess"] .o. AllInclusive ;
-save stack guesser.fst
+! save stack guesser.fst
 
-! save stack sin.fst
+save stack sin.fst
