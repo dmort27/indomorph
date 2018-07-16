@@ -5,7 +5,7 @@
 Multichar_Symbols ^GUESSNOUNSTEM +Guess +N +Nom +Acc +Dat +At +Gen +Cl1 +Cl2 +Cl3 +Cl4 +Cl5 +Cl6 +Cl7 +Cl8
 
 LEXICON Root
-0:0     NounStem ;
+0:0 NounStem ;
 
 LEXICON NounStem
 ! Guessed stems
@@ -46,7 +46,7 @@ LEXICON NounStem
 অকর্ম Dessinence ; ! a misdeed, a mischief ; a useless act
 অকর্মণ্যতা Dessinence ; ! incompetence, inefficiency ; useless ness
 অকল্যাণ Dessinence ; ! harm, injury ; spiritual or moral harm
-অকষ্টকল্পনা Dessinence ; ! spontaneous  imagination or  composition
+অকষ্টকল্পনা Dessinence ; ! spontaneous imagination or composition
 অকাজ Dessinence ; ! a useless act ; a mischief
 অকার্য Dessinence ; ! a misdeed ; a useless act
 অকার্যকারিতা Dessinence ; ! ineffectiveness
@@ -208,7 +208,7 @@ LEXICON NounStem
 অঘ Dessinence ; ! sin
 অঘটন Dessinence ; ! an awkward or unexpected incident ; non-occurrence
 অঘটনঘটন Dessinence ; ! unusual occurrence
-অঘমর্ষণ Dessinence ; ! that which  dispels sin
+অঘমর্ষণ Dessinence ; ! that which dispels sin
 অঘাট Dessinence ; ! a bad place
 অঘোর Dessinence ; ! God Shiva
 অঘোরমন্ত্র Dessinence ; ! incantation to invoke Shiva
@@ -325,14 +325,14 @@ LEXICON NounStem
 অজ্ঞানবাদ Dessinence ; ! agnosticism
 অজ্ঞানবাদী Dessinence ; ! an agnostic
 অজ্ঞাপন Dessinence ; ! lack or absence of communication
-অঞ্চলনিধি Dessinence ; ! dear one  very dear child
+অঞ্চলনিধি Dessinence ; ! dear one very dear child
 অঞ্চলপ্রভাব Dessinence ; ! domination of wife ; influence of the harem
 অঞ্চলে Dessinence ; ! region
 অঞ্চলের Dessinence ; ! zone
 অঞ্জন Dessinence ; ! an eye-salve ; collyrium
 অঞ্জনা Dessinence ; ! Kind of green lizard
 অঞ্জনিকা Dessinence ; ! a sty
-অঞ্জলি Dessinence ; ! act of worshipping or serving ;  a handful
+অঞ্জলি Dessinence ; ! act of worshipping or serving ; a handful
 অঞ্জলিপুট Dessinence ; ! palms of hands cupped together
 অঞ্জিষ্ণু Dessinence ; ! the sun ; an exceptionally bright object
 অটবি Dessinence ; ! Forest
@@ -358,7 +358,7 @@ LEXICON NounStem
 অতনু Dessinence ; ! Madan
 অতর্ক Dessinence ; ! unfair or useless argument, sophistry ; casuistry
 অতলান্তিক Dessinence ; ! the Atlantic Ocean
-অতশত Dessinence ; ! so many varieties ;  so much of it
+অতশত Dessinence ; ! so many varieties ; so much of it
 অতসী Dessinence ; ! a variety of golden-coloured flower ; linseed
 অতিকথা Dessinence ; ! exaggerated or useless talk ; a myth
 অতিক্রম Dessinence ; ! going beyond ; pass ing over
@@ -442,7 +442,7 @@ LEXICON NounStem
 অদ্বৈতবাদ Dessinence ; ! non-dualism
 অদ্বৈতবাদী Dessinence ; ! a nondualist
 অদ্ভুতরস Dessinence ; ! extraordinary
-অদ্যভক্ষ্যোধনুর্গণঃ Dessinence ; ! over-optimistic calculation ;  abject poverty
+অদ্যভক্ষ্যোধনুর্গণঃ Dessinence ; ! over-optimistic calculation ; abject poverty
 অদ্রি Dessinence ; ! Mountain
 অদ্রিজ Dessinence ; ! bitumen ; red ochre
 অদ্রিসার Dessinence ; ! iron
@@ -721,7 +721,7 @@ LEXICON NounStem
 অনুত্রিকাস্হি Dessinence ; ! coccyx
 অনুত্সাহ Dessinence ; ! lack of drive and initiative
 অনুদাত্ত Dessinence ; ! low and grave tone, bass ; a Vedic hymn or in cantation
-অনুদান Dessinence ; ! a  grant
+অনুদান Dessinence ; ! a grant
 অনুদারতা Dessinence ; ! narrow mindedness ; illiberality
 অনুদ্গম Dessinence ; ! not growing or springing
 অনুদ্দেশ Dessinence ; ! absence of trace
@@ -731,7 +731,7 @@ LEXICON NounStem
 অনুধ্যান Dessinence ; ! wishing well, well-wishing
 অনুনয় Dessinence ; ! entreaty ; beseeching
 অনুনয় Dessinence ; ! Entreaty ; request
-অনুনয়-বিনয় Dessinence ; ! humble  entreaties, importunate solicitation
+অনুনয়-বিনয় Dessinence ; ! humble entreaties, importunate solicitation
 অনুনাদ Dessinence ; ! an echo ; a sympathetic vibration, resonance
 অনুনাদক Dessinence ; ! a resonating device, a resonator ; a sound-box
 অনুন্মীলন Dessinence ; ! cleistogamy
@@ -759,7 +759,7 @@ LEXICON NounStem
 অনুবর্তন Dessinence ; ! coming or going after ; pursuit
 অনুবর্তিতা Dessinence ; ! following or attending or accompanying ; subserviency
 অনুবর্তী Dessinence ; ! a follower
-অনুবল Dessinence ; ! grace, favour, countenance ;  a patron
+অনুবল Dessinence ; ! grace, favour, countenance ; a patron
 অনুবাদ Dessinence ; ! translation ; interpretation
 অনুবাদক Dessinence ; ! a translator ; an imitator
 অনুবাসন Dessinence ; ! perfuming ; fumigation
@@ -1109,7 +1109,7 @@ LEXICON NounStem
 অপূর্বতা Dessinence ; ! unprecedentedness ; novelty
 অপেক্ষক Dessinence ; ! a function
 অপেক্ষবাদ Dessinence ; ! the theory of relativity
-অপেক্ষা Dessinence ; ! await ; waiting  or tarrying
+অপেক্ষা Dessinence ; ! await ; waiting or tarrying
 অপেরণ Dessinence ; ! aberration
 অপেরা Dessinence ; ! opera
 অপোগন্ড Dessinence ; ! an infant ; a boy or girl
@@ -1767,7 +1767,7 @@ LEXICON NounStem
 অশ্বকোবিদ Dessinence ; ! one experienced about horses ; a horse-breaker
 অশ্বখুর Dessinence ; ! a horse's hoof ; a plant used as perfume
 অশ্বখুরা Dessinence ; ! a creeper of the clitoria genus ; its flower
-অশ্বগতি Dessinence ; ! the pace  of a horse
+অশ্বগতি Dessinence ; ! the pace of a horse
 অশ্বগন্ধা Dessinence ; ! a medicinal plant, withania somnifera
 অশ্বগ্রীব Dessinence ; ! horse-necked
 অশ্বচালনা Dessinence ; ! driving or riding a horse
@@ -2095,7 +2095,7 @@ LEXICON NounStem
 আঁচল Dessinence ; ! Border or edge of a garment
 আঁচিল Dessinence ; ! a wart
 আঁজনাই Dessinence ; ! a sty, a stye
-আঁজলা Dessinence ; ! palms of one's hands cupped together ;  a handful
+আঁজলা Dessinence ; ! palms of one's hands cupped together ; a handful
 আঁট Dessinence ; ! tightness, tension ; compactness , restraint, reserve
 আঁটাআঁটি Dessinence ; ! excessive tightness ; excessive strictness or rigour
 আঁটি Dessinence ; ! the stone of a fruit
@@ -2147,7 +2147,7 @@ LEXICON NounStem
 আকাশবাণী Dessinence ; ! a celestial voice ; an oracle
 আকাশবিহার Dessinence ; ! flying in the sky
 আকাশবৃত্তি Dessinence ; ! casual subsistence
-আকাশমণ্ডল Dessinence ; ! the  expanse of the heavens ; the atmosphere
+আকাশমণ্ডল Dessinence ; ! the expanse of the heavens ; the atmosphere
 আকাশযান Dessinence ; ! an aircraft ; a balloon
 আকিঞ্চন Dessinence ; ! indigence, utter poverty ; humble prayer or desire, craving
 আকুতি Dessinence ; ! ardour ; fervidity
@@ -2165,7 +2165,7 @@ LEXICON NounStem
 আক্রোশ Dessinence ; ! grudge ; malice
 আক্ষেপ Dessinence ; ! convulsion ; fits
 আখ Dessinence ; ! sugarcane
-আখড়া Dessinence ; ! a gymnasium ;  play-acting
+আখড়া Dessinence ; ! a gymnasium ; play-acting
 আখড়াই Dessinence ; ! dramatic rehearsal
 আখনি Dessinence ; ! stew, esp. of meat
 আখর Dessinence ; ! a letter of the alphabet ; refrain of a song
@@ -2297,7 +2297,7 @@ LEXICON NounStem
 আড়ানা Dessinence ; ! an Indian musical mode
 আড়ানি Dessinence ; ! a large umbrella ; a large fan
 আড়ানী Dessinence ; ! Screen to keep off the
-আড়াল Dessinence ; ! a screen, a cover ;  hiding
+আড়াল Dessinence ; ! a screen, a cover ; hiding
 আড়াল Dessinence ; ! Concealment ; cover
 আড়ি Dessinence ; ! a hiding ; concealment
 আড়ি Dessinence ; ! Quarrel ; dropping of friendship
@@ -2437,7 +2437,7 @@ LEXICON NounStem
 আদর Dessinence ; ! caress ; cordiality
 আদর-অভ্যর্থনা Dessinence ; ! hearty reception and kind attention ; warm welcome
 আদরা Dessinence ; ! a rough or preliminary sketch ; an outline
-আদর্শ Dessinence ; ! a pattern of excellence ;  a model
+আদর্শ Dessinence ; ! a pattern of excellence ; a model
 আদর্শবাদ Dessinence ; ! idealism
 আদর্শবাদী Dessinence ; ! idealist
 আদর্শলিপি Dessinence ; ! a copy-book
@@ -2463,7 +2463,7 @@ LEXICON NounStem
 আদিতেয় Dessinence ; ! a god
 আদিত্য Dessinence ; ! the name of the sungod ; the sun
 আদিত্যমণ্ডল Dessinence ; ! the orb of the sun ; the solar region
-আদিদেব Dessinence ; ! the Supreme Being ;  Vishnu and Maheswara
+আদিদেব Dessinence ; ! the Supreme Being ; Vishnu and Maheswara
 আদিনাথ Dessinence ; ! the Supreme Being ; Shiva
 আদিপর্ব Dessinence ; ! First chapter or canto ; beginning
 আদিপুরুষ Dessinence ; ! First progenitor ; founder of a race or family
@@ -2481,7 +2481,7 @@ LEXICON NounStem
 আদ্যন্ত Dessinence ; ! beginning and end
 আদ্যপ্রাণী Dessinence ; ! the protozoa
 আদ্যবায়ু Dessinence ; ! supplemental air
-আদ্যা Dessinence ; ! Nature ;  Goddes Durga
+আদ্যা Dessinence ; ! Nature ; Goddes Durga
 আদ্যাশক্তি Dessinence ; ! Nature
 আদ্যিকাল Dessinence ; ! very ancient times ; remote days
 আদ্রক Dessinence ; ! ginger
@@ -2613,7 +2613,7 @@ LEXICON NounStem
 আফিম Dessinence ; ! Opium
 আফিস Dessinence ; ! Office ; place of business
 আফ্রিকান Dessinence ; ! an African ; an African Negro
-আব Dessinence ; ! an excrescence  on the skin
+আব Dessinence ; ! an excrescence on the skin
 আবখোরা Dessinence ; ! a large drinking-glass or tall cup
 আবগার Dessinence ; ! a distiller
 আবগারি Dessinence ; ! Excise ; excise
@@ -2727,7 +2727,7 @@ LEXICON NounStem
 আমি Dessinence ; ! self-knowledge ; the soul, the ego
 আমিত্ব Dessinence ; ! egoism, vanity
 আমিন Dessinence ; ! a land surveyor ; a supervising officer
-আমির Dessinence ; ! a wealthy nobleman or high-born person ;  an Amir
+আমির Dessinence ; ! a wealthy nobleman or high-born person ; an Amir
 আমির-ওমরাহ Dessinence ; ! princes and courtiers or noble men ; men of high and wealthy class
 আমিরি Dessinence ; ! amirate ; pomp and grandeur
 আমিষ Dessinence ; ! meat ; non-vegetarian food or diet
@@ -2801,7 +2801,7 @@ LEXICON NounStem
 আরজ Dessinence ; ! Request ; prayer
 আরজি Dessinence ; ! a prayer, request ; a petition
 আরণি Dessinence ; ! whirlpool ; eddy
-আরণ্যক Dessinence ; ! a person  living in forests ; a forester, a forest dweller
+আরণ্যক Dessinence ; ! a person living in forests ; a forester, a forest dweller
 আরতি Dessinence ; ! thurible
 আরদালি Dessinence ; ! an orderly ; an office bearer
 আরব Dessinence ; ! an Arab, an Arabian ; the Arabian nation
@@ -2815,7 +2815,7 @@ LEXICON NounStem
 আরাত্রিক Dessinence ; ! thurible
 আরাধক Dessinence ; ! a worshipper, a devotee
 আরাধনা Dessinence ; ! worship ; service
-আরাব Dessinence ; ! a  sound or note ; a  noise
+আরাব Dessinence ; ! a sound or note ; a noise
 আরাম Dessinence ; ! ease, comfort ; pleasure
 আরামকেদারা Dessinence ; ! an easy-chair
 আরোগ্য Dessinence ; ! recovery from ailment or illness
@@ -3127,7 +3127,7 @@ LEXICON NounStem
 ইন্দুমতী Dessinence ; ! fem. the full moon
 ইন্দুমৌলি Dessinence ; ! an appellation of Shiva
 ইন্দুর Dessinence ; ! Mouse ; rat
-ইন্দুলেখা Dessinence ; ! a digit of the moon ;  wormwood
+ইন্দুলেখা Dessinence ; ! a digit of the moon ; wormwood
 ইন্দোচীন Dessinence ; ! Indo-China
 ইন্দোনেশিয়া Dessinence ; ! Indonesia
 ইন্দোনেশীয় Dessinence ; ! an Indonesian
@@ -3175,12 +3175,12 @@ LEXICON NounStem
 ইয়ারকি Dessinence ; ! waggery
 ইয়ারবকসি Dessinence ; ! friends and companions and associates
 ইয়ারিং Dessinence ; ! an earring
-ইরন্মদ Dessinence ; ! the flash of lightning ;  sea-fire
+ইরন্মদ Dessinence ; ! the flash of lightning ; sea-fire
 ইরা Dessinence ; ! the goddess of speech ; power of speech personified
 ইরাক Dessinence ; ! Iraq
 ইরাদা Dessinence ; ! determination, resolution, will ; desire
 ইরান Dessinence ; ! Iran
-ইরানি Dessinence ; ! an Iranian, a Persian ;  Iranian
+ইরানি Dessinence ; ! an Iranian, a Persian ; Iranian
 ইরাবতী Dessinence ; ! the river Ravi in the Punjab
 ইরাবান Dessinence ; ! the sea
 ইলশেগুঁড়ি Dessinence ; ! serein
@@ -3331,7 +3331,7 @@ LEXICON NounStem
 উজিরি Dessinence ; ! office of the prime minister ; premiership
 উজীর Dessinence ; ! Vizier ; minister of State
 উজু Dessinence ; ! washing one's person
-উজ্জীবন Dessinence ; ! infusion of a new life ;  resuscitation
+উজ্জীবন Dessinence ; ! infusion of a new life ; resuscitation
 উজ্জ্বম্ভণ Dessinence ; ! manifestation ; development
 উজ্জ্বলতা Dessinence ; ! brightness ; luminousness
 উজ্জ্বলীকরণ Dessinence ; ! illumination ; act of brightening
@@ -3550,7 +3550,7 @@ LEXICON NounStem
 উদ্বেজন Dessinence ; ! act of worrying ; worry, concern
 উদ্বোধন Dessinence ; ! enlightenment ; opening
 উদ্বোধ Dessinence ; ! awakening of knowledge in one's mind ; recollection
-উদ্বোধন Dessinence ; ! act of awakening knowledge  ; awakening
+উদ্বোধন Dessinence ; ! act of awakening knowledge ; awakening
 উদ্বোধনী Dessinence ; ! inauguration
 উদ্ব্যক্তি Dessinence ; ! emphasis
 উদ্ভট্টি Dessinence ; ! a strange or quaint thing
@@ -3614,7 +3614,7 @@ LEXICON NounStem
 উন্মার্গগামী Dessinence ; ! : an evil or prohibited path
 উন্মীলন Dessinence ; ! opening of eyes ; eye-opening
 উন্মুক্ততা Dessinence ; ! opening, uncovering ; openness
-উন্মুখতা Dessinence ; ! craning  in eagerness ; eager expectancy
+উন্মুখতা Dessinence ; ! craning in eagerness ; eager expectancy
 উন্মূলন Dessinence ; ! extirpation, uprooting, eradication ; eviction, ejection, removal
 উন্মূলয়িতা Dessinence ; ! an extirpator
 উন্মেষ Dessinence ; ! opening or unfolding ; bloom
@@ -3721,7 +3721,7 @@ LEXICON NounStem
 উপমাংস Dessinence ; ! a wart, a mole
 উপমাতা Dessinence ; ! foster-mother ; wet nurse
 উপমান Dessinence ; ! analogy
-উপমিতি Dessinence ; ! a simile, an analogy ;  analogical knowledge
+উপমিতি Dessinence ; ! a simile, an analogy ; analogical knowledge
 উপমেয় Dessinence ; ! that which has been compared
 উপমেরু Dessinence ; ! consequent poles
 উপযাচক Dessinence ; ! a volunteer
@@ -3803,7 +3803,7 @@ LEXICON NounStem
 উপাঙ্গ-প্রদাহ Dessinence ; ! appendicitis
 উপাচার্য Dessinence ; ! a vice-chan cellor
 উপাত্ত Dessinence ; ! a datum
-উপাদান Dessinence ; ! a  material, an ingredient ; a constituent
+উপাদান Dessinence ; ! a material, an ingredient ; a constituent
 উপাদেয়তা Dessinence ; ! pleasantness, delightful ness ; enjoyableness
 উপাধান Dessinence ; ! a pillow
 উপাধি Dessinence ; ! a title ; a designation
@@ -4269,7 +4269,7 @@ LEXICON NounStem
 ঔদার্য Dessinence ; ! liberality ; magnanimity, great ness
 ঔদাসীন্য Dessinence ; ! indifference ; listless ness
 ঔদ্ধত্য Dessinence ; ! haughtiness, arrogance ; insolence, impertinence
-ঔপনিবেশিক Dessinence ; ! colonial ;  colonizing
+ঔপনিবেশিক Dessinence ; ! colonial ; colonizing
 ঔপন্যাসিক Dessinence ; ! a novelist
 ঔপম্য Dessinence ; ! similitude ; similarity
 ঔরস Dessinence ; ! a legitimate child ; se men
@@ -4310,7 +4310,7 @@ LEXICON NounStem
 কঙ্কালমালিনী Dessinence ; ! an appellation of Goddess Kali
 কঙ্কালমালী Dessinence ; ! an appellation of Shiva
 কচ Dessinence ; ! hair ; the pointed end of a quillpen
-কচকচানি Dessinence ; ! act of grumbling, grumble ;  prattle
+কচকচানি Dessinence ; ! act of grumbling, grumble ; prattle
 কচকচি Dessinence ; ! quarrel ; wrangling
 কচটানি Dessinence ; ! act of kneading
 কচড়া Dessinence ; ! thick rope, cable
@@ -4359,11 +4359,11 @@ LEXICON NounStem
 কঠোপনিষত্ Dessinence ; ! Katha
 কঠোরতা Dessinence ; ! hardness ; stern ness, harshness
 কড় Dessinence ; ! a lac-brace let
-কড় Dessinence ; ! fishing  line
+কড় Dessinence ; ! fishing line
 কড়ক Dessinence ; ! sea salt
 কড়কড়ানি Dessinence ; ! any of the aforesaid sounds
-কড়চা Dessinence ; ! a chronicle ;  a de scriptive rent-roll
-কড়চা Dessinence ; ! Biographical  sketch
+কড়চা Dessinence ; ! a chronicle ; a de scriptive rent-roll
+কড়চা Dessinence ; ! Biographical sketch
 কড়তা Dessinence ; ! tare
 কড়া Dessinence ; ! a large tumblerlike cook ing utensil
 কড়া Dessinence ; ! Pan ; cauldron
@@ -4423,7 +4423,7 @@ LEXICON NounStem
 কথাসাহিত্যিক Dessinence ; ! Author of light literature ; novelist
 কথিকা Dessinence ; ! a story in a sketchy shape ; a talk
 কথোপকথন Dessinence ; ! a conversation ; a talk, a chat
-কদক্ষর Dessinence ; ! a letter  written badly ; bad handwriting
+কদক্ষর Dessinence ; ! a letter written badly ; bad handwriting
 কদন্ন Dessinence ; ! bad food ; abominable food
 কদভ্যাস Dessinence ; ! a bad habit
 কদম Dessinence ; ! a foot ; a leg
@@ -4518,13 +4518,13 @@ LEXICON NounStem
 কপোতবৃত্তি Dessinence ; ! behaviour of or like a pigeon
 কপোতী Dessinence ; ! a pigeonry, a pigeon-house ; a dovecot
 কপোল Dessinence ; ! the cheek
-কপোলকল্পনা Dessinence ; ! false fancy ;  figments of the imagination
+কপোলকল্পনা Dessinence ; ! false fancy ; figments of the imagination
 কপোলদেশ Dessinence ; ! the region of the cheek ; the cheek
 কফ Dessinence ; ! phlegm ; catarrh
 কফণি Dessinence ; ! the elbow
 কফি Dessinence ; ! coffee
 কফিন Dessinence ; ! a coffin
-কবচ Dessinence ; ! an armour ;  a spell
+কবচ Dessinence ; ! an armour ; a spell
 কবচকুণ্ডল Dessinence ; ! armour and earrings
 কবচী Dessinence ; ! a crustacean
 কবজ Dessinence ; ! a charm, a spell ; an amulet
@@ -4591,7 +4591,7 @@ LEXICON NounStem
 কম্পন Dessinence ; ! Shivering ; quaking
 কম্পাউন্ডার Dessinence ; ! a pharmacist
 কম্পাঙ্ক Dessinence ; ! frequency of vibration
-কম্পাস Dessinence ; ! a compass ;  a pair of compasses
+কম্পাস Dessinence ; ! a compass ; a pair of compasses
 কম্পিউটার Dessinence ; ! computer
 কম্পিউটারে Dessinence ; ! computer
 কম্পোজ Dessinence ; ! act of composing
@@ -4770,7 +4770,7 @@ LEXICON NounStem
 কর্মবাচ্য Dessinence ; ! the passive voice
 কর্মবাদ Dessinence ; ! the doctrine of action
 কর্মবিধি Dessinence ; ! rules of action
-কর্মবিপাক Dessinence ; ! consequences  of one's action
+কর্মবিপাক Dessinence ; ! consequences of one's action
 কর্মবিরতি Dessinence ; ! rest ; break in service
 কর্মবীর Dessinence ; ! an untiring worker ; an uncommonly active person
 কর্মব্যস্ততা Dessinence ; ! ado
@@ -4780,7 +4780,7 @@ LEXICON NounStem
 কর্মশালা Dessinence ; ! a workshop ; a smithy
 কর্মশীলতা Dessinence ; ! active habits ; engagement in work
 কর্মসংস্থান Dessinence ; ! passport
-কর্মসচিব Dessinence ; ! a  executive officer ; a secretary
+কর্মসচিব Dessinence ; ! a executive officer ; a secretary
 কর্মসাক্ষী Dessinence ; ! a witness of an act
 কর্মসাধন Dessinence ; ! execution of a work or task
 কর্মসূচি Dessinence ; ! programme of work ; programme to be undertaken
@@ -4805,7 +4805,7 @@ LEXICON NounStem
 কলকবজা Dessinence ; ! pl machinery
 কলকব্জা Dessinence ; ! appointments ; mechanism
 কলকল Dessinence ; ! rapid loud talk
-কলকা Dessinence ; ! leafy decoration ;  shawl etc
+কলকা Dessinence ; ! leafy decoration ; shawl etc
 কলকারখানা Dessinence ; ! pl mills and workshops
 কলকে Dessinence ; ! Bud ; bottom of a lute
 কলকৌশল Dessinence ; ! a de vice
@@ -4834,7 +4834,7 @@ LEXICON NounStem
 কলস্বন Dessinence ; ! a sweet murmur or babble
 কলহ Dessinence ; ! a quarrel, a brawl ; a dispute, a contention
 কলহংস Dessinence ; ! the swan, the gander
-কলা Dessinence ; ! one-sixteenth part of the moon ;   a minute
+কলা Dessinence ; ! one-sixteenth part of the moon ; a minute
 কলাই Dessinence ; ! bean
 কলাইশুঁটি Dessinence ; ! pea-legume
 কলাকার Dessinence ; ! an artist ; an artisan
@@ -4871,7 +4871,7 @@ LEXICON NounStem
 কলেরা Dessinence ; ! cholera
 কল্ক Dessinence ; ! deposit of any liquid ; a sin
 কল্প Dessinence ; ! deluge ; sacred precept
-কল্পতরু Dessinence ; ! a  wish ing-tree ; an extremely liberal and generous person
+কল্পতরু Dessinence ; ! a wish ing-tree ; an extremely liberal and generous person
 কল্পনা Dessinence ; ! invention ; imagination
 কল্পনাকারী Dessinence ; ! an inventor, a deviser ; one who imagines
 কল্পনাচিত্র Dessinence ; ! picturesque imagination ; an imaginary portrait
@@ -4942,7 +4942,7 @@ LEXICON NounStem
 কাঁকবিড়ালি Dessinence ; ! a painful boil in the armpit
 কাঁকর Dessinence ; ! a very small particle of stone
 কাঁকরোল Dessinence ; ! a kind of cucurbitaceous kitchen vegetable
-কাঁকলাস Dessinence ; ! the chameleon ;  a very lean person
+কাঁকলাস Dessinence ; ! the chameleon ; a very lean person
 কাঁকাল Dessinence ; ! the waist ; the hip
 কাঁকুড় Dessinence ; ! the green melon
 কাঁচ Dessinence ; ! Glass ; crystal
@@ -4990,7 +4990,7 @@ LEXICON NounStem
 কাকা Dessinence ; ! younger brother of one's father
 কাকাতুয়া Dessinence ; ! the cockatoo
 কাকি Dessinence ; ! the wife of an uncle
-কাকিনী Dessinence ; ! fem  the female crow
+কাকিনী Dessinence ; ! fem the female crow
 কাকী Dessinence ; ! the female crow
 কাকু Dessinence ; ! voice turned hoarse ; supplication
 কাকুতি Dessinence ; ! anything uttered in supplication or regret ; importunate request or solicitation
@@ -5189,7 +5189,7 @@ LEXICON NounStem
 কামদানি Dessinence ; ! embroidery ; an embroidered piece of cloth
 কামদূতী Dessinence ; ! procuress, a bawd
 কামদেব Dessinence ; ! the god of love and lust
-কামধেনু Dessinence ; ! a  wishing-cow
+কামধেনু Dessinence ; ! a wishing-cow
 কামনা Dessinence ; ! a desire, a wish ; a wishing
 কামনাসিদ্ধি Dessinence ; ! fulfilment of a desire
 কামপ্রবৃত্তি Dessinence ; ! sexual desire or appetite
@@ -5218,7 +5218,7 @@ LEXICON NounStem
 কামাসক্তি Dessinence ; ! lust
 কামিজ Dessinence ; ! a loose-fitting shirt
 কামিন Dessinence ; ! a woman labourer
-কামিনী Dessinence ; ! a  woman ; wife
+কামিনী Dessinence ; ! a woman ; wife
 কামিনীকাঞ্চন Dessinence ; ! woman and gold ; desire for woman and gold
 কামেচ্ছা Dessinence ; ! sexual desire or appetite
 কামোদ Dessinence ; ! an Indian musical mode
@@ -5241,7 +5241,7 @@ LEXICON NounStem
 কারণ Dessinence ; ! reason
 কারণজল Dessinence ; ! wine
 কারণসম্বন্ধ Dessinence ; ! causal relation
-কারণাভাব Dessinence ; ! absence of cause ; ab sence of  evidence
+কারণাভাব Dessinence ; ! absence of cause ; ab sence of evidence
 কারণিক Dessinence ; ! an examiner ; a judge
 কারণ্ডব Dessinence ; ! a species of duck
 কারদানি Dessinence ; ! a feat ; skill
@@ -5279,7 +5279,7 @@ LEXICON NounStem
 কার্টার Dessinence ; ! carter
 কার্টুন Dessinence ; ! cartoon
 কার্ড Dessinence ; ! card
-কার্তিক Dessinence ; ! an extremely goodlooking  man
+কার্তিক Dessinence ; ! an extremely goodlooking man
 কার্তুজ Dessinence ; ! cartridge
 কার্নিশ Dessinence ; ! a cornice
 কার্পণ্য Dessinence ; ! niggardliness, miserliness, par simony
@@ -5425,7 +5425,7 @@ LEXICON NounStem
 কাষ্ঠ Dessinence ; ! wood ; timber
 কাষ্ঠকীট Dessinence ; ! termite, white ant
 কাষ্ঠখণ্ড Dessinence ; ! a piece of wood or log
-কাষ্ঠপাদুকা Dessinence ; ! a  wooden sandals
+কাষ্ঠপাদুকা Dessinence ; ! a wooden sandals
 কাষ্ঠপুত্তলিকা Dessinence ; ! a wooden doll or puppet ; a power less man
 কাষ্ঠফলক Dessinence ; ! a board ; a wooden tablet
 কাষ্ঠমঞ্চ Dessinence ; ! a wooden platform
@@ -5457,7 +5457,7 @@ LEXICON NounStem
 কিটকিট Dessinence ; ! see
 কিট্ট Dessinence ; ! dregs ; excrement
 কিডনি Dessinence ; ! kidney ; kidneys
-কিণ Dessinence ; ! a grazing mark ;  a corn
+কিণ Dessinence ; ! a grazing mark ; a corn
 কিণ্ব Dessinence ; ! leaven, ferment ; sin
 কিতব Dessinence ; ! a deceiver ; a swindler, a gambler
 কিতা Dessinence ; ! a piece ; a volume
@@ -5491,7 +5491,7 @@ LEXICON NounStem
 কিলোমিটার Dessinence ; ! kilometer ; kilometre
 কিলোমিটারে Dessinence ; ! kilometer
 কিল্লা Dessinence ; ! Fort ; castle
-কিশতি Dessinence ; ! a complete check,  checkmate
+কিশতি Dessinence ; ! a complete check, checkmate
 কিশমিশ Dessinence ; ! raisin, currant
 কিশলয় Dessinence ; ! a young shoot with such leaves
 কিশোরী Dessinence ; ! juvenile ; rosebud
@@ -5527,7 +5527,7 @@ LEXICON NounStem
 কুঁড়াজালি Dessinence ; ! a small fishing-net
 কুঁড়ি Dessinence ; ! a bud
 কুঁড়ি Dessinence ; ! Bud ; blossom
-কুঁড়ে Dessinence ; ! a  thatched hut ; a poorly made hut
+কুঁড়ে Dessinence ; ! a thatched hut ; a poorly made hut
 কুঁড়ে Dessinence ; ! Hut ; small cottage
 কুঁড়েঘর Dessinence ; ! hut ; shack
 কুঁড়েমি Dessinence ; ! idle ness, laziness, sloth
@@ -5649,7 +5649,7 @@ LEXICON NounStem
 ˜কুন্ড Dessinence ; ! a hell-pit
 কুন্ড Dessinence ; ! Hole ; pit
 কুন্তল Dessinence ; ! hair ; tresses
-কুন্দ Dessinence ; ! a variety of multi-petalled jasmine ; a  lathe
+কুন্দ Dessinence ; ! a variety of multi-petalled jasmine ; a lathe
 কুন্দকার Dessinence ; ! a turner
 কুপথ্য Dessinence ; ! harmful diet
 কুপরামর্শ Dessinence ; ! unwholesome advice ; bad or evil counsel
@@ -5742,7 +5742,7 @@ LEXICON NounStem
 কুলগুরু Dessinence ; ! a family preceptor
 কুলগ্ন Dessinence ; ! an inauspicious point of time
 কুলঙ্গি Dessinence ; ! a niche
-কুলজি Dessinence ; ! a  genealogy
+কুলজি Dessinence ; ! a genealogy
 কুলজিনামা Dessinence ; ! a genealogical table
 কুলজ্ঞ Dessinence ; ! a herald
 কুলজ্ঞতা Dessinence ; ! knowledge of heraldic lore
@@ -5932,7 +5932,7 @@ LEXICON NounStem
 কেজি Dessinence ; ! kilo
 কেটলি Dessinence ; ! a kettle
 কেঠো Dessinence ; ! a wooden vessel or trough
-কেডস Dessinence ; ! keds  plimsoll
+কেডস Dessinence ; ! keds plimsoll
 কেতক Dessinence ; ! the screwpine flower or its tree
 কেতকী Dessinence ; ! Screw pine plant and its flower
 কেতন Dessinence ; ! a flag ; colours
@@ -6165,7 +6165,7 @@ LEXICON NounStem
 ক্যাম্পাস Dessinence ; ! campus
 ক্যাম্বিস Dessinence ; ! canvas
 ক্যালেনডার Dessinence ; ! a calendar
-ক্যাশবাক্স Dessinence ; ! money-box,  a cash box
+ক্যাশবাক্স Dessinence ; ! money-box, a cash box
 ক্রকচ Dessinence ; ! a saw
 ক্রতুপুরুষ Dessinence ; ! an appellation of Vishnu ; the Kratu appellation of Vishnu
 ক্রন্দন Dessinence ; ! weeping
@@ -6225,7 +6225,7 @@ LEXICON NounStem
 ক্রিসমাসের Dessinence ; ! christmas
 ক্রীড়ক Dessinence ; ! a player ; a sportsman
 ক্রীড়ন Dessinence ; ! act of playing ; exhibition
-ক্রীড়নক Dessinence ; ! a toy ;  a cat's-paw
+ক্রীড়নক Dessinence ; ! a toy ; a cat's-paw
 ক্রীড়নক Dessinence ; ! Plaything ; gewgaw
 ক্রীড়া Dessinence ; ! a play
 ক্রীড়া Dessinence ; ! Play ; sport
@@ -6244,7 +6244,7 @@ LEXICON NounStem
 ক্রীতদাস-ব্যবসায়ী Dessinence ; ! a slave trader, a slaver
 ক্রুজার Dessinence ; ! a cruiser
 ক্রুদ্ধদৃষ্টি Dessinence ; ! an angry look
-ক্রুশ Dessinence ; ! a cross ;  the Cross
+ক্রুশ Dessinence ; ! a cross ; the Cross
 ক্রুশকাঠি Dessinence ; ! a crochet
 ক্রুস Dessinence ; ! crossbow
 ক্রূরতা Dessinence ; ! mercilessness, unkindness, hard-heartedness ; cruelty
@@ -6303,7 +6303,7 @@ LEXICON NounStem
 ক্ষমতাপ্রিয়তা Dessinence ; ! love of power
 ক্ষমা Dessinence ; ! pardon
 ক্ষয় Dessinence ; ! destruction ; defeat
-ক্ষয় Dessinence ; ! gradual loss or decrease ; growing  lesser and lesser
+ক্ষয় Dessinence ; ! gradual loss or decrease ; growing lesser and lesser
 ক্ষয়কাশ Dessinence ; ! consumption, phthisis, tuberculosis
 ক্ষয়ক্ষতি Dessinence ; ! wear and tear
 ক্ষয়ক্ষতি Dessinence ; ! Wear and tear
@@ -6388,7 +6388,7 @@ LEXICON NounStem
 ক্ষেপণি Dessinence ; ! a spoon-shaped oar, a scull ; an oar
 ক্ষেপণিক Dessinence ; ! a sculler ; an oarsman
 ক্ষেপণীয় Dessinence ; ! a missile
-ক্ষেম Dessinence ; ! weal ; preservation of a  thing obtained
+ক্ষেম Dessinence ; ! weal ; preservation of a thing obtained
 ক্ষেমঙ্কর Dessinence ; ! an appellation of Goddess Durga
 ক্ষোভ Dessinence ; ! perturbation ; distraction
 ক্ষোদক Dessinence ; ! a pulverizer ; an engraver, a carver
@@ -6420,7 +6420,7 @@ LEXICON NounStem
 খঞ্জনি Dessinence ; ! the tambourine
 খঞ্জনী Dessinence ; ! Tambourine
 খঞ্জর Dessinence ; ! a hanjar
-খটকা Dessinence ; ! a  doubt or suspicion ; hesitation
+খটকা Dessinence ; ! a doubt or suspicion ; hesitation
 খটিকা Dessinence ; ! chalk
 খট্টি Dessinence ; ! a bier
 খট্বা Dessinence ; ! a cot, a bedstead
@@ -6560,7 +6560,7 @@ LEXICON NounStem
 খাটাশ Dessinence ; ! Civet
 খাটিয়া Dessinence ; ! Cot ; bier
 খাটুনি Dessinence ; ! labour, toil ; effort
-খাটুলি Dessinence ; ! an improvised cot ;  a bier
+খাটুলি Dessinence ; ! an improvised cot ; a bier
 খাট্টা Dessinence ; ! any sour substance, an acid
 খাড়া Dessinence ; ! a stem or stalk
 খাড়াই Dessinence ; ! height, altitude ; upward slope
@@ -6667,7 +6667,7 @@ LEXICON NounStem
 খিদমত Dessinence ; ! a waiter, an attendant ; a servant
 খিদা Dessinence ; ! hunger ; desire for food
 খিদে Dessinence ; ! hunger ; desire for food
-খিমচি Dessinence ; ! a light tweaking  ; a pinch
+খিমচি Dessinence ; ! a light tweaking ; a pinch
 খিল Dessinence ; ! a bolt ; cramp
 খিলান Dessinence ; ! an arch ; a vault, a dome
 খিলি Dessinence ; ! catechu
@@ -6686,7 +6686,7 @@ LEXICON NounStem
 খুকি Dessinence ; ! an infant girl ; a little girl
 খুকিপনা Dessinence ; ! affected girlishness
 খুকী Dessinence ; ! Little girl
-খুকু Dessinence ; ! a little girl ; a daughter. :  my daughter
+খুকু Dessinence ; ! a little girl ; a daughter. : my daughter
 খুকুমনি Dessinence ; ! babe ; baby
 খুঙ্গি Dessinence ; ! a portable wicker-bag for carrying books
 খুজলি Dessinence ; ! itch, scabies
@@ -6708,7 +6708,7 @@ LEXICON NounStem
 খুনোখুনি Dessinence ; ! mutual killing ; a violent affray
 খুন্তি Dessinence ; ! a cooking tool resembling a spud
 খুপরি Dessinence ; ! a small house ; a hole
-খুপি Dessinence ; ! a small  cell
+খুপি Dessinence ; ! a small cell
 খুবানি Dessinence ; ! apricot
 খুর Dessinence ; ! hoof of an animal
 খুরমা Dessinence ; ! Dried date
@@ -6867,7 +6867,7 @@ LEXICON NounStem
 গঙ্গা Dessinence ; ! the Ganges, the Ganga ; a river
 গঙ্গাতীর Dessinence ; ! bank of the Ganges
 গঙ্গাধর Dessinence ; ! an appellation of Shiva
-গঙ্গাপুত্র Dessinence ; ! Bhishma ;   an undertaker by caste
+গঙ্গাপুত্র Dessinence ; ! Bhishma ; an undertaker by caste
 গঙ্গাপ্রাপ্তি Dessinence ; ! death
 গঙ্গাফড়িং Dessinence ; ! the grasshopper
 গঙ্গামাহাত্ম্য Dessinence ; ! the glory of the Ganges ; a hymn glorifying the Ganges
@@ -6899,7 +6899,7 @@ LEXICON NounStem
 গঞ্জন Dessinence ; ! act of insulting
 গঞ্জনা Dessinence ; ! scolding, chiding, upbraiding ; insult
 গঞ্জিকা Dessinence ; ! ganja ; hemp
-গঞ্জিকাসেবী Dessinence ; ! a  smoker of hemp
+গঞ্জিকাসেবী Dessinence ; ! a smoker of hemp
 গঠন Dessinence ; ! building or modelling or shaping ; build
 গঠনতন্ত্র Dessinence ; ! nature
 গঠনসৌষ্ঠব Dessinence ; ! beauty or elegance of form
@@ -6956,7 +6956,7 @@ LEXICON NounStem
 গণিতজ্ঞ Dessinence ; ! a mathematician
 গণিতবিদ্যা Dessinence ; ! mathematics
 গণেশ Dessinence ; ! the lord of the hosts
-গণ্ড Dessinence ; ! the cheek ;  a tumour
+গণ্ড Dessinence ; ! the cheek ; a tumour
 গণ্ডক Dessinence ; ! the rhinoceros ; an obstacle
 গণ্ডকূপ Dessinence ; ! a dimple on the cheek ; a valley
 গণ্ডগোল Dessinence ; ! riot ; uproar
@@ -7040,7 +7040,7 @@ LEXICON NounStem
 গন্ধর্ববিদ্যা Dessinence ; ! the science and art of music
 গন্ধর্ববেদ Dessinence ; ! the treatise on music ; the science of music
 গন্ধসার Dessinence ; ! sandal tree
-গন্ধী Dessinence ; ! a dealer in spices ;  a flying bug
+গন্ধী Dessinence ; ! a dealer in spices ; a flying bug
 গন্ধেন্দ্রিয় Dessinence ; ! the organ of smell
 গন্ধোপজীবী Dessinence ; ! a dealer in spices
 গপ্প Dessinence ; ! Story ; tale
@@ -7162,7 +7162,7 @@ LEXICON NounStem
 গল্প- Dessinence ; ! a story ; a tale
 গল্পকার Dessinence ; ! a storywriter ; a story teller
 গল্ফ Dessinence ; ! golf
-গস্ত Dessinence ; ! act of walking or travelling ;  shopping
+গস্ত Dessinence ; ! act of walking or travelling ; shopping
 গস্তানি Dessinence ; ! a harlot
 গহনা Dessinence ; ! a stage-boat
 গহনাগাটি Dessinence ; ! ornaments and other valuables
@@ -7251,7 +7251,7 @@ LEXICON NounStem
 গানা Dessinence ; ! Ghana
 গান্ধার Dessinence ; ! an ancient name of Kandahar
 গান্ধি Dessinence ; ! a kind of cornfly ; a fly ing bug
-গান্ধিবাদ Dessinence ; ! the  doctrine of Mahatma Gandhi
+গান্ধিবাদ Dessinence ; ! the doctrine of Mahatma Gandhi
 গাফিলতি Dessinence ; ! Carelessness ; indolence
 গাফিলি Dessinence ; ! negligence. neglect ; inattention, heedlessness
 গাব Dessinence ; ! a kind of tree
@@ -7336,7 +7336,7 @@ LEXICON NounStem
 গীত Dessinence ; ! a song
 গীতবাদ্য Dessinence ; ! vocal and instrumental music
 গীতলতা Dessinence ; ! lyricism
-গীতা Dessinence ; ! the  Gita ; a famous Hindu scripture
+গীতা Dessinence ; ! the Gita ; a famous Hindu scripture
 গীতি Dessinence ; ! a song ; a hymn
 গীতিকবি Dessinence ; ! lyrist
 গীতিকবিতা Dessinence ; ! a lyric poem, a lyric
@@ -7523,7 +7523,7 @@ LEXICON NounStem
 গৃহকর্ম Dessinence ; ! Domestic duties ; household work
 গৃহকোণ Dessinence ; ! the inside of one's home ; the corner of a house
 গৃহগোধিকা Dessinence ; ! the lizard
-গৃহচ্ছিদ্র Dessinence ; ! a  discord in a family ; the weak point of a family
+গৃহচ্ছিদ্র Dessinence ; ! a discord in a family ; the weak point of a family
 গৃহতল Dessinence ; ! the floor of a room
 গৃহত্যাগ Dessinence ; ! quitting a house or one's home ; adoption of asceticism
 গৃহত্যাগী Dessinence ; ! one who has adopted asceticism
@@ -7665,7 +7665,7 @@ LEXICON NounStem
 গোপিকা Dessinence ; ! a milkmaid
 গোপিকামোহন Dessinence ; ! one who has charmed the milkmaids
 গোপুচ্ছ Dessinence ; ! the tail of a cow
-গোপুর Dessinence ; ! a gate  of a temple ; a portal of a city
+গোপুর Dessinence ; ! a gate of a temple ; a portal of a city
 গোপুরীষ Dessinence ; ! cow-dung
 গোপ্তা Dessinence ; ! a guard ; a custodian
 গোবত্স Dessinence ; ! the young of a cow
@@ -7728,7 +7728,7 @@ LEXICON NounStem
 গোলমরিচ Dessinence ; ! black pepper
 গোলমাল Dessinence ; ! confusion, disturbance, chaos ; din and bustle
 গোলযোগ Dessinence ; ! Loud noise ; tumult
-গোলরক্ষক Dessinence ; ! a goal-keeper,  a goalie
+গোলরক্ষক Dessinence ; ! a goal-keeper, a goalie
 গোলা Dessinence ; ! a wicker corn-bin ; a warehouse
 গোলাগুলি Dessinence ; ! cannon-balls and bullets
 গোলাপ Dessinence ; ! the rose ; rose-water
@@ -7839,15 +7839,15 @@ LEXICON NounStem
 গ্রামণী Dessinence ; ! a village headman
 গ্রামধর্ম Dessinence ; ! sexual inter course
 গ্রামবাসী Dessinence ; ! a villager, a village-dweller
-গ্রামমৃগ Dessinence ; ! a  dog
+গ্রামমৃগ Dessinence ; ! a dog
 গ্রামাধ্যক্ষ Dessinence ; ! a village headman
 গ্রামান্ত Dessinence ; ! outskirts of a village ; the border of a village
 গ্রামান্তর Dessinence ; ! another village
 গ্রামোফোন Dessinence ; ! a gramophone, a record player
 গ্রাম্যতা Dessinence ; ! rusticity ; vulgarity
-গ্রাম্যধর্ম Dessinence ; ! sexual intercourse  with one's wife
-গ্রাম্যমৃগ Dessinence ; ! a  dog
-গ্রাস Dessinence ; ! a mouthful, a morsel ;  a gape
+গ্রাম্যধর্ম Dessinence ; ! sexual intercourse with one's wife
+গ্রাম্যমৃগ Dessinence ; ! a dog
+গ্রাস Dessinence ; ! a mouthful, a morsel ; a gape
 গ্রাসাচ্ছাদন Dessinence ; ! food and clothing ; subsistence
 গ্রাহ Dessinence ; ! act of taking or receiving ; seizure
 গ্রাহক Dessinence ; ! a recipient ; a buyer, subscriber
@@ -7962,7 +7962,7 @@ LEXICON NounStem
 ঘষাঘষি Dessinence ; ! repeated or mutual friction ; repeated so licitation or endeavour
 ঘষামাজা Dessinence ; ! correction and brushing up ; act of scouring
 ঘা Dessinence ; ! a stroke ; a wound
-ঘাই Dessinence ; ! a  stroke or blow
+ঘাই Dessinence ; ! a stroke or blow
 ঘাঁটা Dessinence ; ! a corn
 ঘাঁটাঘাটি Dessinence ; ! String
 ঘাঁটি Dessinence ; ! a watch-post ; an outpost
@@ -7970,9 +7970,9 @@ LEXICON NounStem
 ঘাকতক Dessinence ; ! a good number of blows
 ঘাঘর Dessinence ; ! a pair of cymbals
 ঘা-ঘো Dessinence ; ! . wounds, injuries ; cuts and blows
-ঘাট Dessinence ; ! a landing-stage  a ghat ; a reed,  a bridge
+ঘাট Dessinence ; ! a landing-stage a ghat ; a reed, a bridge
 ঘাটওয়াল Dessinence ; ! a wharfinger ; a guard of an outpost
-ঘাটকামান Dessinence ; ! the practice  of shaving head
+ঘাটকামান Dessinence ; ! the practice of shaving head
 ঘাটতি Dessinence ; ! shortage, shortfall, deficit ; fault, flaw, defect
 ঘাটমাঝি Dessinence ; ! a ferryman
 ঘাটি Dessinence ; ! Crime ; fault
@@ -8164,7 +8164,7 @@ LEXICON NounStem
 চট Dessinence ; ! a coarse cloth made of jute ; jute
 চটক Dessinence ; ! fascinating or spectacular show ; glamour
 চটকা Dessinence ; ! drowsiness ; mental abstraction, reverie
-চটকানি Dessinence ; ! kneading ; rough handling,  manhandling
+চটকানি Dessinence ; ! kneading ; rough handling, manhandling
 চটা Dessinence ; ! a thin slip of bamboo-wood ; a lath, a splinter
 চটাচটি Dessinence ; ! a bickering ; a tiff
 চটি Dessinence ; ! a tavern, an inn
@@ -8193,7 +8193,7 @@ LEXICON NounStem
 চণ্ডীমণ্ডপ Dessinence ; ! a shrine including its raised vestibule
 চণ্ডু Dessinence ; ! an intoxicating preparation from opium
 চতুঃ Dessinence ; ! four
-চতুরঙ্গ Dessinence ; ! cavalry ; a form of  music
+চতুরঙ্গ Dessinence ; ! cavalry ; a form of music
 চতুরতা Dessinence ; ! intelligence ; dexterity
 চতুরশীতি Dessinence ; ! eighty-four
 চতুরশ্ব Dessinence ; ! four horses
@@ -8288,7 +8288,7 @@ LEXICON NounStem
 চয় Dessinence ; ! assemblage ; multitude
 চয়ন Dessinence ; ! act of collecting or plucking ; a number collected or plucked
 চয়ন Dessinence ; ! Gathering ; collecting
-চয়নিকা Dessinence ; ! a small collection ;  an anthology
+চয়নিকা Dessinence ; ! a small collection ; an anthology
 চর Dessinence ; ! a secret emissary ; a spy
 চরকি Dessinence ; ! a rotating firework, a Catherine-wheel ; a Ferris wheel
 চরণ Dessinence ; ! a foot ; ambulation
@@ -8299,7 +8299,7 @@ LEXICON NounStem
 চরণদাসী Dessinence ; ! a devoted wife
 চরণধূলি Dessinence ; ! the dust of one's feet
 চরণপদ্ম Dessinence ; ! a foot fancied as a lotus ; a beautiful or divine foot
-চরণবন্দনা Dessinence ; ! act of worshipping one's feet ;  genuflection
+চরণবন্দনা Dessinence ; ! act of worshipping one's feet ; genuflection
 চরণযুগল Dessinence ; ! both the feet ; a pair of feet
 চরণরেণু Dessinence ; ! the dust of one's feet
 চরণসেবা Dessinence ; ! act of worshipping one's feet
@@ -8348,7 +8348,7 @@ LEXICON NounStem
 চর্যা Dessinence ; ! practice or observance ; observance of rules or routine
 চল Dessinence ; ! currency, vogue, fashion ; variable
 চলচিত্ততা Dessinence ; ! fickle-mindedness
-চলচ্চিত্র Dessinence ; ! cinematograph, cinema ; a cinematograph film,  movie
+চলচ্চিত্র Dessinence ; ! cinematograph, cinema ; a cinematograph film, movie
 চলচ্চিত্রবিদ্যা Dessinence ; ! cinematography
 চলন Dessinence ; ! gait ; motion
 চলনশক্তি Dessinence ; ! power of moving, motion
@@ -8475,7 +8475,7 @@ LEXICON NounStem
 চারক Dessinence ; ! one who tends or grazes
 চারখানা Dessinence ; ! Four pieces
 চারচালা Dessinence ; ! a house having such a roof
-চারটা Dessinence ; ! four.  four o'clock
+চারটা Dessinence ; ! four. four o'clock
 চারটে Dessinence ; ! four o'clock
 চারণ Dessinence ; ! act of moving
 চারণগান Dessinence ; ! song of the minstrel
@@ -8484,7 +8484,7 @@ LEXICON NounStem
 চারদিক Dessinence ; ! four directions or sides or quarters
 চারপাই Dessinence ; ! a kind of four-legged cot
 চারপাশ Dessinence ; ! Four sides ; all directions
-চারসন্ধ্যা Dessinence ; ! four evenings ;  namely
+চারসন্ধ্যা Dessinence ; ! four evenings ; namely
 চারা Dessinence ; ! a young plant, a sapling ; a young fish, a spawn
 চারাগাছ Dessinence ; ! plant ; sapling
 চারি Dessinence ; ! Four
@@ -8612,7 +8612,7 @@ LEXICON NounStem
 চিত্রনাট্যকার Dessinence ; ! a scenarist
 চিত্রনৈপুন্য Dessinence ; ! skill in painting
 চিত্রপট Dessinence ; ! Painting ; picture
-চিত্রপ়ট Dessinence ; ! a  canvas ; a plate or canvas
+চিত্রপ়ট Dessinence ; ! a canvas ; a plate or canvas
 চিত্রপুত্তলিকা Dessinence ; ! a painted image or puppet
 চিত্রফলক Dessinence ; ! a plate with a painting ; a plate for painting
 চিত্রবিদ্যা Dessinence ; ! the art and science of painting
@@ -8664,7 +8664,7 @@ LEXICON NounStem
 চিরাই Dessinence ; ! act of hewing or sawing
 চিরাগ Dessinence ; ! Lamp
 চিরুনি Dessinence ; ! Comb ; carding instrument
-চিরুুনি Dessinence ; ! a comb ;  a card
+চিরুুনি Dessinence ; ! a comb ; a card
 চিল Dessinence ; ! a kind of rapacious bird
 চিলমচি Dessinence ; ! a wash-basin
 চিলা Dessinence ; ! attic
@@ -8784,7 +8784,7 @@ LEXICON NounStem
 চোর Dessinence ; ! thief ; lifter
 চৈতন্য Dessinence ; ! consciousness ; sensibility
 চৈতন্যোদয় Dessinence ; ! dawning of consciousness ; spiritual awakening
-চৈতালি Dessinence ; ! vernal breeze ;  vernal emotion or passion
+চৈতালি Dessinence ; ! vernal breeze ; vernal emotion or passion
 চৈত্য Dessinence ; ! a place of worship or sacrifice
 চোঁচ Dessinence ; ! bamboo etc
 চোক Dessinence ; ! one-fourth of a kahan ; one-fourth of anything
@@ -8804,7 +8804,7 @@ LEXICON NounStem
 চোয়াড় Dessinence ; ! an unmannerly or rude person ; a rough, a rowdy
 চোয়াল Dessinence ; ! the jawbone ; the jaw, the chap
 চোয়াল Dessinence ; ! Jaw
-˜চোর Dessinence ; ! one who steals  cream ; an appellation of  Krishna
+˜চোর Dessinence ; ! one who steals cream ; an appellation of Krishna
 চোর Dessinence ; ! a thief ; a pilferer
 চোরকাঁটা Dessinence ; ! bur
 চোরকুঠুরি Dessinence ; ! a secret chamber
@@ -8865,7 +8865,7 @@ LEXICON NounStem
 ছক Dessinence ; ! a check of a checker-board ; a checker-board
 ছককাগজ Dessinence ; ! squared paper ; graph paper
 ছকড়া-নকড়া Dessinence ; ! utter disregard or neglect ; utter waste or wasteful ness
-ছক্কা Dessinence ; ! The six of  a card ; stew
+ছক্কা Dessinence ; ! The six of a card ; stew
 ছক্কাই-পাঞ্জাই Dessinence ; ! tall talk
 ছটফটানি Dessinence ; ! restlessness ; fidgetiness
 ছটরা Dessinence ; ! a small bullet ; a grapeshot
@@ -9026,7 +9026,7 @@ LEXICON NounStem
 ছিপি Dessinence ; ! a cork, a stopper
 ছিলমচি Dessinence ; ! the chillum holder
 ছিলা Dessinence ; ! a bowstring ; fringe of a piece of cloth
-ছিলিম Dessinence ; ! the bowl of a hookah ;  chillumful
+ছিলিম Dessinence ; ! the bowl of a hookah ; chillumful
 ছুঁচ Dessinence ; ! Needle
 ছুঁচো Dessinence ; ! the mole, the musk-rat ; a mean person
 ছুঁচোবাজি Dessinence ; ! a squib
@@ -9138,7 +9138,7 @@ LEXICON NounStem
 জগন্নাথ Dessinence ; ! the Supreme Lord of the world ; an appellation of Krishna
 জগন্নাথক্ষেত্র Dessinence ; ! the domain of Jagannath, Puri
 জগন্নিবাস Dessinence ; ! God
-জগন্মন্ডল Dessinence ; ! the  world ; the whole universe
+জগন্মন্ডল Dessinence ; ! the world ; the whole universe
 জগন্ময় Dessinence ; ! God
 জগন্মাতা Dessinence ; ! fem the Mother of the world
 জগবন্ধু Dessinence ; ! Friend of the world ; God
@@ -9213,7 +9213,7 @@ LEXICON NounStem
 জননাশৌচ Dessinence ; ! impurities or unholy state
 জননী Dessinence ; ! mother, a progenitrix
 জননেতা Dessinence ; ! leader ; tribune
-জননেন্দ্রিয় Dessinence ; ! a reproductive  organ
+জননেন্দ্রিয় Dessinence ; ! a reproductive organ
 জনপথ Dessinence ; ! public thoroughfare
 জনপদ Dessinence ; ! a settlement
 জনপদবধূ Dessinence ; ! a prostitute, a whore
@@ -9317,7 +9317,7 @@ LEXICON NounStem
 জয়ত্রী Dessinence ; ! the aril of the nutmeg
 জয়ত্রী Dessinence ; ! Mace
 জয়দুর্গা Dessinence ; ! a manifestation of Goddess Durga
-জয়ধ্বনি Dessinence ; ! peals of victory ;  huzza
+জয়ধ্বনি Dessinence ; ! peals of victory ; huzza
 জয়ধ্বনি Dessinence ; ! Shout or cry of victory
 জয়ন্তী Dessinence ; ! jubilee
 জয়পরাজয় Dessinence ; ! victory and defeat ; success and failure
@@ -9707,7 +9707,7 @@ LEXICON NounStem
 জীবনীশক্তি Dessinence ; ! vitality
 জীবনোত্সর্গ Dessinence ; ! sacrifice of one's life
 জীবনোপায় Dessinence ; ! means of livelihood or subsistence
-জীবন্মুক্তি Dessinence ; ! freedom  in the living state
+জীবন্মুক্তি Dessinence ; ! freedom in the living state
 জীববলি Dessinence ; ! animal sacrifice
 জীববিদ্যা Dessinence ; ! biology
 জীবসংক্রমণ Dessinence ; ! metempsychosis, transmigration
@@ -9800,7 +9800,7 @@ LEXICON NounStem
 জো Dessinence ; ! an opportunity
 জোঁক Dessinence ; ! the leech
 জোগাড় Dessinence ; ! procurement ; obtaining, securing
-জোগাড়যন্ত্র Dessinence ; ! preparations including procurement of necessary things ;  preparations and arrangements
+জোগাড়যন্ত্র Dessinence ; ! preparations including procurement of necessary things ; preparations and arrangements
 জোগাড়িয়া Dessinence ; ! procurement ; obtaining
 জোগান Dessinence ; ! supply, purveyance ; finding, supply
 জোগানদার Dessinence ; ! a supplier, a purveyor ; an assistant, a helper
@@ -9816,7 +9816,7 @@ LEXICON NounStem
 জোড়া Dessinence ; ! a pair, a couple ; one of a pair or couple
 জোড়াতালি Dessinence ; ! a patchwork
 জোড়াতালি Dessinence ; ! Patchwork ; piece of work clumsily done
-জোত Dessinence ; ! agricultural land or property ;  a farm
+জোত Dessinence ; ! agricultural land or property ; a farm
 জোতজমা Dessinence ; ! landed property
 জোতদার Dessinence ; ! a big and rich farmer ; a landlord
 জোনাকি Dessinence ; ! the firefly, the glow-worm
@@ -9862,7 +9862,7 @@ LEXICON NounStem
 জ্ঞানেন্দ্রিয় Dessinence ; ! sense-organ
 জ্ঞানোদয় Dessinence ; ! the first infusion of knowledge
 জ্ঞানোন্নতি Dessinence ; ! the development or progress of knowledge
-জ্ঞাপন Dessinence ; ! act of informing or intimating ;  expression
+জ্ঞাপন Dessinence ; ! act of informing or intimating ; expression
 জ্ঞাপনপত্র Dessinence ; ! a bulletin
 জ্বর Dessinence ; ! fever
 জ্বরজ্বালা Dessinence ; ! fever and other allied ailments
@@ -9894,11 +9894,11 @@ LEXICON NounStem
 জ্যেষ্ঠাধিকার Dessinence ; ! primogeniture
 জ্যোতি Dessinence ; ! light ; lustre, glow
 জ্যোতিঃশাস্ত্র Dessinence ; ! astronomy
-জ্যোতিঃস্রোত Dessinence ; ! a stream of  light
+জ্যোতিঃস্রোত Dessinence ; ! a stream of light
 জ্যোতির্বিদ Dessinence ; ! an astronomer ; an astrologer
 জ্যোতির্বিদ্যা Dessinence ; ! astronomy ; astrology
 জ্যোতির্মণ্ডল Dessinence ; ! the luminous or celestial sphere ; stars and planets collectively
-জ্যোতিশ্চক্র Dessinence ; ! the  zodiac ; a halo
+জ্যোতিশ্চক্র Dessinence ; ! the zodiac ; a halo
 জ্যোতিষ Dessinence ; ! astronomy ; astrology
 জ্যোতিষী Dessinence ; ! an astronomer ; an astrologer
 জ্যোতিষ্ক Dessinence ; ! any of the stars or planets
@@ -10111,7 +10111,7 @@ LEXICON NounStem
 টালি Dessinence ; ! tile
 টিউটর Dessinence ; ! Tutor
 টিউশনি Dessinence ; ! tuition ; the profession of a private tutor
-টিক Dessinence ; ! light sound , tick ;  figures etc
+টিক Dessinence ; ! light sound , tick ; figures etc
 টিকটিক Dessinence ; ! ticking sound , tick tock
 টিকটিকি Dessinence ; ! a detective ; a sleuth, a nark
 টিকলি Dessinence ; ! a small piece ; an ornament for the head
@@ -10139,7 +10139,7 @@ LEXICON NounStem
 টিপাটিপি Dessinence ; ! Mutual massaging of the body ; significant hint by poking or nudging
 টিপ্পনি Dessinence ; ! glossary ; annotation
 টিপ্পনী Dessinence ; ! a comment, a gloss ; a commentary, a glossary
-টিফিন Dessinence ; ! a light repast, tiffin ;  tiffin break
+টিফিন Dessinence ; ! a light repast, tiffin ; tiffin break
 টিবি Dessinence ; ! tuberculosis
 টিভি Dessinence ; ! tv
 টিয়া Dessinence ; ! a species of parrot
@@ -10233,9 +10233,9 @@ LEXICON NounStem
 ঠাকুর Dessinence ; ! a god
 ঠাকুরজামাই Dessinence ; ! a brother-in-law
 ঠাকুরঝি Dessinence ; ! a sister of one's husband
-ঠাকুরদাদা Dessinence ; ! a  grandfather or granduncle
+ঠাকুরদাদা Dessinence ; ! a grandfather or granduncle
 ঠাকুরপো Dessinence ; ! a younger brother of one's husband
-ঠাকুরমা Dessinence ; ! a  grandmother or grandaunt
+ঠাকুরমা Dessinence ; ! a grandmother or grandaunt
 ঠাকুরাল Dessinence ; ! authority, rule ; supremacy, predominance
 ঠাট Dessinence ; ! outward look or show ; a framework
 ঠাট-ঠমক Dessinence ; ! outward show of glamour ; deceptive show
@@ -10244,7 +10244,7 @@ LEXICON NounStem
 ঠাট্টাইয়ার্কি Dessinence ; ! light raillery
 ঠাট্টাবাজ Dessinence ; ! a wag
 ঠান Dessinence ; ! a respect able woman
-ঠানদি Dessinence ; ! a  grandmother or grandaunt
+ঠানদি Dessinence ; ! a grandmother or grandaunt
 ঠান্ডা Dessinence ; ! cold ; chill
 ঠান্ডা-লড়াই Dessinence ; ! cold war
 ঠাম Dessinence ; ! a place, a resort ; possession or company
@@ -10260,7 +10260,7 @@ LEXICON NounStem
 ঠিকানা Dessinence ; ! an address ; one's fixed residence
 ঠিকুজি Dessinence ; ! Short horoscope
 ঠুকা Dessinence ; ! a knock or impact ; beating or thrashing
-ঠুকাঠুকি Dessinence ; ! repeated striking ; repeated  collision or quarrel
+ঠুকাঠুকি Dessinence ; ! repeated striking ; repeated collision or quarrel
 ঠুঙ্গি Dessinence ; ! a cornet
 ঠুনকো Dessinence ; ! milk fever
 ঠুমকি Dessinence ; ! a mode or posture of dancing
@@ -10422,7 +10422,7 @@ LEXICON NounStem
 ডোবা Dessinence ; ! a pit full of water ; a small pool of water
 ডোমকাক Dessinence ; ! the raven
 ডোমেইন Dessinence ; ! domain
-ডোর Dessinence ; ! a thread  to bind ; a tie or bondage
+ডোর Dessinence ; ! a thread to bind ; a tie or bondage
 ডোরকৌপীন Dessinence ; ! the dress of an ascetic
 ডোরা Dessinence ; ! a stripe, a streak
 ডোল Dessinence ; ! dole
@@ -10511,7 +10511,7 @@ LEXICON NounStem
 তটিনী Dessinence ; ! a river ; a stream
 তড়কা Dessinence ; ! a spasmodic fit . convulsion
 তড়বড়ানি Dessinence ; ! excessive hurry
-তড়াগ Dessinence ; ! a large  pond
+তড়াগ Dessinence ; ! a large pond
 তড়িচ্চুম্বক Dessinence ; ! electromagnet
 তড়িত্ Dessinence ; ! lightning ; electricity
 তড়িত্বান Dessinence ; ! thunder-cloud ; cloud
@@ -10556,7 +10556,7 @@ LEXICON NounStem
 তদন্তকারী Dessinence ; ! one who investigates
 তদবির Dessinence ; ! canvassing
 তদর্থ Dessinence ; ! the meaning of that
-তদারক Dessinence ; ! investigation ;  care
+তদারক Dessinence ; ! investigation ; care
 তদ্বিত Dessinence ; ! nominal inflexion
 তনখা Dessinence ; ! wage, salary, remuneration
 তনয় Dessinence ; ! a son. fem
@@ -10741,7 +10741,7 @@ LEXICON NounStem
 তাকিয়া Dessinence ; ! a dumpy bolster
 তাকিয়া Dessinence ; ! Large pillow ; bolster
 তাগা Dessinence ; ! an armlet
-তাগাড় Dessinence ; ! a  hod
+তাগাড় Dessinence ; ! a hod
 তাগাদা Dessinence ; ! reminder for payment, dunning ; demand
 তাগারি Dessinence ; ! a large trough, a vat
 তাগিদ Dessinence ; ! Urging forward ; reminder
@@ -10818,7 +10818,7 @@ LEXICON NounStem
 তামামি Dessinence ; ! end, termination
 তামাশা Dessinence ; ! an entertaining or amusing performance ; a fun
 তামিল Dessinence ; ! compliance, act of carrying out
-তাম্বুল Dessinence ; ! betel-leaf ;  catechu
+তাম্বুল Dessinence ; ! betel-leaf ; catechu
 তাম্বুলবল্লী Dessinence ; ! a betel creeper or plant
 তাম্বুলিক Dessinence ; ! a Hindu caste selling betel-leaves ; a member of this caste
 তাম্র Dessinence ; ! copper
@@ -10849,12 +10849,12 @@ LEXICON NounStem
 তারতম্য Dessinence ; ! state of being more or less ; difference
 তারপলিন Dessinence ; ! tarpaulin
 তারপিন Dessinence ; ! turpentine, terebinth
-তারবার্তা Dessinence ; ! a telegram,  a wire
+তারবার্তা Dessinence ; ! a telegram, a wire
 তারযন্ত্র Dessinence ; ! a stringed musical instrument
 তারল্য Dessinence ; ! liquidity, fluidity, wateriness ; thinness
 তারসপ্তক Dessinence ; ! the major E-scale
 তারস্বর Dessinence ; ! a very loud voice
-তারা Dessinence ; ! the major E-scale,  tenor ; a star
+তারা Dessinence ; ! the major E-scale, tenor ; a star
 তারাচন্দ্র Dessinence ; ! the lord or husband of stars ; an appellation of the moon
 তারানাথ Dessinence ; ! Lord of the stellar world
 তারাপতন Dessinence ; ! the fall of a meteor
@@ -10961,7 +10961,7 @@ LEXICON NounStem
 তুঁতে Dessinence ; ! Copper sulphate ; blue vitriol or sulphate of copper
 তুক Dessinence ; ! occult method of charming ; a magical incantation of enchatment
 তুকতাক Dessinence ; ! occult methods and incantations of enchantment
-তুক্ক Dessinence ; ! an arrow without a barb  ; part of a kirtan song
+তুক্ক Dessinence ; ! an arrow without a barb ; part of a kirtan song
 তুঘলকি Dessinence ; ! wayward or whimsical ways and activities
 তুচ্ছতা Dessinence ; ! insignificance ; scantiness
 তুচ্ছতাচ্ছিল্য Dessinence ; ! contemptuous or neglectful treatment, neglect ; contempt
@@ -10977,10 +10977,10 @@ LEXICON NounStem
 তুম্ব Dessinence ; ! the gourd
 তুরক Dessinence ; ! a Turk ; a Mohammedan
 তুরগ Dessinence ; ! the horse. fem
-তুরপুন Dessinence ; ! a  drill
+তুরপুন Dessinence ; ! a drill
 তুরস্ক Dessinence ; ! turkey
 তুরস্কমণি Dessinence ; ! turquoise
-তুরি Dessinence ; ! a  shuttle ; a horn sounded in war
+তুরি Dessinence ; ! a shuttle ; a horn sounded in war
 তুরীয় Dessinence ; ! the Supreme Being
 তুরীয়ানন্দ Dessinence ; ! state of being beside oneself
 তুরুপ Dessinence ; ! act of trumping or ruffing ; a trump-card, a trump
@@ -11011,7 +11011,7 @@ LEXICON NounStem
 তুল্যাকৃতি Dessinence ; ! similar appearance or shape
 তুল্যাঙ্ক Dessinence ; ! equivalent
 তুষ Dessinence ; ! husk, chaff, bran
-তুষানল Dessinence ; ! inextinguishable  fire of affliction
+তুষানল Dessinence ; ! inextinguishable fire of affliction
 তুষার Dessinence ; ! snow ; frost
 তুষারকণা Dessinence ; ! frost
 তুষারকর Dessinence ; ! camphor ; the moon
@@ -11165,7 +11165,7 @@ LEXICON NounStem
 ত্রয়োদশী Dessinence ; ! a girl of thirteen
 ত্রয়োবিংশতি Dessinence ; ! twenty-three
 ত্রসন Dessinence ; ! fright, alarm ; panic
-ত্রসর Dessinence ; ! a  shuttle
+ত্রসর Dessinence ; ! a shuttle
 ত্রাণ Dessinence ; ! relief
 ত্রাণকর্তা Dessinence ; ! a saviour
 ত্রাণকর্ত্রী Dessinence ; ! : a saviour
@@ -11198,7 +11198,7 @@ LEXICON NounStem
 ত্রিধারা Dessinence ; ! a river with three streams ; a three-pronged river
 ত্রিনবতি Dessinence ; ! ninety-three
 ত্রিনয়ন Dessinence ; ! an appellation of Shiva
-ত্রিনাথ Dessinence ; ! God Shiva  ; the presiding deity of hemp
+ত্রিনাথ Dessinence ; ! God Shiva ; the presiding deity of hemp
 ত্রিপঞ্চাশত্ Dessinence ; ! fifty-three. fem
 ত্রিপত্র Dessinence ; ! a trefoil ; a leaf of the bel tree
 ত্রিপদ Dessinence ; ! a tripod
@@ -11214,8 +11214,8 @@ LEXICON NounStem
 ত্রিবেণী Dessinence ; ! Three braids of hair
 ত্রিবেদী Dessinence ; ! namely
 ত্রিভুজ Dessinence ; ! a triangle
-ত্রিভূবন Dessinence ; ! heaven ; the  universe
-ত্রিমুর্তি Dessinence ; ! the Hindu trinity: Brahma  ; a trio
+ত্রিভূবন Dessinence ; ! heaven ; the universe
+ত্রিমুর্তি Dessinence ; ! the Hindu trinity: Brahma ; a trio
 ত্রিযামা Dessinence ; ! night
 ত্রিরত্ন Dessinence ; ! Buddha ; three precious persons
 ত্রিশ Dessinence ; ! Thirty
@@ -11275,7 +11275,7 @@ LEXICON NounStem
 থোঁতা Dessinence ; ! the chin
 থোক Dessinence ; ! a net amount ; an aggregate
 থোকা Dessinence ; ! a bunch, a cluster ; a bundle
-থোড়-বড়ি-খাড়া Dessinence ; ! hackneyed monotony ;  truism
+থোড়-বড়ি-খাড়া Dessinence ; ! hackneyed monotony ; truism
 থোপা Dessinence ; ! a bunch
 দ Dessinence ; ! abyss ; deep pool of tank
 দই Dessinence ; ! curdled milk, curd
@@ -11439,7 +11439,7 @@ LEXICON NounStem
 দর্শন Dessinence ; ! seeing or noticing or viewing ; observation
 দর্শনদারি Dessinence ; ! consideration of outward show or beauty
 দর্শনশাস্ত্র Dessinence ; ! Philosophy
-দর্শনী Dessinence ; ! a physician's fee ;  theatre
+দর্শনী Dessinence ; ! a physician's fee ; theatre
 দর্শনেন্দ্রিয় Dessinence ; ! the sense of sight ; the visual organ
 দর্শয়িতা Dessinence ; ! an exhibitor
 দল Dessinence ; ! team
@@ -11481,7 +11481,7 @@ LEXICON NounStem
 দশানন Dessinence ; ! a ten-headed being
 দশাবতার Dessinence ; ! the ten incarnations of Vishnu
 দশাশ্ব Dessinence ; ! an appellation of the moon
-দশাশ্বমেধ Dessinence ; ! ten performances  of the horse-sacrifice
+দশাশ্বমেধ Dessinence ; ! ten performances of the horse-sacrifice
 দশাহ Dessinence ; ! ten days at a stretch
 দশি Dessinence ; ! a wick thus made
 দস্তক Dessinence ; ! a summons, a warrant ; a permit
@@ -11510,7 +11510,7 @@ LEXICON NounStem
 দাওয়াত Dessinence ; ! an invitation ; a feast
 দাঁ Dessinence ; ! Fluke ; opportunity
 দাঁও Dessinence ; ! an opportunity, a chance ; a fluke
-দাঁড় Dessinence ; ! an oar ;  a perch
+দাঁড় Dessinence ; ! an oar ; a perch
 দাঁড় Dessinence ; ! Oar ; paddle
 দাঁড়কাক Dessinence ; ! the raven
 দাঁড়কাক Dessinence ; ! Raven ; rook
@@ -11550,9 +11550,9 @@ LEXICON NounStem
 দাদখানি Dessinence ; ! a variety of superfine rice
 দাদন Dessinence ; ! Advance of money ; earnest money
 দাদরা Dessinence ; ! an Indian musical measure
-দাদা Dessinence ; ! an elder brother or cousin brother ; a  grandfather
+দাদা Dessinence ; ! an elder brother or cousin brother ; a grandfather
 দাদাঠাকুর Dessinence ; ! a Brahmin
-দাদামশায় Dessinence ; ! a maternal  grandfather
+দাদামশায় Dessinence ; ! a maternal grandfather
 দাদাশ্বশুর Dessinence ; ! a grandfather-in-law or grand-uncle-in-law
 দাদি Dessinence ; ! a paternal grand mother
 দাদী Dessinence ; ! Grandmother
@@ -11678,7 +11678,7 @@ LEXICON NounStem
 দিগ্দর্শী Dessinence ; ! a compass ; a mariner's com pass
 দিগ্দিগন্ত Dessinence ; ! all regions or places
 দিগ্বলয় Dessinence ; ! the horizon
-দিগ্বিজয় Dessinence ; ! conquest of  the world
+দিগ্বিজয় Dessinence ; ! conquest of the world
 দিগ্বিজয়ী Dessinence ; ! a world-conquerer
 দিগ্বিদিক Dessinence ; ! all quarters ; all regions or places
 দিগ্বিন্দু Dessinence ; ! a cardinal point
@@ -11773,8 +11773,8 @@ LEXICON NounStem
 দীপশিখা Dessinence ; ! the flame of a lamp
 দীপাগার Dessinence ; ! the lighthouse
 দীপাধার Dessinence ; ! a lampstand, a lampad
-দীপান্বিতা Dessinence ; ! :furnished with a  lamp
-দীপাবলি Dessinence ; ! a collection of  lamps ; the festival of
+দীপান্বিতা Dessinence ; ! :furnished with a lamp
+দীপাবলি Dessinence ; ! a collection of lamps ; the festival of
 দীপাবলী Dessinence ; ! Row of lamps
 দীপালি Dessinence ; ! Row of lights or lamps ; Dewali
 দীপালী Dessinence ; ! Row of lights or lamps ; Dewali
@@ -12035,7 +12035,7 @@ LEXICON NounStem
 দেনাদার Dessinence ; ! a debtor ; a bor rower
 দেনা-পাওনা Dessinence ; ! as sets and liabilities
 দেব Dessinence ; ! God ; deity
-দেবকার্য Dessinence ; ! a divine mission ;  religious worship
+দেবকার্য Dessinence ; ! a divine mission ; religious worship
 দেবকাষ্ঠ Dessinence ; ! deodar
 দেবকুল Dessinence ; ! a temple, a shrine ; the race of gods
 দেবকৃপা Dessinence ; ! di vine grace
@@ -12091,7 +12091,7 @@ LEXICON NounStem
 দেবে Dessinence ; ! give
 দেবেন্দ্র Dessinence ; ! the lord or king of gods ; an appellation of Indra
 দেবেশ Dessinence ; ! the god of gods ; an appellation of Shiva
-দেবোদ্যান Dessinence ; ! a heavenly garden, ;  a holy garden
+দেবোদ্যান Dessinence ; ! a heavenly garden, ; a holy garden
 দেবোপাসনা Dessinence ; ! worship of a god or gods ; religious worship
 দেব্যা Dessinence ; ! a goddess
 দেমাক Dessinence ; ! self-conceit, vanity, amour propre ; haughtiness, arrogance
@@ -12200,7 +12200,7 @@ LEXICON NounStem
 দোকানপাট Dessinence ; ! a shop and its commodities
 দোকানি Dessinence ; ! a shopkeeper
 দোকানে Dessinence ; ! storeroom
-দোক্তা Dessinence ; ! dried tobacco-leaf  for chewing
+দোক্তা Dessinence ; ! dried tobacco-leaf for chewing
 দোগ্ধা Dessinence ; ! one who milks
 দোচালা Dessinence ; ! Thatched hut with two slanting roofs ; roof sloping in either direction
 দোজখ Dessinence ; ! hell, inferno
@@ -12291,7 +12291,7 @@ LEXICON NounStem
 দ্বিগু Dessinence ; ! a system of forming numerative compounds
 দ্বিঘাত Dessinence ; ! quadratic
 দ্বিচক্রযান Dessinence ; ! a two-wheeler ; a bicycle
-দ্বিজ Dessinence ; ! a Brahman ;  an ant
+দ্বিজ Dessinence ; ! a Brahman ; an ant
 দ্বিজপতি Dessinence ; ! an excellent or distinguished Brahman
 দ্বিজাতি Dessinence ; ! Two nations
 দ্বিজাতিতত্ত্ব Dessinence ; ! the two-nation theory
@@ -12357,7 +12357,7 @@ LEXICON NounStem
 দ্যূত Dessinence ; ! dice-playing ; gambling
 দ্যোতন Dessinence ; ! indication
 দ্যোতনা Dessinence ; ! figurative expression ; implication
-দ্রংষ্ট্রা Dessinence ; ! a claw or prong or fang ; a large  tooth
+দ্রংষ্ট্রা Dessinence ; ! a claw or prong or fang ; a large tooth
 দ্রংষ্ট্রাঘাত Dessinence ; ! a bite or a sting
 দ্রংষ্ট্রায়ুধ Dessinence ; ! a wild boar
 দ্রঢ়িমা Dessinence ; ! hardness ; stiffness
@@ -12393,7 +12393,7 @@ LEXICON NounStem
 দ্রুমদল Dessinence ; ! leaves of trees
 দ্রোণ Dessinence ; ! the raven, the carrion-crow
 দ্রোণকাক Dessinence ; ! the raven, the carrion-crow
-দ্রোণি Dessinence ; ! a small  boat ; a dugout, a raft
+দ্রোণি Dessinence ; ! a small boat ; a dugout, a raft
 দ্রোহ Dessinence ; ! enmity, hostility ; malice
 ধকধকানি Dessinence ; ! loud and great throbbing or palpitation
 ধকল Dessinence ; ! stress, brunt, impact ; pressure of work
@@ -12427,7 +12427,7 @@ LEXICON NounStem
 ধনবিনিয়োগ Dessinence ; ! investment of money
 ধনবিভাগ Dessinence ; ! divison of money or wealth ; distribution or apportionment of property
 ধনভাগ্য Dessinence ; ! luck for earning money
-ধনভাণ্ডার Dessinence ; ! a treasury ; a  fund
+ধনভাণ্ডার Dessinence ; ! a treasury ; a fund
 ধনভান্ডার Dessinence ; ! Treasury ; treasure
 ধনমান Dessinence ; ! wealth and honour or dignity
 ধনরাশি Dessinence ; ! a positive quantity
@@ -12438,7 +12438,7 @@ LEXICON NounStem
 ধনসম্পত্তি Dessinence ; ! wealth and property
 ধনসম্পদ Dessinence ; ! Riches and chattels ; money and property
 ধনাগম Dessinence ; ! income, earning ; acquirement or acquisition of wealth
-ধনাগার Dessinence ; ! a treasury ; a  fund
+ধনাগার Dessinence ; ! a treasury ; a fund
 ধনাধার Dessinence ; ! a treasury ; a treasure-chest
 ধনাধিপ Dessinence ; ! the lord of wealth ; Kuvera
 ধনাধ্যক্ষ Dessinence ; ! a treasurer ; a finance minister
@@ -12455,7 +12455,7 @@ LEXICON NounStem
 ধনিয়া Dessinence ; ! Coriander seed
 ধনী Dessinence ; ! a rich man
 ধনু Dessinence ; ! a bow ; an arc or arch
-ধনুক Dessinence ; ! bow ;   a cottongin
+ধনুক Dessinence ; ! bow ; a cottongin
 ধনুকধারী Dessinence ; ! a bowman, an archer
 ধনুর্গুণ Dessinence ; ! a bow string
 ধনুর্ধর Dessinence ; ! an archer, a bowman ; a very capable or efficient man
@@ -12565,9 +12565,9 @@ LEXICON NounStem
 ধর্মযোদ্ধা Dessinence ; ! a crusader ; a holy warrior
 ধর্মরক্ষা Dessinence ; ! de fence of religion ; preservation of one's religion or piety
 ধর্মরাজ Dessinence ; ! the lord of justice
-ধর্মরাজ্য Dessinence ; ! a realm of justice ;  a holy state
+ধর্মরাজ্য Dessinence ; ! a realm of justice ; a holy state
 ধর্মরাষ্ট্র Dessinence ; ! a theocratic state
-ধর্মলোপ Dessinence ; ! profanation of one's religion ; ravishment of  chastity
+ধর্মলোপ Dessinence ; ! profanation of one's religion ; ravishment of chastity
 ধর্মশালা Dessinence ; ! a court of justice
 ধর্মশাসন Dessinence ; ! a religious or scriptural edict ; administration of justice
 ধর্মশাস্ত্র Dessinence ; ! scripture
@@ -12621,7 +12621,7 @@ LEXICON NounStem
 ধাক্কাধাক্কি Dessinence ; ! shoving ; elbowing
 ধাঙর Dessinence ; ! a sweeper
 ধাড়ি Dessinence ; ! fem a dam of beasts ; a mother of many children
-ধাত Dessinence ; ! mettle ;  humour
+ধাত Dessinence ; ! mettle ; humour
 ধাতা Dessinence ; ! God ; Brahma
 ধাতানি Dessinence ; ! a sound scolding ; reprimand
 ধাতু Dessinence ; ! a metal ; a mineral
@@ -12707,14 +12707,14 @@ LEXICON NounStem
 ধুনন Dessinence ; ! act of shaking ; a shake
 ধুনা Dessinence ; ! resin ; incense
 ধুনারি Dessinence ; ! a cotton-cleaner
-ধুনি Dessinence ; ! a  fire enkindled by ascetics
+ধুনি Dessinence ; ! a fire enkindled by ascetics
 ধুনুচি Dessinence ; ! censer ; thurible
 ধুন্দুল Dessinence ; ! zucchini
 ধুন্ধুমার Dessinence ; ! uproar, tumult ; a tumultuous orterrible affair
 ধুপ Dessinence ; ! sunlight, the sun
 ধুপচি Dessinence ; ! an incense-burner
 ধুপছায়া Dessinence ; ! peacock-blue ; light-and-shade colour
-ধুমড়ি Dessinence ; ! fem a corpulent  woman
+ধুমড়ি Dessinence ; ! fem a corpulent woman
 ধুমধাম Dessinence ; ! thud ; tumult
 ধুয়া Dessinence ; ! chorus ; refrain
 ধুয়া Dessinence ; ! Burden of a song ; refrain
@@ -12791,7 +12791,7 @@ LEXICON NounStem
 ধ্বস Dessinence ; ! avalanche
 ধ্বস্তাধ্বস্তি Dessinence ; ! Scuffle ; urging
 ধ্বান্ত Dessinence ; ! darkness, gloom
-ধ্বান্তারি Dessinence ; ! the sun ,  Sol
+ধ্বান্তারি Dessinence ; ! the sun , Sol
 ধ্যান Dessinence ; ! meditation ; absorbing religious meditation
 ধ্যানজ্ঞান Dessinence ; ! meditation and cognition ; sole occupation or ab sorption
 ধ্যানধারণা Dessinence ; ! meditation and impression ; idea
@@ -12831,7 +12831,7 @@ LEXICON NounStem
 নক্ররাজ Dessinence ; ! the shark
 নক্ষত্র Dessinence ; ! a star
 নক্ষত্রগতি Dessinence ; ! meteoric speed ; tremendous speed
-নক্ষত্রনাথ Dessinence ; ! the moon .  Luna
+নক্ষত্রনাথ Dessinence ; ! the moon . Luna
 নক্ষত্রপাত Dessinence ; ! fall of a meteor or meteorite
 নক্ষত্রপুঞ্জ Dessinence ; ! a group of stars
 নক্ষত্রবিজ্ঞান Dessinence ; ! the science of stars, astronomy
@@ -13202,7 +13202,7 @@ LEXICON NounStem
 নাভিলম্ব Dessinence ; ! latus rectum
 নাভিশ্বাস Dessinence ; ! the last gasp ; the dying state or stage
 নাম Dessinence ; ! name
-নামকরণ Dessinence ; ! act of giving a name to ;  christening
+নামকরণ Dessinence ; ! act of giving a name to ; christening
 নামকীর্তন Dessinence ; ! act of celebrating one's name ; act of praising esp. publicly
 নামগন্ধ Dessinence ; ! slightest mention or sign or trace
 নামডাক Dessinence ; ! fame and influence
@@ -13351,7 +13351,7 @@ LEXICON NounStem
 নিত্যলীলা Dessinence ; ! daily sports ; daily activities
 নিত্যসঙ্গী Dessinence ; ! a constant companion
 নিত্যসত্য Dessinence ; ! an eternal truth
-নিত্যসেবা Dessinence ; ! daily  worship
+নিত্যসেবা Dessinence ; ! daily worship
 নিত্যানন্দ Dessinence ; ! the chief religious associate of
 নিদর্শন Dessinence ; ! an instance ; a proof
 নিদর্শনপত্র Dessinence ; ! a testimonial ; an identity card
@@ -13406,7 +13406,7 @@ LEXICON NounStem
 নিবিড়তা Dessinence ; ! extreme closeness ; tightness
 নিবিড়তা Dessinence ; ! Thickness ; denseness
 নিবিষ্টতা Dessinence ; ! engrossment, absorbedness, concentration
-নিবীত Dessinence ; ! a cotton or linen scarf ;  or round his neck
+নিবীত Dessinence ; ! a cotton or linen scarf ; or round his neck
 নিবৃত্তি Dessinence ; ! desisting ; cessation, stop page
 নিবৃত্তিমার্গ Dessinence ; ! the path of renunciation
 নিবেদক Dessinence ; ! Petitioner ; applicant
@@ -13807,7 +13807,7 @@ LEXICON NounStem
 নেমি Dessinence ; ! circumference
 নেয়ামত Dessinence ; ! grace, God's grace ; favour
 নেয়ার Dessinence ; ! Broad and coarse tape
-নেশা Dessinence ; ! any intoxicating drug or liquor ; intoxication,  inebriation
+নেশা Dessinence ; ! any intoxicating drug or liquor ; intoxication, inebriation
 নেশাখোর Dessinence ; ! a drug-addict or a drunkard
 নেহ Dessinence ; ! affection ; love, fondling
 নৈকট্য Dessinence ; ! imminence ; proximity
@@ -13835,7 +13835,7 @@ LEXICON NounStem
 নোটখাতা Dessinence ; ! a note-book
 নোটবই Dessinence ; ! a note-book ; a commentary, a note
 নোটিস Dessinence ; ! a notice
-নোড়া Dessinence ; ! a pestle  a muller
+নোড়া Dessinence ; ! a pestle a muller
 নোনতা Dessinence ; ! salted snack
 নোনা Dessinence ; ! the custard-apple
 নোনাজল Dessinence ; ! seawater
@@ -14071,7 +14071,7 @@ LEXICON NounStem
 পতিত্ব Dessinence ; ! ownership ; overlordship
 পতি-পত্নী Dessinence ; ! husband and wife
 পতিবিয়োগ Dessinence ; ! death of one's husband
-পতিবিরহ Dessinence ; ! separation  from one's husband
+পতিবিরহ Dessinence ; ! separation from one's husband
 পতিসেবা Dessinence ; ! serving one's husband
 পত্তন Dessinence ; ! a city ; base, groundwork
 পত্তন-আরক্ষা Dessinence ; ! the port-police
@@ -14175,8 +14175,8 @@ LEXICON NounStem
 পদানুগমন Dessinence ; ! act of following one's footprints
 পদান্বয় Dessinence ; ! syntax ; parsing
 পদাবনতি Dessinence ; ! Demotion
-পদাবলি Dessinence ; ! Wreath of stanzas ; Vaishnava  poems
-পদাবলী Dessinence ; ! Wreath of stanzas ; Vaishnava  poems
+পদাবলি Dessinence ; ! Wreath of stanzas ; Vaishnava poems
+পদাবলী Dessinence ; ! Wreath of stanzas ; Vaishnava poems
 পদার্থ Dessinence ; ! toxin
 পদার্থবিজ্ঞান Dessinence ; ! physics
 পদার্থবিজ্ঞানী Dessinence ; ! a physicist
@@ -14497,7 +14497,7 @@ LEXICON NounStem
 পরিবেশ Dessinence ; ! habitat
 পরিবেশক Dessinence ; ! caterer
 পরিবেশন Dessinence ; ! distribution, act of dealing out ; act of serving food at table
-পরিবেষ্টন Dessinence ; ! an enclosure ;  encirclement
+পরিবেষ্টন Dessinence ; ! an enclosure ; encirclement
 পরিবেষ্টনী Dessinence ; ! entourage, surroundings ; fencing, railings, enclosure
 পরিব্যক্তি Dessinence ; ! mutation
 পরিব্যাপ্তি Dessinence ; ! spreading, spreading out ; expansion
@@ -14733,7 +14733,7 @@ LEXICON NounStem
 পাঁঠা Dessinence ; ! a he-goat ; a dunce
 পাঁড় Dessinence ; ! an inveterate drunkard
 পাঁড় Dessinence ; ! chief ; leader
-পাঁতি Dessinence ; ! a row, a line ;  a scriptural prescription
+পাঁতি Dessinence ; ! a row, a line ; a scriptural prescription
 পাঁদাড় Dessinence ; ! a dump for sweepings
 পাঁপর Dessinence ; ! a pauper
 পাঁয়তারা Dessinence ; ! preliminary preparations
@@ -14909,7 +14909,7 @@ LEXICON NounStem
 পাদ্রি Dessinence ; ! pope ; padre
 পাদ্রী Dessinence ; ! padre ; ecclesiastic
 পান Dessinence ; ! drinking ; act of drinking wine
-পানই Dessinence ; ! slipper,  wooden slipper
+পানই Dessinence ; ! slipper, wooden slipper
 পানক Dessinence ; ! sharbat ; water hyacinth
 পানকৌড়ি Dessinence ; ! a species of a diver ; the cormorant
 পানকৌড়ি Dessinence ; ! diver
@@ -14966,7 +14966,7 @@ LEXICON NounStem
 পাম্প Dessinence ; ! a pump
 পায়খানা Dessinence ; ! a latrine
 পায়খানা Dessinence ; ! Privy ; latrine
-পায়চারি Dessinence ; ! act of walking about  ; a stroll
+পায়চারি Dessinence ; ! act of walking about ; a stroll
 পায়চারি Dessinence ; ! Pacing ; strolling
 পায়জামা Dessinence ; ! slacks, pyjamas
 পায়জামা Dessinence ; ! Loose pantaloons or trousers
@@ -15002,7 +15002,7 @@ LEXICON NounStem
 পারানি Dessinence ; ! the fare for ferrying, ferriage
 পারাপার Dessinence ; ! sea etc.
 পারাবত Dessinence ; ! the pigeon ; the dove
-পারাবার Dessinence ; ! an ocean, a sea ;  river etc
+পারাবার Dessinence ; ! an ocean, a sea ; river etc
 পারায়ণ Dessinence ; ! completeness, thoroughness ; completion
 পারিজাত Dessinence ; ! the amarant
 পারিতোষিক Dessinence ; ! a reward ; a prize
@@ -15637,7 +15637,7 @@ LEXICON NounStem
 প্রকৃতি Dessinence ; ! nature ; behaviour, habit, instinct
 প্রকৃতিপুঞ্জ Dessinence ; ! people or subjects
 প্রকৃতিপূজা Dessinence ; ! nature-worship, animism
-প্রকৃতিবাদ Dessinence ; ! naturalism, material ism ;  purism
+প্রকৃতিবাদ Dessinence ; ! naturalism, material ism ; purism
 প্রকৃতিবাদী Dessinence ; ! a naturalist, a materialist ; a purist
 প্রকৃতিবিজ্ঞান Dessinence ; ! physics ; natural science
 প্রকৃতিবিজ্ঞানী Dessinence ; ! a naturalist ; a physicist
@@ -16118,11 +16118,11 @@ LEXICON NounStem
 প্রসঙ্গ Dessinence ; ! a topic for discussion, narration ; context
 প্রসঙ্গান্তর Dessinence ; ! another topic, a different topic
 প্রসন্নতা Dessinence ; ! satisfied or pleased state ; complacence, complacency
-প্রসব Dessinence ; ! act of bringing forth  ; child birth
+প্রসব Dessinence ; ! act of bringing forth ; child birth
 প্রসবদ্বার Dessinence ; ! the passage of childbirth ; the valva
 প্রসববেদনা Dessinence ; ! lobour-pain, travail
 প্রসবিতা Dessinence ; ! a father, a progenitor ; a producer
-প্রসবিত্রী Dessinence ; ! a mother, a progenitress ; a  producer
+প্রসবিত্রী Dessinence ; ! a mother, a progenitress ; a producer
 প্রসর Dessinence ; ! act of going, movement ; speed
 প্রসরণ Dessinence ; ! strolling ; encompassment of enemy forces
 প্রসাদ Dessinence ; ! Favor ; grace
@@ -16136,7 +16136,7 @@ LEXICON NounStem
 প্রসারতা Dessinence ; ! wideness ; wide
 প্রসিদ্ধি Dessinence ; ! fame
 প্রসুপ্তি Dessinence ; ! sound sleep
-প্রসূতা Dessinence ; ! a mother, progenitress ; a  producer
+প্রসূতা Dessinence ; ! a mother, progenitress ; a producer
 প্রসূতি Dessinence ; ! Woman just delivered of a child ; mother
 প্রসূতিতন্ত্র Dessinence ; ! midwifery
 প্রসূন Dessinence ; ! a flower ; a fruit
@@ -16573,7 +16573,7 @@ LEXICON NounStem
 ফুল্লকুসুমদাম Dessinence ; ! a garland of full-blown flowers
 ফুল্লারবিন্দ Dessinence ; ! a fullblown lotus
 ফুস Dessinence ; ! Ending in smoke
-ফুসকুড়ি Dessinence ; ! a vesicle ; a pimple,  a pustule
+ফুসকুড়ি Dessinence ; ! a vesicle ; a pimple, a pustule
 ফুসকুড়ি Dessinence ; ! Pimple ; boil
 ফুসফুস Dessinence ; ! the lung
 ফুসফুস-ধমনী Dessinence ; ! the pulmonary artery
@@ -16693,7 +16693,7 @@ LEXICON NounStem
 বংশমর্যাদা Dessinence ; ! family prestige
 বংশরক্ষা Dessinence ; ! saving one's family or race ; protection of one's family
 বংশলোচন Dessinence ; ! tabasheer, tabashir
-বংশশলাকা Dessinence ; ! a slender  slip of bamboo
+বংশশলাকা Dessinence ; ! a slender slip of bamboo
 বংশাঙ্কুর Dessinence ; ! a bamboo shoot
 বংশানুক্রম Dessinence ; ! heredity
 বংশানুচরিত Dessinence ; ! a genealogical history or register ; a genealogy
@@ -16750,7 +16750,7 @@ LEXICON NounStem
 বগ Dessinence ; ! Crane
 বগল Dessinence ; ! the armpit ; the flank
 বগা Dessinence ; ! the egret
-বগি Dessinence ; ! railway carriage,  a bogie
+বগি Dessinence ; ! railway carriage, a bogie
 বগিথালা Dessinence ; ! a high-rimmed metal dish
 বঙ্কিম Dessinence ; ! Krishna
 বঙ্গ Dessinence ; ! the partition of Bengal
@@ -16803,7 +16803,7 @@ LEXICON NounStem
 বণিগ্বৃত্তি Dessinence ; ! trade ; traffic
 বণ্টন Dessinence ; ! divide ; assignment
 বত্তরী Dessinence ; ! a cow-calf ; a heifer
-বত্স Dessinence ; ! the young of the cow  ; a dear boy
+বত্স Dessinence ; ! the young of the cow ; a dear boy
 বত্সতর Dessinence ; ! a bull-calf ; a steer. fem
 বত্সর Dessinence ; ! a year ; an era
 বত্সলতা Dessinence ; ! affectionateness, affection, love
@@ -17503,7 +17503,7 @@ LEXICON NounStem
 বাধাবিঘ্ন Dessinence ; ! Obstacles ; impediment
 বাধ্যতা Dessinence ; ! obedience, obsequiousness, docility ; amenability
 বাধ্যবাধকতা Dessinence ; ! mutual obligations ; strictness
-বান Dessinence ; ! the eel,  the lamprey
+বান Dessinence ; ! the eel, the lamprey
 বানডিল Dessinence ; ! a bundle
 বানতেল Dessinence ; ! essential oil, etherial oil
 বানপ্রস্থ Dessinence ; ! Third stage of life ; retirement from household life
@@ -17617,7 +17617,7 @@ LEXICON NounStem
 বারয়িতা Dessinence ; ! a prohibiter
 বারাঙ্গনা Dessinence ; ! a public woman
 বারান্তর Dessinence ; ! another time
-বারান্দা Dessinence ; ! a  portico or corridor ; a bal cony
+বারান্দা Dessinence ; ! a portico or corridor ; a bal cony
 বারি Dessinence ; ! water
 বারিক Dessinence ; ! Barrack ; quarters
 বারিদ Dessinence ; ! cloud
@@ -17888,7 +17888,7 @@ LEXICON NounStem
 বিটা Dessinence ; ! beta
 বিড়ঙ্গ Dessinence ; ! a medicinal plant or its fruit ; wise, experienced
 বিড়বিড়ানি Dessinence ; ! muttering, mumbling
-বিড়ম্বনা Dessinence ; ! deception,  mockery or irony ; unnecessary trouble or harassment
+বিড়ম্বনা Dessinence ; ! deception, mockery or irony ; unnecessary trouble or harassment
 বিড়া Dessinence ; ! a small roll, a bundle
 বিড়াল Dessinence ; ! the cat. fem
 বিড়াল Dessinence ; ! Cat
@@ -17984,7 +17984,7 @@ LEXICON NounStem
 বিধাতা Dessinence ; ! a director ; God
 বিধাতাপুরুষ Dessinence ; ! Providence personified
 বিধান Dessinence ; ! a scriptural prescript or ruling ; a prescript, a ruling
-বিধানকর্তা Dessinence ; ! a director  ; a law-giver
+বিধানকর্তা Dessinence ; ! a director ; a law-giver
 বিধান-পরিষদ Dessinence ; ! a legislative council
 বিধানশাস্ত্র Dessinence ; ! jurisprudence, law
 বিধানসংসদ Dessinence ; ! the Parliament
@@ -18052,7 +18052,7 @@ LEXICON NounStem
 বিপণন Dessinence ; ! marketing
 বিপণি Dessinence ; ! a shop ; a sales emporium
 বিপণী Dessinence ; ! shop ; market
-বিপত্তারিণী Dessinence ; ! a  goddess
+বিপত্তারিণী Dessinence ; ! a goddess
 বিপত্তি Dessinence ; ! a danger, a hazard ; a trouble
 বিপত্নীক Dessinence ; ! Widower
 বিপথ Dessinence ; ! a wrong or bad way ; an evil course of conduct
@@ -18139,7 +18139,7 @@ LEXICON NounStem
 বিভিন্নতা Dessinence ; ! diversity, variety ; difference
 বিভিন্নার্থ Dessinence ; ! various or different meanings
 বিভীতক Dessinence ; ! the beleric myrobalan
-বিভীষণ Dessinence ; ! a character of the Ramayana ;  a quis ling
+বিভীষণ Dessinence ; ! a character of the Ramayana ; a quis ling
 বিভীষণ-বাহিনী Dessinence ; ! the fifth column
 বিভীষিকা Dessinence ; ! intimidation ; threat
 বিভু Dessinence ; ! God
@@ -18349,7 +18349,7 @@ LEXICON NounStem
 বিষদন্ত Dessinence ; ! a poi son-fang
 বিষদশন Dessinence ; ! a poison-fang
 বিষদৃষ্টি Dessinence ; ! a spiteful or malicious glance ; extreme disfavour
-বিষধর Dessinence ; ! a  snake
+বিষধর Dessinence ; ! a snake
 বিষন্নতা Dessinence ; ! Sadness ; depression
 বিষপান Dessinence ; ! drinking or taking poison
 বিষপ্রয়োগ Dessinence ; ! administration of poison
@@ -18370,7 +18370,7 @@ LEXICON NounStem
 বিষয়সূচী Dessinence ; ! agenda ; a table of contents serially arranged
 বিষয়ান্তর Dessinence ; ! another topic ; a different topic
 বিষাক্ত Dessinence ; ! toxin
-বিষাণ Dessinence ; ! a horn ;  a horn
+বিষাণ Dessinence ; ! a horn ; a horn
 বিষাদ Dessinence ; ! low spirits, dejection ; melancholy
 বিষুব Dessinence ; ! the equinox
 বিষুববৃত্ত Dessinence ; ! the equinoctial circle
@@ -18615,7 +18615,7 @@ LEXICON NounStem
 বেড় Dessinence ; ! encirclement ; circumference
 বেড় Dessinence ; ! barrier ; encirclement
 বেড়া Dessinence ; ! fence ; railing
-বেড়ি Dessinence ; ! a shackle or chain ; fetters,  gyves
+বেড়ি Dessinence ; ! a shackle or chain ; fetters, gyves
 বেড়ি Dessinence ; ! chain ; gyve
 বেড়ী Dessinence ; ! chain ; band
 বেড়েন Dessinence ; ! cudgelling
@@ -18651,7 +18651,7 @@ LEXICON NounStem
 বেদনা Dessinence ; ! feeling ; pain, ache
 বেদনাবোধ Dessinence ; ! feel ing of pain
 বেদনিন্দক Dessinence ; ! an atheist
-বেদবাক্য Dessinence ; ! a quotation from the Vedas ;   gospel truth
+বেদবাক্য Dessinence ; ! a quotation from the Vedas ; gospel truth
 বেদব্যাস Dessinence ; ! Vyasa the author of the Mahabharata
 বেদাধ্যাপন Dessinence ; ! teaching the Vedas
 বেদাধ্যায়ী Dessinence ; ! one who studies the Vedas
@@ -18687,7 +18687,7 @@ LEXICON NounStem
 বেল Dessinence ; ! bail
 বেলচা Dessinence ; ! a shovel
 বেলদার Dessinence ; ! a digger
-বেলন Dessinence ; ! rolling  with a roller ; a rolling-pin
+বেলন Dessinence ; ! rolling with a roller ; a rolling-pin
 বেলশুঁঠ Dessinence ; ! pieces of dried wood-apple
 বেলা Dessinence ; ! a time of day ; daytime
 বেলানিল Dessinence ; ! sea-breeze
@@ -18839,7 +18839,7 @@ LEXICON NounStem
 বৌরব Dessinence ; ! aterrible hell
 ব্ব্রোচ Dessinence ; ! a brooch
 ব্যং Dessinence ; ! a frog ; a toad
-ব্যক্তি Dessinence ; ! a person  a man ; an invidual or individuality
+ব্যক্তি Dessinence ; ! a person a man ; an invidual or individuality
 ব্যক্তিতন্ত্র Dessinence ; ! individualism
 ব্যক্তিতা Dessinence ; ! individuality
 ব্যক্তিত্ব Dessinence ; ! personality
@@ -18852,7 +18852,7 @@ LEXICON NounStem
 ব্যঙ্গকাব্য Dessinence ; ! satire
 ব্যঙ্গচিত্র Dessinence ; ! a cartoon
 ব্যঙ্গোক্তি Dessinence ; ! a taunting remark or utterance ; an in sinuation
-ব্যঙ্গ্যার্থ Dessinence ; ! figurative or suggested meaning ;  indirect mean ing
+ব্যঙ্গ্যার্থ Dessinence ; ! figurative or suggested meaning ; indirect mean ing
 ব্যজন Dessinence ; ! fanning ; a fan
 ব্যজনী Dessinence ; ! a fan
 ব্যঞ্জন Dessinence ; ! seasoning ; sauce
@@ -18901,7 +18901,7 @@ LEXICON NounStem
 ব্যবহারসংহিতা Dessinence ; ! a compendium or collection of laws
 ব্যবহারের Dessinence ; ! usage
 ব্যভিচার Dessinence ; ! contrary or unlawful conduct or action ; transgression
-ব্যভিচারী Dessinence ; ! a transgressor ; an adulterer  or fornicator
+ব্যভিচারী Dessinence ; ! a transgressor ; an adulterer or fornicator
 ব্যয় Dessinence ; ! expenditure
 ব্যয় Dessinence ; ! expense ; expenditure
 ব্যয়কুন্ঠতা Dessinence ; ! stinginess, niggardliness, closefistedness ; miserliness
@@ -18939,7 +18939,7 @@ LEXICON NounStem
 ব্যাঙাচি Dessinence ; ! Tadpole
 ব্যাঙ্ক Dessinence ; ! Bank
 ব্যাজ Dessinence ; ! a pretext ; a hindrance
-ব্যাজস্তুতি Dessinence ; ! false praise or eulogy ;   irony
+ব্যাজস্তুতি Dessinence ; ! false praise or eulogy ; irony
 ব্যাজার Dessinence ; ! a badger
 ব্যাজোক্তি Dessinence ; ! deceitful utterance
 ব্যাট Dessinence ; ! a circket-bat, a bat ; a tennis racket or a badminton-racket
@@ -19188,7 +19188,7 @@ LEXICON NounStem
 ভরসন্ধ্যা Dessinence ; ! full evening ; advanced evening
 ভরসা Dessinence ; ! reliance, confidence, trust ; faith
 ভরসাস্থল Dessinence ; ! anchorage ; citadel
-ভরা Dessinence ; ! a  loaded boat or vessel
+ভরা Dessinence ; ! a loaded boat or vessel
 ভরাকটাল Dessinence ; ! spring tide ; flood-tide
 ভরাডুবি Dessinence ; ! utter ruin
 ভর্জন Dessinence ; ! frying in oil, fat etc
@@ -19294,7 +19294,7 @@ LEXICON NounStem
 ভাতারপুত Dessinence ; ! husband and son
 ভাতি Dessinence ; ! lustre, radiance ; glow
 ভাতুড়ি Dessinence ; ! slough
-ভাদ্রবধূ Dessinence ; ! a brother's  wife
+ভাদ্রবধূ Dessinence ; ! a brother's wife
 ভান Dessinence ; ! a pretence, a pretext ; feigning, dissimulation
 ভানু Dessinence ; ! the sun ; a ray, a beam
 ভানুমতী Dessinence ; ! a celebrated female juggler
@@ -19764,7 +19764,7 @@ LEXICON NounStem
 মঞ্চশিল্পী Dessinence ; ! a stage-player ; a stage-decorator
 মঞ্চসজ্জা Dessinence ; ! stage-decoration
 মঞ্চাভিনয় Dessinence ; ! stage-acting ; acting in a drama
-মঞ্জন Dessinence ; ! cleansing  by rubbing ; an article for cleansing with
+মঞ্জন Dessinence ; ! cleansing by rubbing ; an article for cleansing with
 মঞ্জরি Dessinence ; ! a shoot ; a sprout
 মঞ্জরিদন্ড Dessinence ; ! a rachis
 মঞ্জরিপত্র Dessinence ; ! a bract
@@ -20099,7 +20099,7 @@ LEXICON NounStem
 মরদেহ Dessinence ; ! the perishable body
 মরম Dessinence ; ! Core ; sensitive part
 মরমানব Dessinence ; ! mortal man, a mortal
-মরশুম Dessinence ; ! a season ;  a tide
+মরশুম Dessinence ; ! a season ; a tide
 মরশুমিফুল Dessinence ; ! a season flower
 মরসুম Dessinence ; ! Season ; opportunity
 মরা Dessinence ; ! alloy
@@ -20311,12 +20311,12 @@ LEXICON NounStem
 মহারানি Dessinence ; ! the wife of a great king ; an empress
 মহারানী Dessinence ; ! Queen consort
 মহারুদ্র Dessinence ; ! an awesome manifestation of Shiva
-মহারোগ Dessinence ; ! an almost incurable and  disease ; leprosy
+মহারোগ Dessinence ; ! an almost incurable and disease ; leprosy
 মহাল Dessinence ; ! Estate ; landed property
 মহাশক্তি Dessinence ; ! Goddess Durga ; great strength or power or prowess
 মহাশয় Dessinence ; ! sir ; don
 মহাসংকট Dessinence ; ! a great crisis
-মহাসভা Dessinence ; ! great meeting or association ; a  legislative assembly
+মহাসভা Dessinence ; ! great meeting or association ; a legislative assembly
 মহাসমুদ্র Dessinence ; ! an ocean
 মহাসামন্ত Dessinence ; ! a commander-in-chief ; a great general
 মহাসিন্ধু Dessinence ; ! an ocean
@@ -20347,7 +20347,7 @@ LEXICON NounStem
 মহোত্সাহ Dessinence ; ! great enthusiasm or energy or zeal
 মহোত্সাহী Dessinence ; ! greatly enthusiastic or energetic or zealous
 মহোৎসব Dessinence ; ! Great festival ; great rejoicing
-মহোদধি Dessinence ; ! an ocean ; a  sea
+মহোদধি Dessinence ; ! an ocean ; a sea
 মহোপকার Dessinence ; ! a great good turn
 মহোপকারক Dessinence ; ! a great benefactor
 মহৌষধ Dessinence ; ! a great or infallible medicine ; panacea
@@ -20406,7 +20406,7 @@ LEXICON NounStem
 মাছুয়া Dessinence ; ! a fish monger or fisherman
 মাছুয়ানি Dessinence ; ! a fish-wife
 মাজ Dessinence ; ! pith within a stem
-মাজন Dessinence ; ! scouring or scrubbing ; act of cleansing  by rubbing
+মাজন Dessinence ; ! scouring or scrubbing ; act of cleansing by rubbing
 মাজা Dessinence ; ! the waist, the loins
 মাজাঘষা Dessinence ; ! meticulous scouring scrubbing or polishing ; meticulous cleansing and dressing
 মাজুফল Dessinence ; ! the gall-nut
@@ -20430,7 +20430,7 @@ LEXICON NounStem
 মাড়াই Dessinence ; ! threshing
 মাড়ি Dessinence ; ! Gum ; palate
 মাঢ়ী Dessinence ; ! the gum
-মাণবক Dessinence ; ! a  child ; a manikin, a dwarf
+মাণবক Dessinence ; ! a child ; a manikin, a dwarf
 মাত Dessinence ; ! checkmating ; act of defeating thoroughly
 মাতগুড় Dessinence ; ! drossy molasses, treacle
 মাতঙ্গ Dessinence ; ! the elephant. fem
@@ -20517,7 +20517,7 @@ LEXICON NounStem
 মাননির্ধারণ Dessinence ; ! standardization
 মানপত্র Dessinence ; ! an address of honour
 মানব Dessinence ; ! mankind, man ; a man
-মানবক Dessinence ; ! a  child ; a manikin
+মানবক Dessinence ; ! a child ; a manikin
 মানবজাতি Dessinence ; ! mankind
 মানবজীবন Dessinence ; ! the human life
 মানবতা Dessinence ; ! humanity
@@ -20601,7 +20601,7 @@ LEXICON NounStem
 মারপিট Dessinence ; ! mutual fighting ; fray
 মারপিটে Dessinence ; ! Beating ; assault
 মারপ্যাঁচ Dessinence ; ! shrewd or trappy trick ; quibbling, equivocation
-মারবেল Dessinence ; ! marble ;  a marble
+মারবেল Dessinence ; ! marble ; a marble
 মারবেল-পাহাড় Dessinence ; ! a marble rock
 মারা Dessinence ; ! dies
 মারাঠি Dessinence ; ! a Marathi, a Maharashtrian ; the Marathi language
@@ -20620,8 +20620,8 @@ LEXICON NounStem
 মার্গ Dessinence ; ! a way ; a route
 মার্গসংগীত Dessinence ; ! classical music
 মার্চ Dessinence ; ! march
-মার্জন Dessinence ; ! scouring or scrubbing ; cleansing  by rubbing
-মার্জনা Dessinence ; ! scouring or scrubbing ; cleansing  by rubbing
+মার্জন Dessinence ; ! scouring or scrubbing ; cleansing by rubbing
+মার্জনা Dessinence ; ! scouring or scrubbing ; cleansing by rubbing
 মার্জনী Dessinence ; ! a besom
 মার্জার Dessinence ; ! the cat ; the tomcat
 মার্জিন Dessinence ; ! margin
@@ -20644,7 +20644,7 @@ LEXICON NounStem
 মালটা Dessinence ; ! Malta
 মালতীফল Dessinence ; ! nutmeg
 মালপত্র Dessinence ; ! goods collectively ; goods and chattels
-মালবৈদ্য Dessinence ; ! a healer  of poisonous snakebites
+মালবৈদ্য Dessinence ; ! a healer of poisonous snakebites
 মালভূমি Dessinence ; ! plateau, a table-land
 মালমশলা Dessinence ; ! ingredients ; materials
 মালমসলা Dessinence ; ! Ingredients ; materials
@@ -20768,7 +20768,7 @@ LEXICON NounStem
 মিষ্টিমুখ Dessinence ; ! Light refreshment with sweets
 মিস Dessinence ; ! fem Miss
 মিসর Dessinence ; ! Egypt
-মিসিবাবা Dessinence ; ! fem  missy
+মিসিবাবা Dessinence ; ! fem missy
 মিসেস Dessinence ; ! fem Mrs. Mistress
 মিস্টার Dessinence ; ! Mr. Mister
 মিস্ত্রি Dessinence ; ! a mechanic ; a machine foreman
@@ -20876,7 +20876,7 @@ LEXICON NounStem
 মুদ্রাকর-প্রমাদ Dessinence ; ! a printing mistake
 মুদ্রাক্ষর Dessinence ; ! a printing type
 মুদ্রাঙ্কন Dessinence ; ! stamping or impressing or seal ing
-মুদ্রাদোষ Dessinence ; ! a  mannerism
+মুদ্রাদোষ Dessinence ; ! a mannerism
 মুদ্রাবিজ্ঞান Dessinence ; ! numismatics
 মুদ্রাবিজ্ঞানী Dessinence ; ! a numismatist
 মুদ্রামান Dessinence ; ! money standard
@@ -20902,7 +20902,7 @@ LEXICON NounStem
 মুন্ডন Dessinence ; ! Shaving ; cutting
 মুন্ডমালা Dessinence ; ! Necklace of skulls
 মুন্সেফ Dessinence ; ! Judge ; subordinate judge
-মুফতি Dessinence ; ! an expounder of Mo hammedan laws ;  mufti
+মুফতি Dessinence ; ! an expounder of Mo hammedan laws ; mufti
 মুমুক্ষা Dessinence ; ! desire for salvation
 মুয়াজ্জিন Dessinence ; ! a muezzin
 মুরগি Dessinence ; ! the hen ; a fowl, a chicken
@@ -21034,7 +21034,7 @@ LEXICON NounStem
 মৃত্যুভয় Dessinence ; ! the fear of death
 মৃত্যুমুখ Dessinence ; ! the jaws of death
 মৃত্যুশয্যা Dessinence ; ! deathbed
-মৃত্যুশোক Dessinence ; ! sorrow caused by  death
+মৃত্যুশোক Dessinence ; ! sorrow caused by death
 মৃত্শিল্প Dessinence ; ! the potter's art, pottery ; clay-model ling
 মৃত্সংরক্ষণ Dessinence ; ! soil-conservation
 মৃৎ Dessinence ; ! Earth ; clay
@@ -21246,7 +21246,7 @@ LEXICON NounStem
 মৌলি Dessinence ; ! a crown, diadem ; the head or forehead
 মৌলিকতা Dessinence ; ! originality
 মৌলিকত্ব Dessinence ; ! Originality
-মৌসুম Dessinence ; ! a season ;  a tide
+মৌসুম Dessinence ; ! a season ; a tide
 মৌসুমবায়ু Dessinence ; ! the monsoon
 ম্যাও Dessinence ; ! Mewing of a cat
 ম্যাগনাম Dessinence ; ! magnum
@@ -21354,13 +21354,13 @@ LEXICON NounStem
 যাউ Dessinence ; ! gruel
 যাওয়া-আসা Dessinence ; ! come and-go ; frequenting
 যাওয়ার Dessinence ; ! carry
-যাচক Dessinence ; ! one who asks or prays  ; a beggar, a mendicant
-যাচন Dessinence ; ! act of asking  ; begging
+যাচক Dessinence ; ! one who asks or prays ; a beggar, a mendicant
+যাচন Dessinence ; ! act of asking ; begging
 যাচাই Dessinence ; ! test to find the quality
 যাজক Dessinence ; ! a priest ; a clergyman, a cleric
 যাজকতন্ত্র Dessinence ; ! hierocracy
 যাজকতা Dessinence ; ! priestship, priesthood ; clericity
-যাজনবৃত্তি Dessinence ; ! priestship ;   a benefice
+যাজনবৃত্তি Dessinence ; ! priestship ; a benefice
 যাজিকা Dessinence ; ! fem a priestess, a clergywoman
 যাজ্ঞসেনী Dessinence ; ! the daughter of King Yajnasena ; Draupadi of the Mahabharata
 যাজ্ঞিক Dessinence ; ! one who performs a religious sacrifice ; a priest
@@ -21446,7 +21446,7 @@ LEXICON NounStem
 যুদ্ধাপরাধ Dessinence ; ! war crime
 যুদ্ধাপরাধী Dessinence ; ! war criminal
 যুদ্ধোদ্যম Dessinence ; ! preparation for war
-যুদ্ধোন্মাদ Dessinence ; ! craze for war,  bellicosity ; war-neurosis
+যুদ্ধোন্মাদ Dessinence ; ! craze for war, bellicosity ; war-neurosis
 যুদ্ধোপকরণ Dessinence ; ! war materials ; arms and amunition
 যুধিষ্ঠির Dessinence ; ! Yudhishthira
 যুবতী Dessinence ; ! the husband of a young woman
@@ -21690,7 +21690,7 @@ LEXICON NounStem
 রথ Dessinence ; ! a chariot ; the chariot of Jagannatha
 রথচালক Dessinence ; ! a charioteer ; a car-driver, a car man
 রথারোহী Dessinence ; ! a charioteer
-রথী Dessinence ; ! a charioteer ; a  warrior
+রথী Dessinence ; ! a charioteer ; a warrior
 রদ Dessinence ; ! a tooth
 রদবদল Dessinence ; ! additions and alterations ; a re shuffle
 রন্ধন Dessinence ; ! cooking ; cookery
@@ -21940,7 +21940,7 @@ LEXICON NounStem
 রাধাচক্র Dessinence ; ! a merry-go-round
 রাধাপদ্ম Dessinence ; ! the sunflower
 রাধেকৃষ্ণ Dessinence ; ! Radha and Krishna
-রানার Dessinence ; ! a  runner
+রানার Dessinence ; ! a runner
 রানি Dessinence ; ! a queen
 রান্না Dessinence ; ! cooking
 রান্নাঘর Dessinence ; ! a kitchen
@@ -22019,7 +22019,7 @@ LEXICON NounStem
 রিক্থ Dessinence ; ! share
 রিঠা Dessinence ; ! a kind of small scaleless fish
 রিপিট Dessinence ; ! a rivet ; rivetting
-রিপোর্ট Dessinence ; ! a statement of facts  ; an accusation or adverse report
+রিপোর্ট Dessinence ; ! a statement of facts ; an accusation or adverse report
 রিপোর্টে Dessinence ; ! report
 রিফু Dessinence ; ! darning
 রিফুকর্ম Dessinence ; ! darning
@@ -22059,7 +22059,7 @@ LEXICON NounStem
 রুপান্তর Dessinence ; ! transform ; variation
 রুপি Dessinence ; ! rupee
 রুবাইয়াত Dessinence ; ! Rubaiyat
-রুমাল Dessinence ; ! handkerchief,  hanky
+রুমাল Dessinence ; ! handkerchief, hanky
 রুল Dessinence ; ! a strip for ruling lines ; a baton, a truncheon
 রুলার Dessinence ; ! Ruler
 রুলি Dessinence ; ! a bangle for the wrist
@@ -22122,7 +22122,7 @@ LEXICON NounStem
 রেণু Dessinence ; ! dust ; powder
 রেতঃ Dessinence ; ! semen
 রেতঃপাত Dessinence ; ! emission of seminal fluid
-রেতি Dessinence ; ! a  file or rasp
+রেতি Dessinence ; ! a file or rasp
 রেনেসাঁ Dessinence ; ! Renaissance ; revival
 রেফারি Dessinence ; ! a referee
 রেফ্রিজারেটর Dessinence ; ! fridge ; refrigerator
@@ -22236,15 +22236,15 @@ LEXICON NounStem
 লক্ষ্যস্হল Dessinence ; ! mark, target
 লগইন Dessinence ; ! login
 লগন Dessinence ; ! Auspicious moment ; moment
-লগা Dessinence ; ! a punt-pole ;  flowers etc
+লগা Dessinence ; ! a punt-pole ; flowers etc
 লগ্ন Dessinence ; ! a point of time
-লগ্নি Dessinence ; ! investment  in business enterprise ; usury
+লগ্নি Dessinence ; ! investment in business enterprise ; usury
 লগ্নিকরণ Dessinence ; ! investing, investment
 লঘিমা Dessinence ; ! absence of heaviness, lightness
 লঘুগুণক Dessinence ; ! reduction factor
 লঘুজ্ঞান Dessinence ; ! disregard, contempt ; slight
 লঘুনির্মাণ Dessinence ; ! minor works
-লঘুপথ্য Dessinence ; ! light diet,  sick diet
+লঘুপথ্য Dessinence ; ! light diet, sick diet
 লঘুবৃত্ত Dessinence ; ! a small circle
 লঘুমস্তিষ্ক Dessinence ; ! the cerebellum
 লঘুলিপিক Dessinence ; ! a stenographer
@@ -22323,7 +22323,7 @@ LEXICON NounStem
 ললাটভূষণ Dessinence ; ! an ornament for the forehead
 ললাটরেখা Dessinence ; ! a line on the forehead
 ললাটিকা Dessinence ; ! a holy mark of sandal-paste ; an ornament for the fore head
-ললাম Dessinence ; ! ornament ; a mark  on one's forehead
+ললাম Dessinence ; ! ornament ; a mark on one's forehead
 ললিত Dessinence ; ! dance or artistic gestures of women ; pleasure and enjoyment
 ললিতকলা Dessinence ; ! fine arts
 লশকর Dessinence ; ! a soldier ; a naval soldier
@@ -22372,14 +22372,14 @@ LEXICON NounStem
 লাঞ্ছন Dessinence ; ! a stain, a spot ; a sign
 লাঞ্ছনা Dessinence ; ! reproach, reprimand ; disgrace, insult
 লাট Dessinence ; ! a pillar
-লাট-বেলাট Dessinence ; ! pl  lords and nobles
+লাট-বেলাট Dessinence ; ! pl lords and nobles
 লাটাই Dessinence ; ! Reel ; spool
 লাটিম Dessinence ; ! a top
 লাট্টু Dessinence ; ! Top
 লাঠালাঠি Dessinence ; ! fighting with sticks or staffs ; a serious quarrel
 লাঠি Dessinence ; ! a stick, a staff
 লাঠিখেলা Dessinence ; ! an exhibition fight with sticks
-লাঠিয়াল Dessinence ; ! a  figther with sticks
+লাঠিয়াল Dessinence ; ! a figther with sticks
 লাঠিয়ালি Dessinence ; ! skill in
 লাথি Dessinence ; ! Kick
 লাফ Dessinence ; ! a leap
@@ -22431,7 +22431,7 @@ LEXICON NounStem
 লিস্টি Dessinence ; ! List
 লীগের Dessinence ; ! league
 লীজ Dessinence ; ! lease
-লীনতাপ Dessinence ; ! n.  latent heat
+লীনতাপ Dessinence ; ! n. latent heat
 লীলা Dessinence ; ! sport ; pleasure
 লীলাকমল Dessinence ; ! a toy lotus
 লীলাকলহ Dessinence ; ! a lover's quarrel ; a mock quarrel
@@ -22536,7 +22536,7 @@ LEXICON NounStem
 লোকহিতকর Dessinence ; ! beneficial to the public ; promoting the well-being of the people
 লোকহিতৈষণা Dessinence ; ! benevolence ; philanthropy
 লোকাচার Dessinence ; ! a popular practice ; customs and usages collectively
-লোকান্তর Dessinence ; ! another world ;  the next world
+লোকান্তর Dessinence ; ! another world ; the next world
 লোকান্তরগমন Dessinence ; ! death
 লোকাপবাদ Dessinence ; ! public censure ; public scan dal
 লোকাভাব Dessinence ; ! want of men ; want of work ers
@@ -22680,7 +22680,7 @@ LEXICON NounStem
 শব্দবিভক্তি Dessinence ; ! a case-ending
 শব্দভাণ্ডার Dessinence ; ! the treasure of words
 শব্দযোজনা Dessinence ; ! adding or supplementing words
-শব্দশক্তি Dessinence ; ! different imports of a word ;  power of words
+শব্দশক্তি Dessinence ; ! different imports of a word ; power of words
 শব্দশাস্ত্র Dessinence ; ! the science of words ; grammar
 শব্দার্থ Dessinence ; ! the meaning of a word
 শব্দালংকার Dessinence ; ! such as
@@ -22860,7 +22860,7 @@ LEXICON NounStem
 শারদী Dessinence ; ! Goddess Durga ; Goddess Saraswati
 শারি Dessinence ; ! fem the female
 শারীরস্হান Dessinence ; ! anatomy
-শার্ঙ্গ Dessinence ; ! a  bow made of horn
+শার্ঙ্গ Dessinence ; ! a bow made of horn
 শার্ট Dessinence ; ! a shirt
 শার্দুল Dessinence ; ! Tiger ; leopard
 শার্দূলবিক্রীড়িত Dessinence ; ! a Sanskrit poetical metre
@@ -22908,7 +22908,7 @@ LEXICON NounStem
 শাহানা Dessinence ; ! an Indian musical mode
 শিউলি Dessinence ; ! nyctanthes arbortristis
 শিং Dessinence ; ! a horn
-শিক Dessinence ; ! a thin metal rod ; a window-bar  made of iron
+শিক Dessinence ; ! a thin metal rod ; a window-bar made of iron
 শিকড় Dessinence ; ! root
 শিকড় Dessinence ; ! root
 শিকনি Dessinence ; ! nasal mucus
@@ -23124,7 +23124,7 @@ LEXICON NounStem
 শুদ্ধিপত্র Dessinence ; ! errata
 শুনশান Dessinence ; ! complete silence
 শুনানি Dessinence ; ! a hearing
-শুভ Dessinence ; ! weal, well-being,  good
+শুভ Dessinence ; ! weal, well-being, good
 শুভক্ষণ Dessinence ; ! an opportunity, a chance
 শুভদৃষ্টি Dessinence ; ! benign look ; mercy
 শুভফল Dessinence ; ! a happy result or outcome
@@ -23150,7 +23150,7 @@ LEXICON NounStem
 শুশুক Dessinence ; ! the porpoise, the dolphin
 শুশ্রুষা Dessinence ; ! Nursing ; attendance
 শুশ্রূষা Dessinence ; ! nursing
-শুশ্রূষাকারিণী Dessinence ; ! a nurse ; a  sister
+শুশ্রূষাকারিণী Dessinence ; ! a nurse ; a sister
 শুশ্রূষাকারী Dessinence ; ! a male nurse
 শুষ্কতা Dessinence ; ! dryness
 শূক Dessinence ; ! a beard of corn ; the chrysalis
@@ -23164,7 +23164,7 @@ LEXICON NounStem
 শূদ্রাণী Dessinence ; ! a female shudra ; a shudra's wife
 শূদ্রী Dessinence ; ! a shudra's wife
 শূন্য Dessinence ; ! zero ; cipher
-শূন্যকুম্ভ Dessinence ; ! an empty pitcher ;  a man of straw
+শূন্যকুম্ভ Dessinence ; ! an empty pitcher ; a man of straw
 শূন্যক্রান্তি-রেখা Dessinence ; ! the aclinic line
 শূন্যতা Dessinence ; ! vacancy ; emptiness
 শূন্যদৃষ্টি Dessinence ; ! a vacant or blank look
@@ -23188,7 +23188,7 @@ LEXICON NounStem
 শৃঙ্খল-নিয়ম Dessinence ; ! chain rule
 শৃঙ্খলা Dessinence ; ! method, system ; due succession or order, sequence
 শৃঙ্গ Dessinence ; ! a horn ; an antler
-শৃঙ্গধ্বনি Dessinence ; ! the sound of a  horn
+শৃঙ্গধ্বনি Dessinence ; ! the sound of a horn
 শৃঙ্গার Dessinence ; ! Erotic sentiment ; amorous passion
 শৃঙ্গী Dessinence ; ! a horned beast
 শেওড়া Dessinence ; ! a kind of wild tree
@@ -23264,7 +23264,7 @@ LEXICON NounStem
 শোভা Dessinence ; ! beauty ; beautiful show
 শোভাযাত্রী Dessinence ; ! a processionist
 শোয়াবসা Dessinence ; ! deportment, bearing ; social intercourse
-শোর Dessinence ; ! a loud  noise
+শোর Dessinence ; ! a loud noise
 শোরগোল Dessinence ; ! an uproarious noise ; hue and cry
 শোরা Dessinence ; ! nitre, salt-petre
 শোল Dessinence ; ! a large tubular fish
@@ -23318,7 +23318,7 @@ LEXICON NounStem
 শ্যাম Dessinence ; ! Krishna
 শ্যামবর্ণ Dessinence ; ! cloud like colour ; dark blue or bottle-green colour
 শ্যামলিমা Dessinence ; ! greenery ; verdancy
-শ্যামসুন্দর Dessinence ; ! Krishna ;  the black headed munia
+শ্যামসুন্দর Dessinence ; ! Krishna ; the black headed munia
 শ্যামাক Dessinence ; ! a kind of wild paddy
 শ্যাম্পু Dessinence ; ! shampoo
 শ্যাম্পেন Dessinence ; ! champagne ; the widow
@@ -23401,7 +23401,7 @@ LEXICON NounStem
 ষড়্বিংশতি Dessinence ; ! twenty-six
 ষণ্ড Dessinence ; ! the bull, the ox ; a eunuch
 ষণ্ডামর্ক Dessinence ; ! Sanda and Amarka
-ষণ্ডামার্ক Dessinence ; ! Sanda and Amarka  ; a very obstinate and robust rogue
+ষণ্ডামার্ক Dessinence ; ! Sanda and Amarka ; a very obstinate and robust rogue
 ষণ্মাস Dessinence ; ! consecutive six months, a half-year
 ˜ষষ্টিতম Dessinence ; ! sixty-first
 ষষ্ঠাংশ Dessinence ; ! a sixth part ; one sixth
@@ -23423,7 +23423,7 @@ LEXICON NounStem
 সওদাগর Dessinence ; ! a mer chant ; a merchant prince
 সওদাগরি Dessinence ; ! the profession of a merchant
 সওদাপত্র Dessinence ; ! purchases
-সওয়ার Dessinence ; ! a rider,  a sowar
+সওয়ার Dessinence ; ! a rider, a sowar
 সওয়ারি Dessinence ; ! a vehicle, a carriage ; a mount
 সওয়াল Dessinence ; ! a question, an inquiry ; pleading on behalf of the plaintiff
 সং Dessinence ; ! a clown, a bumpkin ; a masque
@@ -23437,7 +23437,7 @@ LEXICON NounStem
 সংকলন Dessinence ; ! collection ; culling
 সংকলনগ্রন্হ Dessinence ; ! a compilation
 সংকলয়িতা Dessinence ; ! a collector ; a compiler
-সংকল্প Dessinence ; ! a resolve, a determination ; a  desire
+সংকল্প Dessinence ; ! a resolve, a determination ; a desire
 সংকল্প-বিকল্প Dessinence ; ! desire and doubt ; certainty and uncertainty
 সংকীর্ণতা Dessinence ; ! narrowness ; smallness
 সংকীর্তন Dessinence ; ! singing in praise ; a hymn
@@ -23673,7 +23673,7 @@ LEXICON NounStem
 সতিন Dessinence ; ! a co-wife
 সতিনঝি Dessinence ; ! a daughter of one's co wife
 সতিনপো Dessinence ; ! a son of one's co-wife
-সতী Dessinence ; ! :fem  Sati
+সতী Dessinence ; ! :fem Sati
 সতীত্ব Dessinence ; ! Chastity
 সতীত্বনাশ Dessinence ; ! violation of chastity ; rape
 সতীত্বসংরক্ষণ Dessinence ; ! preservation of chastity
@@ -23808,7 +23808,7 @@ LEXICON NounStem
 সপ্তসুর Dessinence ; ! the seven notes of a scale
 সপ্তস্বর্গ Dessinence ; ! the seven worlds
 সপ্তাস্র Dessinence ; ! a heptagon
-সপ্তাহ Dessinence ; ! a calendar week ;  a week
+সপ্তাহ Dessinence ; ! a calendar week ; a week
 সপ্তাহকাল Dessinence ; ! a period of seven days
 সপ্তাহান্তের Dessinence ; ! weekend
 সপ্তাহে Dessinence ; ! week
@@ -24042,7 +24042,7 @@ LEXICON NounStem
 সম্পাদনকারী Dessinence ; ! performer ; editor
 সম্পাদনা Dessinence ; ! Editing ; edition
 সম্পাদিকা Dessinence ; ! Editors
-সম্পুট Dessinence ; ! a small box, a casket ;  a cornet
+সম্পুট Dessinence ; ! a small box, a casket ; a cornet
 সম্পূরণ Dessinence ; ! completion ; fulfilment
 সম্পূর্ণতা Dessinence ; ! completion ; fullness
 সম্পৃক্তি Dessinence ; ! relation, connection ; concern
@@ -24103,7 +24103,7 @@ LEXICON NounStem
 সর Dessinence ; ! film
 সরঃ Dessinence ; ! a large pond: a lake
 সরকার Dessinence ; ! government
-সরগম Dessinence ; ! the  musical octave
+সরগম Dessinence ; ! the musical octave
 সরজমিন Dessinence ; ! a scene of occurrence
 সরঞ্জাম Dessinence ; ! things required for doing some thing ; equipment
 সরট Dessinence ; ! the chameleon
@@ -24192,7 +24192,7 @@ LEXICON NounStem
 সর্ষপ Dessinence ; ! mustard seed, rape-seed
 সর্ষে Dessinence ; ! mustard
 সলতে Dessinence ; ! Wick
-সলা-পরামর্শ Dessinence ; ! :  conference
+সলা-পরামর্শ Dessinence ; ! : conference
 সলিতা Dessinence ; ! a slender wick
 সলিল Dessinence ; ! water
 সলিলসমাধি Dessinence ; ! a watery grave ; drowning
@@ -24355,7 +24355,7 @@ LEXICON NounStem
 সাধাসাধি Dessinence ; ! importunity
 সাধিত্র Dessinence ; ! an instrument
 সাধু Dessinence ; ! a saint ; a merchant, a trader
-সাধুগিরি Dessinence ; ! a show of honesty or piety ;  sanctimonious ness
+সাধুগিরি Dessinence ; ! a show of honesty or piety ; sanctimonious ness
 সাধুতা Dessinence ; ! saintliness ; goodness, nobility
 সাধুতাচারণ Dessinence ; ! practice of piety or virtue
 সাধুবাদ Dessinence ; ! applause, praise, approbation ; thanksgiving
@@ -24443,7 +24443,7 @@ LEXICON NounStem
 সায় Dessinence ; ! termination
 সায় Dessinence ; ! assent ; consent
 সায়ংকৃত্য Dessinence ; ! evening service, vespers
-সায়ংসন্ধ্যা Dessinence ; ! evening prayer,  evensong
+সায়ংসন্ধ্যা Dessinence ; ! evening prayer, evensong
 সায়ন Dessinence ; ! declination ; the equinox
 সায়বানা Dessinence ; ! a canopy, an awning
 সায়র Dessinence ; ! a sea ; a large pond
@@ -24538,7 +24538,7 @@ LEXICON NounStem
 সিংহবিক্রম Dessinence ; ! prowess like that of a lion ; great prowess
 সিংহবিবর Dessinence ; ! the den of a lion
 সিংহরাশি Dessinence ; ! the Leo
-সিংহল Dessinence ; ! Ceylon,  Sri Lanka
+সিংহল Dessinence ; ! Ceylon, Sri Lanka
 সিংহলি Dessinence ; ! a Ceylonese ; the language of Ceylon, Ceylonese
 সিংহশাবক Dessinence ; ! a lion-cub
 সিংহাবলোকন Dessinence ; ! looking behind on the past ; review
@@ -24593,7 +24593,7 @@ LEXICON NounStem
 সিন্ধুপ্রদেশ Dessinence ; ! a province of Pakistan
 সিপাই Dessinence ; ! Soldier
 সিপাহসলার Dessinence ; ! the commander-in chief
-সিপাহি Dessinence ; ! a soldier ;  an Indian private
+সিপাহি Dessinence ; ! a soldier ; an Indian private
 সিপাহী Dessinence ; ! Soldier
 সিমেন্ট Dessinence ; ! Cement
 সিয়েরা Dessinence ; ! sierra
@@ -24695,7 +24695,7 @@ LEXICON NounStem
 সুধন্বা Dessinence ; ! a great archer
 সুধা Dessinence ; ! nectar, ambrosia ; moonlight
 সুধাংশু Dessinence ; ! the moon
-সুধাপাত্র Dessinence ; ! a container or receptacle of nectar ;  an ambrosial cup
+সুধাপাত্র Dessinence ; ! a container or receptacle of nectar ; an ambrosial cup
 সুধাভান্ড Dessinence ; ! a container or receptacle of nectar
 সুধাসমুদ্র Dessinence ; ! the sea of nectar
 সুধী Dessinence ; ! a learned or erudite man ; a wise man
@@ -24864,7 +24864,7 @@ LEXICON NounStem
 সূপকার Dessinence ; ! a cook
 সূর Dessinence ; ! the sun
 সূরি Dessinence ; ! a poet ; a learned man, a scholar
-সূর্য Dessinence ; ! the sun ; the Sun-god.  Sol
+সূর্য Dessinence ; ! the sun ; the Sun-god. Sol
 সূর্যকান্ত Dessinence ; ! flint-glass
 সূর্যকিরণ Dessinence ; ! sunbeam
 সূর্যগ্রহণ Dessinence ; ! the so lar eclipse
@@ -24922,7 +24922,7 @@ LEXICON NounStem
 সেজ Dessinence ; ! a bed
 সেট Dessinence ; ! a set ; asuit
 সেতখানা Dessinence ; ! a latrine, a lavatory
-সেতার Dessinence ; ! a three-stringed  musical instrument
+সেতার Dessinence ; ! a three-stringed musical instrument
 সেতু Dessinence ; ! a bridge ; a culvert
 সেতুবন্ধ Dessinence ; ! Adam's Bridge
 সেতুমুখ Dessinence ; ! a bridgehead
@@ -25085,7 +25085,7 @@ LEXICON NounStem
 স্তবক Dessinence ; ! a bunch, a cluster ; a bouquet
 স্তবগান Dessinence ; ! a song of praise
 স্তবস্তুতি Dessinence ; ! repeated singing in praise of ; hymns collectively, hymnody
-স্তম্ভ Dessinence ; ! a pillar, a post ;  a column
+স্তম্ভ Dessinence ; ! a pillar, a post ; a column
 স্তম্ভক Dessinence ; ! a cylinder
 স্তম্ভন Dessinence ; ! stupefaction ; act of making motionless or stagnant
 স্তর Dessinence ; ! Layer ; stratum
@@ -25162,7 +25162,7 @@ LEXICON NounStem
 স্নেহাশীর্বাদ Dessinence ; ! affectionate blessing
 স্পঞ্জ Dessinence ; ! Sponge
 ˜স্পন্দ Dessinence ; ! an earth-tremor
-স্পন্দ Dessinence ; ! beating or throbbing  ; a beat
+স্পন্দ Dessinence ; ! beating or throbbing ; a beat
 স্পন্দন Dessinence ; ! Vibration ; agitation
 স্পর্ধা Dessinence ; ! emulation ; daring to undertake a difficult task
 স্পর্শ Dessinence ; ! touch ; contact
@@ -25214,7 +25214,7 @@ LEXICON NounStem
 স্বচ্ছন্দ Dessinence ; ! one's own will, free will
 স্বচ্ছন্দবিহার Dessinence ; ! rambling at pleasure
 স্বজন Dessinence ; ! one's own man ; a kinsman
-স্বজনী Dessinence ; ! a confidante.  one's own woman ; a kinswoman
+স্বজনী Dessinence ; ! a confidante. one's own woman ; a kinswoman
 স্বজ্ঞা Dessinence ; ! intuition
 স্বতঃসিদ্ধ Dessinence ; ! axiom
 স্বতন্ত্রতা Dessinence ; ! Difference ; isolation
@@ -25413,7 +25413,7 @@ LEXICON NounStem
 স্মারকনিধি Dessinence ; ! memorial fund
 স্মারকপত্র Dessinence ; ! a reminder ; a memorandum
 স্মারকলিপি Dessinence ; ! memorandum ; memo
-স্মিত Dessinence ; ! a  smile
+স্মিত Dessinence ; ! a smile
 স্মৃতি Dessinence ; ! inward recollection or reflection ; remembrance
 স্মৃতিকথা Dessinence ; ! memoirs
 স্মৃতিচারণ Dessinence ; ! reminiscence
@@ -25421,7 +25421,7 @@ LEXICON NounStem
 স্মৃতিবার্ষিকী Dessinence ; ! an anniversary
 স্মৃতিবিভ্রম Dessinence ; ! confusion or loss of memory
 স্মৃতিভাণ্ডার Dessinence ; ! memorial fund
-স্মৃতিভ্রংশ Dessinence ; ! loss  of memory ; dementia
+স্মৃতিভ্রংশ Dessinence ; ! loss of memory ; dementia
 স্মৃতিমন্দির Dessinence ; ! a mausoleum ; a cenotaph
 স্মৃতিশক্তি Dessinence ; ! Memory ; retentive faculty
 স্মৃতিশাস্ত্র Dessinence ; ! the holy law-book of the Hindus
@@ -25573,7 +25573,7 @@ LEXICON NounStem
 হরমোন Dessinence ; ! hormone
 হরি Dessinence ; ! Narayana
 হরিচন্দন Dessinence ; ! white sandalwood
-হরিজন Dessinence ; ! Depressed class among the  Hindus ; untouchables
+হরিজন Dessinence ; ! Depressed class among the Hindus ; untouchables
 হরিণ Dessinence ; ! Deer ; antelope
 হরিণছানা Dessinence ; ! a fawn
 হরিণবাড়ি Dessinence ; ! a prison-house of ancient Calcutta ; a prison
@@ -25688,9 +25688,9 @@ LEXICON NounStem
 হাঙর Dessinence ; ! the shark ; an extortioner
 হাঙ্গর Dessinence ; ! Shark ; greedy or ravenous fellow
 হাঙ্গামা Dessinence ; ! turmoil ; turbulence
-হাজত Dessinence ; ! a guardroom for un der-trial prisoners ; a  lock-up
+হাজত Dessinence ; ! a guardroom for un der-trial prisoners ; a lock-up
 হাজরি Dessinence ; ! same as
-হাজা Dessinence ; ! excessive rainfall or flood ;  chil blain
+হাজা Dessinence ; ! excessive rainfall or flood ; chil blain
 হাজাশুখা Dessinence ; ! excessive rain or flood and drought
 হাজি Dessinence ; ! a haji
 হাজিরা Dessinence ; ! attendance
@@ -25844,7 +25844,7 @@ LEXICON NounStem
 হিবানামা Dessinence ; ! a deed of gift
 হিব্রু Dessinence ; ! the Hebrew race, Hebrews ; a He brew
 হিম Dessinence ; ! winter ; snow
-হিমঋতু Dessinence ; ! winter,  cold weather
+হিমঋতু Dessinence ; ! winter, cold weather
 হিমগিরি Dessinence ; ! the Himalayas
 হিমঘর Dessinence ; ! a cold store ; cold storage
 হিমঝঞ্ঝা Dessinence ; ! a hail-storm ; a blizzard
@@ -25972,56 +25972,56 @@ LEXICON NounStem
 োটিনসংশ্লেষ Dessinence ; ! protein synthesis
 
 LEXICON Dessinence
-+N:0        Classifier ;
-+N:0        Case ;
++N:0 Classifier ;
++N:0 Case ;
 
 LEXICON Classifier
-+Cl1:খানা	Case;
-+Cl2:খানি	Case;
-+Cl3:গুলো	Case;
-+Cl4:গুলি	Case;
-+Cl5:টুকু	Case;
-+Cl6:যোন	Case;
-+Cl7:টা		Case;
-+CL8:টি		Case;
++Cl1:খানা Case;
++Cl2:খানি Case;
++Cl3:গুলো Case;
++Cl4:গুলি Case;
++Cl5:টুকু Case;
++Cl6:যোন Case;
++Cl7:টা Case;
++CL8:টি Case;
 
 LEXICON Case
 ! Nominative Case
 +Nom+Sg:0	# ; ! 0
-+Nom+Pl:রা	 # ; ! ra
-+Nom+Pl:েরঅ     # ; ! era
-+Nom+Pl:য়েরা   # ; ! d͡ʒera
-+Nom+Pl+NonHum:গুলো	 # ; ! ɡulo
-+Nom+Pl+NonHum:গুলি	 # ; ! ɡuli
++Nom+Pl:রা # ; ! ra
++Nom+Pl:েরঅ # ; ! era
++Nom+Pl:য়েরা # ; ! d͡ʒera
++Nom+Pl+NonHum:গুলো # ; ! ɡulo
++Nom+Pl+NonHum:গুলি # ; ! ɡuli
 
 ! Objective Case
-+Acc+Sg:কে  # ; ! ke
-+Acc+Sg:রে	 # ; ! re
-+Acc+Sg:এরা	 # ; ! er
-+Acc+Pl:ডের	 # ; ! der
-+Acc+Pl:এডের	 # ; ! eder
-+Acc+Pl:দিগ	 # ; ! diɡɔ
-+Acc+Pl:ডেরকে	 # ; ! derke
-+Acc+Pl:এডেরকে	 # ; ! ederke
-+Acc+Pl:দিগকে	 # ; ! diɡɔke
-+Acc+Pl+NonHum:গুলোকে	 # ; ! ɡuloke
-+Acc+Pl+NonHum:গুলিকে	 # ; ! ɡulike
++Acc+Sg:কে # ; ! ke
++Acc+Sg:রে # ; ! re
++Acc+Sg:এরা # ; ! er
++Acc+Pl:ডের # ; ! der
++Acc+Pl:এডের # ; ! eder
++Acc+Pl:দিগ # ; ! diɡɔ
++Acc+Pl:ডেরকে # ; ! derke
++Acc+Pl:এডেরকে # ; ! ederke
++Acc+Pl:দিগকে # ; ! diɡɔke
++Acc+Pl+NonHum:গুলোকে # ; ! ɡuloke
++Acc+Pl+NonHum:গুলিকে # ; ! ɡulike
 
 ! Genitive Case
-+Gen+Sg:এর	 # ; ! er
-+Gen+Sg:র	 # ; ! r
-+Gen+Sg:য়ের      # ; ! d͡ʒer
-+Gen+Pl:ডের	 # ; ! der
-+Gen+Pl:এডের	 # ; ! eder
-+Gen+Pl:দিগের	 # ; ! diɡer
-+Gen+Pl+NonHum:গুলির	 # ; ! ɡulir
-+Gen+Pl+NonHum:গুলোর	 # ; ! ɡulor
++Gen+Sg:এর # ; ! er
++Gen+Sg:র # ; ! r
++Gen+Sg:য়ের # ; ! d͡ʒer
++Gen+Pl:ডের # ; ! der
++Gen+Pl:এডের # ; ! eder
++Gen+Pl:দিগের # ; ! diɡer
++Gen+Pl+NonHum:গুলির # ; ! ɡulir
++Gen+Pl+NonHum:গুলোর # ; ! ɡulor
 
 ! Locative Case
-+At+Sg:তে	 # ; ! te
-+At+Sg:য়       # ; ! d͡ʒɔ
-+At+Sg:য়ে      # ; ! d͡ʒe
-+At+Sg:ে	 # ; ! e
-+At+Sg:এ        # ; ! e
-+At+Pl+NonHum:গুলোতে	 # ; ! ɡulote
-+At+Pl+NonHum:গুলিতে	 # ; ! ɡulite
++At+Sg:তে # ; ! te
++At+Sg:য় # ; ! d͡ʒɔ
++At+Sg:য়ে # ; ! d͡ʒe
++At+Sg:ে # ; ! e
++At+Sg:এ # ; ! e
++At+Pl+NonHum:গুলোতে # ; ! ɡulote
++At+Pl+NonHum:গুলিতে # ; ! ɡulite
