@@ -42,7 +42,9 @@ class FST(object):
         analysis_list = []
         for token, token_analyses in zip(tokens, analyses.split('\n\n')):
             morphs, lemma = self._get_best_analysis(token_analyses.split('\n'))
-            if lemma:
+            if lemma == '?':
+                analysis_list.append(([token], token))
+            elif lemma:
                 analysis_list.append((morphs, lemma))
             else:
                 analysis_list.append(([token], token))

@@ -27,13 +27,14 @@ def get_cost(aml):
 def main(fstpath, path_in, path_out):
     fst = fstinter.FST(fstpath, get_cost)
     for fnin in glob.glob(os.path.join(path_in, '*')):
+        print("Analyzing {}...".format(fnin))
         fnout = os.path.join(path_out, os.path.basename(fnin))
         with open(fnin, encoding='utf-8') as fin, open(fnout, 'w', encoding='utf-8') as fout:
             for line in tqdm.tqdm(fin, total=get_num_lines(fnin)):
                 output = []
                 tokens = line.strip().split()
                 analyses = fst.analyses(tokens)
-                for token, (morphs, lemma) in zip(tokens, analyses):
+                for (token, (morphs, lemma)) in analyses:
                     props = [] if len(morphs) < 2 else morphs[1:]
                     output.append('w:{}~l:{}~m:{}'.format(token,
                                                           lemma,
