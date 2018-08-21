@@ -26,7 +26,7 @@ def get_cost(aml):
 
 def main(fstpath, path_in, path_out):
     fst = fstinter.FST(fstpath, get_cost)
-    for fnin in glob.glob(os.path.join(path_in, '*')):
+    for fnin in glob.glob(path_in):
         print("Analyzing {}...".format(fnin))
         fnout = os.path.join(path_out, os.path.basename(fnin))
         with open(fnin, encoding='utf-8') as fin, open(fnout, 'w', encoding='utf-8') as fout:
