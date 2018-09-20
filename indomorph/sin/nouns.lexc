@@ -1,13 +1,13 @@
 !!!nouns.lexc!!!
 
-Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSSTEM
+Multichar_Symbols +N +Anim +Inanim +Indef +Nom +Acc +Dat +GenLoc +InstrAbl +Voc +Sg +Pl +Indef ^GUESSNOUNSTEM
 
 LEXICON Root
   ShortAStem;
   LongAStem;
 
 LEXICON ShortAStem
-^GUESSSTEM ShortANoun; ! Guesser
+^GUESSNOUNSTEM ShortANoun; ! Guesser
 fප්ලාස්කුව ShortANoun; ! falaːskuva "flask"
 fපිලට්ටුව ShortANoun; ! failaʈʈuva "fillet"
 fපිලරය ShortANoun; ! failaraja "filler"
@@ -23237,7 +23237,7 @@ fපෝමික LongANoun; ! faoːmikaː "formica"
 සංශෝධකය LongANoun; ! saŋsoːdakajaː "reformer"
 සංසන්ධිකය LongANoun; ! saŋsandikajaː "negotiator"
 සංස්ථ LongANoun; ! saŋstaː "corporation"
-සංසිඳනව LongANoun; ! saŋsindanavaː "pacify;console"
+සංසිඳනව LongANoun; ! saŋsindanavaː "pacify;console"``
 සංසිඳුවන්න LongANoun; ! saŋsinduvannaː "pacifier"
 සංහිත LongANoun; ! saŋhitaː "compilation"
 සක්කර LongANoun; ! sakkaraː "jaggery"
