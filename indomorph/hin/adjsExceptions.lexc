@@ -1,0 +1,26 @@
+!!!Irregular adjective surface form entries for Hindi (Hand-written)!!!
+Multichar_Symbols
+!Morphological properties
++Adj
++Masc +Fem +Sg +Pl +Dir +Obl
+
+LEXICON Root
+! These do not inflect even though they end in -आ /aː/
+! There can be a lot more, just listing those on HindiGrammarSketch
+ज़्यादा Number ; ! /zjaːdaː/
+ज़िंदा Number ; ! /zindaː/
+पैदा Number ; ! /paidaː/
+बढ़िया Number ; ! /bəɽ̥ijaː/
+सवा Number ; ! /savaː/
+
+LEXICON Number
++Sg:0 Gender ;
++Pl:0 Gender ;
+
+LEXICON Gender
++Masc:0 Case ;
++Fem:0 Case ;
+
+LEXICON Case
++Dir:0 # ;
++Obl:0 # ;
