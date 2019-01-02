@@ -1,0 +1,931 @@
+!!!verbs.lexc for Hindi!!!
+Multichar_Symbols
+!Morphological properties
++V
++1st +2nd +3rd
++Masc +Fem +Sg +Pl
++Inf ! Infinitive
++PrfPrc +ImprfPrc ! Perfective/imperfective participle
++Subj +Fut ! Subjunctive, Future
++Imprt +Int +Fam +Frm ! Imperative, Intimate, Familiar, Formal
+
+LEXICON Root
+VerbStem ;
+
+LEXICON VerbStem
+अखर Suffix ; ! /akʰrə-naː/ grate
+अटक Suffix ; ! /aʈkə-naː/ flounder, pause
+अटका Suffix ; ! /aʈkaː-naː/ hobble, fasten
+अड़ Suffix ; ! /aɽ-naː/ balk, baulk
+अपना Suffix ; ! /apnaː-naː/ calculate, come round
+अलाप Suffix ; ! /alaːp-naː/ chant
+आज़मा Suffix ; ! /aːzmaː-naː/ try <somebody> out, try
+आज़मा Suffix ; ! /aːzmaː-naː/ to test, to try
+आ Suffix ; ! /aː-naː/ grow, grow out of
+आंक Suffix ; ! /aːŋk-naː/ assess, measure
+आँक Suffix ; ! /ãːkə-naː/ put, judge
+इठला Suffix ; ! /iʈʰlaː-naː/ frolic, flaunt
+इतरा Suffix ; ! /itraː-naː/ pride, tout
+उकसा Suffix ; ! /uksaː-naː/ encourage, prompt
+उकेर Suffix ; ! /uker-naː/ etch
+उखड़ Suffix ; ! /ukʰɽə-naː/ come out
+उखाड़ Suffix ; ! /ukʰaːɽ-naː/ jerk, stub
+उखाड़ Suffix ; ! /ukʰaːɽ-naː/ eradicate, extirpate
+उग Suffix ; ! /uɡ-naː/ rise, come up
+उगल Suffix ; ! /uɡlə-naː/ spew
+उगलवा Suffix ; ! /uɡləvaː-naː/ prise out
+उगा Suffix ; ! /uɡaː-naː/ propagate, train
+उगाह Suffix ; ! /uɡaːɦ-naː/ squeeze, wring
+उछल Suffix ; ! /ut͡ʃʰlə-naː/ bounce, dance
+उछाल Suffix ; ! /ut͡ʃʰaːl-naː/ flip, kick up
+उजाड़ Suffix ; ! /ud͡ʒaːɽ-naː/ devastate, destroy
+उठ Suffix ; ! /uʈʰ-naː/ go up, rise
+उठा Suffix ; ! /uʈʰaː-naː/ bear, pick up
+उड़ Suffix ; ! /uɽ-naː/ flight, take off
+उड़ Suffix ; ! /uɽ-naː/ aviate, fly
+उड़ा Suffix ; ! /uɽaː-naː/ plane, wing
+उड़ा Suffix ; ! /uɽaː-naː/ blow, dispel
+उतर Suffix ; ! /utrə-naː/ alight, land
+उतरा Suffix ; ! /utraː-naː/ bob, surface
+उतार Suffix ; ! /utaːr-naː/ strip, descend
+उधेड़ Suffix ; ! /ud̤eɽ-naː/ untack, undo
+उपज Suffix ; ! /upd͡ʒə-naː/ carry, born
+उपजा Suffix ; ! /upd͡ʒaː-naː/ grow, carry
+उबर Suffix ; ! /ubrə-naː/ emerge
+उबल Suffix ; ! /ublə-naː/ boil
+उबार Suffix ; ! /ubaːr-naː/ bail <somebody> out
+उबाल Suffix ; ! /ubaːl-naː/ cook, boil
+उभर Suffix ; ! /ub̤rə-naː/ bulge, emerge
+उभाड़ Suffix ; ! /ub̤aːɽ-naː/ encourage
+उभार Suffix ; ! /ub̤aːr-naː/ rake up, set off
+उमड़ Suffix ; ! /umɽə-naː/ rain, well
+उमड़ Suffix ; ! /umɽə-naː/ bloom, brew
+उमेठ Suffix ; ! /umeʈʰ-naː/ wrest, writhe
+उलझ Suffix ; ! /uld͡ʒ̤ə-naː/ lock, bog down
+उलझा Suffix ; ! /uld͡ʒ̤aː-naː/ foul, embroil
+उलट Suffix ; ! /ulʈə-naː/ keel over, backfire
+ऊब Suffix ; ! /uːb-naː/ tire of doing <something>, tire of <something>
+ए Suffix ; ! /e-naː/ draw breath
+ऐंठ Suffix ; ! /æːnʈʰ-naː/ squeeze, rack
+ओढ़ Suffix ; ! /oɽ̥ə-naː/ drape
+ओढ़ Suffix ; ! /oɽ̥ə-naː/ mantle, muffle
+कट Suffix ; ! /kəʈ-naː/ cut, cut off
+कटवा Suffix ; ! /kəʈvaː-naː/ crop, to cause to cut
+कतर Suffix ; ! /kətrə-naː/ shred, crop
+कतरा Suffix ; ! /kətraː-naː/ bypass, dodge
+क Suffix ; ! /kə-naː/ get out
+कब्जा Suffix ; ! /kəbd͡ʒaː-naː/ unhinge
+कमा Suffix ; ! /kəmaː-naː/ get, net
+कर Suffix ; ! /kər-naː/ set, bore
+करवा Suffix ; ! /kərvaː-naː/ get
+करा Suffix ; ! /kəraː-naː/ get, undergo
+कराह Suffix ; ! /kəraːɦ-naː/ moan, groan
+कस Suffix ; ! /kəs-naː/ screw, set
+कह Suffix ; ! /kəɦ-naː/ drop, speak up for
+काट Suffix ; ! /kaːʈ-naː/ log, nip
+कात Suffix ; ! /kaːt-naː/ spin
+काम Suffix ; ! /kaːm-naː/ serve
+कांप Suffix ; ! /kaːmp-naː/ quake
+किया Suffix ; ! /kijaː-naː/ raise
+किस Suffix ; ! /kis-naː/ grate
+कुचल Suffix ; ! /kut͡ʃlə-naː/ heel, tread
+कुड़कुड़ा Suffix ; ! /kuɽkuɽaː-naː/ cackle
+कुढ़ Suffix ; ! /kuɽ̥ə-naː/ resent
+कुतर Suffix ; ! /kutrə-naː/ nibble, gnaw
+कुरेद Suffix ; ! /kured-naː/ scratch about, root
+कुलबुला Suffix ; ! /kulbulaː-naː/ wiggle
+कुहुक Suffix ; ! /kuɦuk-naː/ warbler
+कूक Suffix ; ! /kuːk-naː/ squeak, squeal
+कूद Suffix ; ! /kuːd-naː/ plunge, jump
+कोस Suffix ; ! /kos-naː/ curse, rail against
+खटखटा Suffix ; ! /kʰəʈkʰəʈaː-naː/ knock
+खदेड़ Suffix ; ! /kʰədeɽ-naː/ chase off, chase away
+खदेड़ Suffix ; ! /kʰədeɽ-naː/ chase, course
+खनका Suffix ; ! /kʰənkaː-naː/ chink
+खपा Suffix ; ! /kʰəpaː-naː/ absorb
+खरीद Suffix ; ! /kʰəriːd-naː/ buy out, buy
+ख़रीद Suffix ; ! /xəriːd-naː/ purchase
+खरोंच Suffix ; ! /kʰəroɲt͡ʃ-naː/ score, scratch around
+खा Suffix ; ! /kʰaː-naː/ pig, eat
+खाँस Suffix ; ! /kʰãːsə-naː/ cough
+खिलखिला Suffix ; ! /kʰilkʰilaː-naː/ giggle
+खिल Suffix ; ! /kʰil-naː/ bear, burst
+खिला Suffix ; ! /kʰilaː-naː/ feed, fill
+खिसक Suffix ; ! /kʰiskə-naː/ shove up, creep
+खिसका Suffix ; ! /kʰiskaː-naː/ shift, spirit
+खिंच Suffix ; ! /kʰiɲt͡ʃ-naː/ chalk, gravitate
+खिंचा Suffix ; ! /kʰiɲt͡ʃaː-naː/ scribble
+खीच Suffix ; ! /kʰiːt͡ʃ-naː/ tense
+खीज Suffix ; ! /kʰiːd͡ʒ-naː/ grouch
+खींच Suffix ; ! /kʰiːɲt͡ʃ-naː/ tug, strain
+खीँच Suffix ; ! /kʰĩːt͡ʃə-naː/ pull, raise
+खुजला Suffix ; ! /kʰud͡ʒlaː-naː/ scratch
+खुल Suffix ; ! /kʰul-naː/ come unstuck, unwind
+खुलवा Suffix ; ! /kʰulvaː-naː/ draw
+खे Suffix ; ! /kʰe-naː/ pull, row
+खेल Suffix ; ! /kʰel-naː/ block, fiddle
+खोज Suffix ; ! /kʰod͡ʒ-naː/ nut, scout
+खोद Suffix ; ! /kʰod-naː/ scratch, spade
+खो Suffix ; ! /kʰo-naː/ go astray, renounce
+खोल Suffix ; ! /kʰol-naː/ turn on, unwind
+खौल Suffix ; ! /kʰɔːl-naː/ boil, boil over
+खंगाल Suffix ; ! /kʰəŋɡaːl-naː/ swill
+गड़ Suffix ; ! /ɡəɽ-naː/ dig
+गड़बड़ा Suffix ; ! /ɡəɽbəɽaː-naː/ go wrong, muddle
+गढ Suffix ; ! /ɡəɖ̤-naː/ shape, form
+गढ़ Suffix ; ! /ɡəɽ̥ə-naː/ concoct, forge
+गढ़ Suffix ; ! /ɡəɽ̥ə-naː/ coin, strike
+गरज Suffix ; ! /ɡərd͡ʒə-naː/ bark, boom
+गरमा Suffix ; ! /ɡərmaː-naː/ warm up, bind
+गर्ज Suffix ; ! /ɡərd͡ʒə-naː/ send
+गल Suffix ; ! /ɡəl-naː/ run, melt
+गला Suffix ; ! /ɡəlaː-naː/ burn
+गहरा Suffix ; ! /ɡəɦraː-naː/ deepen, darken
+गाड़ Suffix ; ! /ɡaːɽ-naː/ plant, bury
+गा Suffix ; ! /ɡaː-naː/ song, pipe
+गिड़गिड़ा Suffix ; ! /ɡiɽɡiɽaː-naː/ crave
+गिन Suffix ; ! /ɡin-naː/ reckon, count
+गिना Suffix ; ! /ɡinaː-naː/ tick off <something>
+गिर Suffix ; ! /ɡir-naː/ peel, keel over
+गिरा Suffix ; ! /ɡiraː-naː/ bring <something> down, destroy
+गीर Suffix ; ! /ɡiːr-naː/ fail
+गुजर Suffix ; ! /ɡud͡ʒrə-naː/ undergo, pass by
+गुज़र Suffix ; ! /ɡuzrə-naː/ pass, blow over
+गुज़र Suffix ; ! /ɡuzrə-naː/ flash
+गुजार Suffix ; ! /ɡud͡ʒaːr-naː/ crash, carry
+गुज़ार Suffix ; ! /ɡuzaːr-naː/ while away
+गुनगुना Suffix ; ! /ɡunɡunaː-naː/ sing, hum
+गुर्रा Suffix ; ! /ɡurraː-naː/ snarl, growl
+गूंज Suffix ; ! /ɡuːɲd͡ʒ-naː/ resonate
+गूंथ Suffix ; ! /ɡuːntʰ-naː/ braid, quill
+गोद Suffix ; ! /ɡod-naː/ tattoo
+गंवा Suffix ; ! /ɡənvaː-naː/ breathe
+गँवा Suffix ; ! /ɡə̃vaː-naː/ sink, misspend
+घट Suffix ; ! /ɡ̤əʈ-naː/ scene, recede
+घटा Suffix ; ! /ɡ̤əʈaː-naː/ deduct, round down
+घबड़ा Suffix ; ! /ɡ̤əbɽaː-naː/ panic
+घबरा Suffix ; ! /ɡ̤əbraː-naː/ tremble, swallow
+घसीट Suffix ; ! /ɡ̤əsiːʈ-naː/ scrabble, drag
+घिर Suffix ; ! /ɡ̤ir-naː/ hem in
+घिसट Suffix ; ! /ɡ̤isʈə-naː/ trail
+घिस Suffix ; ! /ɡ̤is-naː/ abrase, rub
+घुम Suffix ; ! /ɡ̤um-naː/ face, turn
+घुमा Suffix ; ! /ɡ̤umaː-naː/ wave, gyrate
+घुर Suffix ; ! /ɡ̤ur-naː/ fix with
+घुल Suffix ; ! /ɡ̤ul-naː/ dissolve, blend
+घुस Suffix ; ! /ɡ̤us-naː/ search, enter
+घुसा Suffix ; ! /ɡ̤usaː-naː/ pick, crash
+घूम Suffix ; ! /ɡ̤uːm-naː/ swivel, roam
+घूर Suffix ; ! /ɡ̤uːr-naː/ fix, regard
+घेर Suffix ; ! /ɡ̤er-naː/ rail in, ring
+घोट Suffix ; ! /ɡ̤oʈ-naː/ burnish, cram
+घोल Suffix ; ! /ɡ̤ol-naː/ dissolve, combine
+घोंट Suffix ; ! /ɡ̤onʈ-naː/ keep down
+घोंप Suffix ; ! /ɡ̤omp-naː/ knife
+चकरा Suffix ; ! /t͡ʃəkraː-naː/ swim, reel
+चख Suffix ; ! /t͡ʃəkʰ-naː/ taste, try
+चखा Suffix ; ! /t͡ʃəkʰaː-naː/ enjoy
+चटक Suffix ; ! /t͡ʃəʈkə-naː/ crack
+चटका Suffix ; ! /t͡ʃəʈkaː-naː/ crack
+चढ Suffix ; ! /t͡ʃəɖ̤-naː/ shin down, ride
+चढ़ Suffix ; ! /t͡ʃəɽ̥ə-naː/ mount
+चढ़ Suffix ; ! /t͡ʃəɽ̥ə-naː/ transcend, soar
+चढा Suffix ; ! /t͡ʃəɖ̤aː-naː/ climb, give
+चढ़ा Suffix ; ! /t͡ʃəɽ̥aː-naː/ lift, coat
+चढ़ा Suffix ; ! /t͡ʃəɽ̥aː-naː/ back, surface
+चबा Suffix ; ! /t͡ʃəbaː-naː/ chew, masticate
+चमक Suffix ; ! /t͡ʃəmkə-naː/ blaze, glare
+चमका Suffix ; ! /t͡ʃəmkaː-naː/ do, flash
+चर Suffix ; ! /t͡ʃər-naː/ crop, browse
+चरमरा Suffix ; ! /t͡ʃərməraː-naː/ squeak, scrunch
+चरा Suffix ; ! /t͡ʃəraː-naː/ grass, graze
+चल Suffix ; ! /t͡ʃəl-naː/ go, behave
+चला Suffix ; ! /t͡ʃəlaː-naː/ utter, kick
+चहक Suffix ; ! /t͡ʃəɦkə-naː/ twitter, chitter
+चहचहा Suffix ; ! /t͡ʃəɦt͡ʃəɦaː-naː/ tweet, sing
+चाट Suffix ; ! /t͡ʃaːʈ-naː/ lick, lap up
+चाह Suffix ; ! /t͡ʃaːɦ-naː/ aspire, fancy
+चिचिया Suffix ; ! /t͡ʃit͡ʃijaː-naː/ yell
+चिढ़ Suffix ; ! /t͡ʃiɽ̥ə-naː/ fray
+चिढ़ Suffix ; ! /t͡ʃiɽ̥ə-naː/ spite
+चिढा Suffix ; ! /t͡ʃiɖ̤aː-naː/ get up nose, needle
+चिढ़ा Suffix ; ! /t͡ʃiɽ̥aː-naː/ taunt, twit
+चिपक Suffix ; ! /t͡ʃipkə-naː/ bond, stick
+चिपका Suffix ; ! /t͡ʃipkaː-naː/ plaster, paste
+चिल्ला Suffix ; ! /t͡ʃillaː-naː/ holler, call
+चिंघाड़ Suffix ; ! /t͡ʃiŋɡ̤aːɽ-naː/ trumpet
+चीख Suffix ; ! /t͡ʃiːkʰ-naː/ yell, shout
+चीर Suffix ; ! /t͡ʃiːr-naː/ rend, snag
+चुका Suffix ; ! /t͡ʃukaː-naː/ square, pay
+चुग Suffix ; ! /t͡ʃuɡ-naː/ pick, peck
+चुन Suffix ; ! /t͡ʃun-naː/ cull, winnow
+चु Suffix ; ! /t͡ʃu-naː/ mark out for
+चुपड़ Suffix ; ! /t͡ʃupɽə-naː/ baste
+चुभ Suffix ; ! /t͡ʃub̤-naː/ nip, prickle
+चुरा Suffix ; ! /t͡ʃuraː-naː/ abstract, whip
+चूक Suffix ; ! /t͡ʃuːk-naː/ miss
+चू Suffix ; ! /t͡ʃuː-naː/ leak, drip
+चूम Suffix ; ! /t͡ʃuːm-naː/ kiss
+चूस Suffix ; ! /t͡ʃuːs-naː/ suck
+चेता Suffix ; ! /t͡ʃetaː-naː/ remind
+चौंक Suffix ; ! /t͡ʃɔːŋk-naː/ start, startle
+चौंका Suffix ; ! /t͡ʃɔːŋkaː-naː/ jump
+छटपटा Suffix ; ! /t͡ʃʰəʈpəʈaː-naː/ wriggle, wiggle
+छप Suffix ; ! /t͡ʃʰəp-naː/ carry
+छपवा Suffix ; ! /t͡ʃʰəpvaː-naː/ advertise, print
+छपा Suffix ; ! /t͡ʃʰəpaː-naː/ print
+छलक Suffix ; ! /t͡ʃʰəlkə-naː/ spill, slop around
+छलका Suffix ; ! /t͡ʃʰəlkaː-naː/ spill, slop
+छल Suffix ; ! /t͡ʃʰəl-naː/ cheat, dish
+छान Suffix ; ! /t͡ʃʰaːn-naː/ filter
+छा Suffix ; ! /t͡ʃʰaː-naː/ fall, close in
+छाप Suffix ; ! /t͡ʃʰaːp-naː/ print, run
+छांट Suffix ; ! /t͡ʃʰaːnʈ-naː/ lop off, crop
+छाँट Suffix ; ! /t͡ʃʰãːʈə-naː/ dress, sort
+छिड़क Suffix ; ! /t͡ʃʰiɽkə-naː/ pepper
+छिड़ Suffix ; ! /t͡ʃʰiɽ-naː/ flame up, flame out
+छिन Suffix ; ! /t͡ʃʰin-naː/ seize
+छिप Suffix ; ! /t͡ʃʰip-naː/ shelter, keep down
+छिपा Suffix ; ! /t͡ʃʰipaː-naː/ cover <something> up, whitewash
+छीन Suffix ; ! /t͡ʃʰiːn-naː/ snatch, tackle
+छील Suffix ; ! /t͡ʃʰiːl-naː/ hull, pare
+छींक Suffix ; ! /t͡ʃʰiːŋk-naː/ sneeze
+छुडा Suffix ; ! /t͡ʃʰuɖaː-naː/ disentangle
+छुड़ा Suffix ; ! /t͡ʃʰuɽaː-naː/ rescue, untangle
+छुड़ा Suffix ; ! /t͡ʃʰuɽaː-naː/ deliver, rid
+छुपा Suffix ; ! /t͡ʃʰupaː-naː/ bury, cover
+छूट Suffix ; ! /t͡ʃʰuːʈ-naː/ depart
+छू Suffix ; ! /t͡ʃʰuː-naː/ feel, handle
+छेड़ Suffix ; ! /t͡ʃʰeɽ-naː/ provoke, tease
+छेड़ Suffix ; ! /t͡ʃʰeɽ-naː/ accost, tamper
+छोड़ Suffix ; ! /t͡ʃʰoɽ-naː/ fall out, set
+छोड़ Suffix ; ! /t͡ʃʰoɽ-naː/ absolve, pass
+जकड़ Suffix ; ! /d͡ʒəkɽə-naː/ clamp
+जग Suffix ; ! /d͡ʒəɡ-naː/ awake
+जगा Suffix ; ! /d͡ʒəɡaː-naː/ knock up, awake
+जड़ Suffix ; ! /d͡ʒəɽ-naː/ set, stud
+जड़ Suffix ; ! /d͡ʒəɽ-naː/ fix
+जता Suffix ; ! /d͡ʒətaː-naː/ demonstrate, prompt
+जन Suffix ; ! /d͡ʒən-naː/ produce, breed
+जन्म Suffix ; ! /d͡ʒənmə-naː/ germinate
+जम Suffix ; ! /d͡ʒəm-naː/ set, jell
+जमा Suffix ; ! /d͡ʒəmaː-naː/ adjust, solidify
+जल Suffix ; ! /d͡ʒəl-naː/ light, strike
+जला Suffix ; ! /d͡ʒəlaː-naː/ ignite, char
+जाग Suffix ; ! /d͡ʒaːɡ-naː/ waken, awake
+जान Suffix ; ! /d͡ʒaːn-naː/ discern
+जा Suffix ; ! /d͡ʒaː-naː/ travel, sink
+जांच Suffix ; ! /d͡ʒaːɲt͡ʃ-naː/ investigate
+जाँच Suffix ; ! /d͡ʒãːt͡ʃə-naː/ prove, scrutinise
+जिला Suffix ; ! /d͡ʒilaː-naː/ animate, enliven
+जीत Suffix ; ! /d͡ʒiːt-naː/ carry, get the better of
+जी Suffix ; ! /d͡ʒiː-naː/ survive, live for
+जुट Suffix ; ! /d͡ʒuʈ-naː/ scrap, cohere
+जुटा Suffix ; ! /d͡ʒuʈaː-naː/ provide, work up
+जुड़ Suffix ; ! /d͡ʒuɽ-naː/ knit, fuse
+जुड़ Suffix ; ! /d͡ʒuɽ-naː/ concur, join
+जूझ Suffix ; ! /d͡ʒuːd͡ʒ̤-naː/ wrestle, struggle
+जूट Suffix ; ! /d͡ʒuːʈ-naː/ march
+जोड़ Suffix ; ! /d͡ʒoɽ-naː/ aggregate, tot up
+जोड़ Suffix ; ! /d͡ʒoɽ-naː/ accumulate, link
+जोत Suffix ; ! /d͡ʒot-naː/ team, turn
+झकझोर Suffix ; ! /d͡ʒ̤əkd͡ʒ̤or-naː/ rack, move
+झगड़ Suffix ; ! /d͡ʒ̤əɡɽə-naː/ spat, fall out
+झगड़ Suffix ; ! /d͡ʒ̤əɡɽə-naː/ altercate, vie
+झटक Suffix ; ! /d͡ʒ̤əʈkə-naː/ twitch, work
+झड़ Suffix ; ! /d͡ʒ̤əɽ-naː/ brush, fall
+झनझना Suffix ; ! /d͡ʒ̤ənd͡ʒ̤ənaː-naː/ jingle, clink
+झपक Suffix ; ! /d͡ʒ̤əpkə-naː/ wink, blink
+झलक Suffix ; ! /d͡ʒ̤əlkə-naː/ flicker, glint
+झाड़ Suffix ; ! /d͡ʒ̤aːɽ-naː/ flick, dust
+झाड़ Suffix ; ! /d͡ʒ̤aːɽ-naː/ exorcise, flap
+झांक Suffix ; ! /d͡ʒ̤aːŋk-naː/ look back on
+झाँक Suffix ; ! /d͡ʒ̤ãːkə-naː/ peek, poke
+झिझक Suffix ; ! /d͡ʒ̤id͡ʒ̤kə-naː/ hang back
+झिड़क Suffix ; ! /d͡ʒ̤iɽkə-naː/ bully, snub
+झुक Suffix ; ! /d͡ʒ̤uk-naː/ capitulate, sway
+झुका Suffix ; ! /d͡ʒ̤ukaː-naː/ curve, slope
+झुठला Suffix ; ! /d͡ʒ̤uʈʰlaː-naː/ belie
+झुलस Suffix ; ! /d͡ʒ̤ulsə-naː/ scorch, swelter
+झुलसा Suffix ; ! /d͡ʒ̤ulsaː-naː/ singe, burn
+झुला Suffix ; ! /d͡ʒ̤ulaː-naː/ rock
+झुंझला Suffix ; ! /d͡ʒ̤uɲd͡ʒ̤laː-naː/ rage, to get irritated
+झूम Suffix ; ! /d͡ʒ̤uːm-naː/ vacillate, flaunt
+झूल Suffix ; ! /d͡ʒ̤uːl-naː/ hang, sway
+झेल Suffix ; ! /d͡ʒ̤el-naː/ run the gauntlet, undergo
+झोंक Suffix ; ! /d͡ʒ̤oŋk-naː/ pelt
+टकरा Suffix ; ! /ʈəkraː-naː/ knock, clash
+टटोल Suffix ; ! /ʈəʈol-naː/ boot, grope for
+टपक Suffix ; ! /ʈəpkə-naː/ dribble, drip
+टपका Suffix ; ! /ʈəpkaː-naː/ dribble, drip
+टर्रा Suffix ; ! /ʈərraː-naː/ croak
+टल Suffix ; ! /ʈəl-naː/ elude, sidestep
+टहल Suffix ; ! /ʈəɦlə-naː/ walk around, perambulate
+टाल Suffix ; ! /ʈaːl-naː/ wish on, procrastinate
+टांक Suffix ; ! /ʈaːŋk-naː/ sew
+टांग Suffix ; ! /ʈaːŋɡ-naː/ sky, hang
+टिक Suffix ; ! /ʈik-naː/ rest, rest on
+टिका Suffix ; ! /ʈikaː-naː/ brace, rest
+टिमटिमा Suffix ; ! /ʈimʈimaː-naː/ twinkle, glimmer
+टूट Suffix ; ! /ʈuːʈ-naː/ wear out, snap
+टेक Suffix ; ! /ʈek-naː/ kneel, lean
+टोक Suffix ; ! /ʈok-naː/ take up, interject
+ठग Suffix ; ! /ʈʰəɡ-naː/ diddle, con
+ठहर Suffix ; ! /ʈʰəɦrə-naː/ breathe, pause
+ठहरा Suffix ; ! /ʈʰəɦraː-naː/ pull, attribut
+ठुकरा Suffix ; ! /ʈʰukraː-naː/ scorn, spurn
+ठुमक Suffix ; ! /ʈʰumkə-naː/ trip, pound
+ठूस Suffix ; ! /ʈʰuːs-naː/ cram
+ठूंस Suffix ; ! /ʈʰuːns-naː/ cram, glut
+ठेल Suffix ; ! /ʈʰel-naː/ push, wheel
+ठोक Suffix ; ! /ʈʰok-naː/ knock in, drive
+ठोंक Suffix ; ! /ʈʰoŋk-naː/ knock, hammer
+डकार Suffix ; ! /ɖəkaːr-naː/ belch, bellow
+डगमगा Suffix ; ! /ɖəɡməɡaː-naː/ careen, waver
+डर Suffix ; ! /ɖər-naː/ live in awe, dread
+डरा Suffix ; ! /ɖəraː-naː/ scare, spook
+डल Suffix ; ! /ɖəl-naː/ Fall, bite
+डस Suffix ; ! /ɖəs-naː/ bite, sting
+डाल Suffix ; ! /ɖaːl-naː/ pick, expose
+डांट Suffix ; ! /ɖaːnʈ-naː/ dress down, tick <someone> off
+डाँट Suffix ; ! /ɖãːʈə-naː/ remonstrate, scold
+डिग Suffix ; ! /ɖiɡ-naː/ aberrate, budge
+डिगा Suffix ; ! /ɖiɡaː-naː/ budge
+डुब Suffix ; ! /ɖub-naː/ dip
+डुबा Suffix ; ! /ɖubaː-naː/ dunk, dip
+डुबो Suffix ; ! /ɖubo-naː/ dabble
+डुल Suffix ; ! /ɖul-naː/ waggle
+डुला Suffix ; ! /ɖulaː-naː/ waggle
+डूब Suffix ; ! /ɖuːb-naː/ be lost in, pitch
+डोल Suffix ; ! /ɖol-naː/ oscillate, rock
+ढक Suffix ; ! /ɖ̤ək-naː/ shroud, top
+ढकेल Suffix ; ! /ɖ̤əkel-naː/ dig, shoot
+ढलका Suffix ; ! /ɖ̤əlkaː-naː/ run
+ढल Suffix ; ! /ɖ̤əl-naː/ descend, decline
+ढह Suffix ; ! /ɖ̤əɦ-naː/ cave in, rain down
+ढहा Suffix ; ! /ɖ̤əɦaː-naː/ tear down, demolish
+ढा Suffix ; ! /ɖ̤aː-naː/ batter, demolish
+ढाल Suffix ; ! /ɖ̤aːl-naː/ work, douse
+ढूंढ Suffix ; ! /ɖ̤uːnɖ̤-naː/ seek
+ढूंढ़ Suffix ; ! /ɖ̤uːnɽ̥ə-naː/ explore, spy
+ढूँढ Suffix ; ! /ɖ̤ũːɖ̤ə-naː/ look out, search
+ढूँढ़ Suffix ; ! /ɖ̤ũːɽ̥ə-naː/ rake, find
+ढो Suffix ; ! /ɖ̤o-naː/ haul, horse
+ढंक Suffix ; ! /ɖ̤əŋk-naː/ carpet, veil
+तज Suffix ; ! /təd͡ʒ-naː/ abandon, abdicate
+तड़प Suffix ; ! /təɽpə-naː/ squirm, yearn
+तड़प Suffix ; ! /təɽpə-naː/ flounder, flutter
+तप Suffix ; ! /təp-naː/ beat down on
+तपा Suffix ; ! /təpaː-naː/ burn, warm
+तरस Suffix ; ! /tərsə-naː/ yearn, yen
+तरसा Suffix ; ! /tərsaː-naː/ tantalize
+तराश Suffix ; ! /təraːʃ-naː/ carve, cut
+तल Suffix ; ! /təl-naː/ brown, fry
+तलाश Suffix ; ! /təlaːʃ-naː/ grope
+ताक Suffix ; ! /taːk-naː/ peer
+ताड़ Suffix ; ! /taːɽ-naː/ read
+ताड़ Suffix ; ! /taːɽ-naː/ espy, eye
+ताप Suffix ; ! /taːp-naː/ warm
+तुतला Suffix ; ! /tutlaː-naː/ lisp
+तुल Suffix ; ! /tul-naː/ liken
+तैर Suffix ; ! /tæːr-naː/ sail, float
+तैरा Suffix ; ! /tæːraː-naː/ float, waft
+तोड़ Suffix ; ! /toɽ-naː/ blow, break from
+तोड़ Suffix ; ! /toɽ-naː/ pull, quash
+तोल Suffix ; ! /tol-naː/ balance, weigh
+तौल Suffix ; ! /tɔːl-naː/ measure, weigh out
+त्याग Suffix ; ! /tjaːɡ-naː/ abnegate, desert
+थक Suffix ; ! /tʰək-naː/ wear out, tire
+थका Suffix ; ! /tʰəkaː-naː/ tire, strain
+थपक Suffix ; ! /tʰəpkə-naː/ rock, tip
+थपका Suffix ; ! /tʰəpkaː-naː/ clap, dab
+थपथपा Suffix ; ! /tʰəptʰəpaː-naː/ tap, pat
+थम Suffix ; ! /tʰəm-naː/ stanch, stand
+थमा Suffix ; ! /tʰəmaː-naː/ carry
+थाम Suffix ; ! /tʰaːm-naː/ catch
+थिरक Suffix ; ! /tʰirkə-naː/ jive, to dance rhythmically
+थूक Suffix ; ! /tʰuːk-naː/ spit
+थोप Suffix ; ! /tʰop-naː/ press, fasten
+दनद Suffix ; ! /dəndə-naː/ boom
+दनदना Suffix ; ! /dəndənaː-naː/ boom
+दफना Suffix ; ! /dəpʰnaː-naː/ bury, inter
+दफ़ना Suffix ; ! /dəfnaː-naː/ lay <somebody> to rest, bury
+दब Suffix ; ! /dəb-naː/ quail, sag
+दबा Suffix ; ! /dəbaː-naː/ jam on, smother
+दबोच Suffix ; ! /dəbot͡ʃ-naː/ compress, nab
+दर्शा Suffix ; ! /dərʃaː-naː/ peg, outline
+दल Suffix ; ! /dəl-naː/ bruise, mash
+दहक Suffix ; ! /dəɦkə-naː/ smoulder, flame
+दहाड़ Suffix ; ! /dəɦaːɽ-naː/ hold the floor
+दाग Suffix ; ! /daːɡ-naː/ speak, cauterise
+दाग़ Suffix ; ! /daːɣ-naː/ shoot
+दिका Suffix ; ! /dikaː-naː/ show
+दिख Suffix ; ! /dikʰ-naː/ reproduce, act
+दिखला Suffix ; ! /dikʰlaː-naː/ develop
+दिखा Suffix ; ! /dikʰaː-naː/ bear, bare
+दिला Suffix ; ! /dilaː-naː/ insure, direct
+दुख Suffix ; ! /dukʰ-naː/ sting
+दुखा Suffix ; ! /dukʰaː-naː/ torment, lacerate
+दुलार Suffix ; ! /dulaːr-naː/ fondle
+दुह Suffix ; ! /duɦ-naː/ milk
+दुहरा Suffix ; ! /duɦraː-naː/ run through
+देख Suffix ; ! /dekʰ-naː/ thumb, set eyes on
+देखा Suffix ; ! /dekʰaː-naː/ count against
+देख् Suffix ; ! /dekʰ-naː/ witness
+दे Suffix ; ! /de-naː/ take, pay
+दोहरा Suffix ; ! /doɦraː-naː/ rehearse, ingeminate
+दौड़ Suffix ; ! /dɔːɽ-naː/ run, run at
+दौड़ Suffix ; ! /dɔːɽ-naː/ course, hasten
+दौड़ा Suffix ; ! /dɔːɽaː-naː/ run
+दौड़ा Suffix ; ! /dɔːɽaː-naː/ run, start
+धकेल Suffix ; ! /d̤əkel-naː/ force, propel
+धड़क Suffix ; ! /d̤əɽkə-naː/ flutter, palpitate
+धड़क Suffix ; ! /d̤əɽkə-naː/ beat, jaw
+धमका Suffix ; ! /d̤əmkaː-naː/ hector, lift <one> hand against
+धिक्कार Suffix ; ! /d̤ikkaːr-naː/ revile
+धुन Suffix ; ! /d̤un-naː/ tease, card
+धो Suffix ; ! /d̤o-naː/ clean, rinse off
+नकार Suffix ; ! /nəkaːr-naː/ negate, deny
+नचा Suffix ; ! /nət͡ʃaː-naː/ dance
+नहला Suffix ; ! /nəɦlaː-naː/ dip, bathe
+नहा Suffix ; ! /nəɦaː-naː/ wash, bathe
+ Suffix ; ! /-naː/ season, pick up
+नाच Suffix ; ! /naːt͡ʃ-naː/ dance
+नाप Suffix ; ! /naːp-naː/ pace off, gauge
+निकल Suffix ; ! /niklə-naː/ draw, rise
+निकलवा Suffix ; ! /nikləvaː-naː/ have out, take out
+निकाल Suffix ; ! /nikaːl-naː/ exorcise, eliminate
+निखार Suffix ; ! /nikʰaːr-naː/ bleach, make clean
+निगल Suffix ; ! /niɡlə-naː/ absorb, swallow
+निचोड़ Suffix ; ! /nit͡ʃoɽ-naː/ press, wring out
+निचोड़ Suffix ; ! /nit͡ʃoɽ-naː/ express, extract
+निपट Suffix ; ! /nipʈə-naː/ settle, get over
+निपटा Suffix ; ! /nipʈaː-naː/ bucket, mop up
+निबट Suffix ; ! /nibʈə-naː/ stem
+निबटा Suffix ; ! /nibʈaː-naː/ sort out, negotiate
+निबाह Suffix ; ! /nibaːɦ-naː/ perform
+निभा Suffix ; ! /nib̤aː-naː/ carry, face up
+निरा Suffix ; ! /niraː-naː/ weed, weed out
+निहार Suffix ; ! /niɦaːr-naː/ behold, gaze
+नोच Suffix ; ! /not͡ʃ-naː/ pull, pluck
+पकड़ Suffix ; ! /pəkɽə-naː/ detect, field
+पकड़ Suffix ; ! /pəkɽə-naː/ apprehend, halter
+पक Suffix ; ! /pək-naː/ ripen
+पका Suffix ; ! /pəkaː-naː/ do, cook
+पच Suffix ; ! /pət͡ʃ-naː/ digest
+पचा Suffix ; ! /pət͡ʃaː-naː/ carry, stomach
+पछता Suffix ; ! /pət͡ʃʰtaː-naː/ repent, regret
+पछाड़ Suffix ; ! /pət͡ʃʰaːɽ-naː/ throw
+पटक Suffix ; ! /pəʈkə-naː/ plunk, dash
+पटा Suffix ; ! /pəʈaː-naː/ liquidate, shorten
+पड़ Suffix ; ! /pəɽ-naː/ come, take
+पड़ Suffix ; ! /pəɽ-naː/ crust, fall
+पढ Suffix ; ! /pəɖ̤-naː/ study, read on
+पढ़ Suffix ; ! /pəɽ̥ə-naː/ read, decipher
+पढ़ Suffix ; ! /pəɽ̥ə-naː/ intone, run over
+पढा Suffix ; ! /pəɖ̤aː-naː/ tell, tutor
+पढ़ा Suffix ; ! /pəɽ̥aː-naː/ teach
+पढ़ा Suffix ; ! /pəɽ̥aː-naː/ coach, school
+पधार Suffix ; ! /pəd̤aːr-naː/ arrive, set out
+पनप Suffix ; ! /pənpə-naː/ thrive, flourish
+परख Suffix ; ! /pərkʰə-naː/ test, canvass
+परोस Suffix ; ! /pəros-naː/ dish up, serve out
+पलट Suffix ; ! /pəlʈə-naː/ turn, flick through
+पसार Suffix ; ! /pəsaːr-naː/ lay, outstretch
+पसीज Suffix ; ! /pəsiːd͡ʒ-naː/ deliquesce, exude
+पहचान Suffix ; ! /pəɦt͡ʃaːn-naː/ recognize, recognise
+पहचा Suffix ; ! /pəɦt͡ʃaː-naː/ identified, peg
+पहन Suffix ; ! /pəɦnə-naː/ throw, put on
+पह Suffix ; ! /pəɦ-naː/ wearing
+पहना Suffix ; ! /pəɦnaː-naː/ help on with, coat
+पहुंच Suffix ; ! /pəɦuɲt͡ʃ-naː/ make, get through
+पहुंचा Suffix ; ! /pəɦuɲt͡ʃaː-naː/ deal, give a lift
+पहुँच Suffix ; ! /pəɦəũt͡ʃə-naː/ approach, reach
+पहुँचा Suffix ; ! /pəɦəũt͡ʃaː-naː/ deliver, give
+पाट Suffix ; ! /paːʈ-naː/ roof, inundate
+पा Suffix ; ! /paː-naː/ earn, spot
+पाल Suffix ; ! /paːl-naː/ cultivate, rear
+पिघल Suffix ; ! /piɡ̤lə-naː/ dethaw, thaw
+पिघला Suffix ; ! /piɡ̤laː-naː/ unthaw, smelt
+पिछड़ Suffix ; ! /pit͡ʃʰɽə-naː/ fall behind
+पिछड़ Suffix ; ! /pit͡ʃʰɽə-naː/ lag
+पिट Suffix ; ! /piʈ-naː/ come off badly
+पिरो Suffix ; ! /piro-naː/ needle, string
+पिला Suffix ; ! /pilaː-naː/ nurse
+पिस Suffix ; ! /pis-naː/ flour
+पीट Suffix ; ! /piːʈ-naː/ batter, larrup
+पी Suffix ; ! /piː-naː/ wash down, pull
+पीस Suffix ; ! /piːs-naː/ mill, grind
+पुकार Suffix ; ! /pukaːr-naː/ call
+पुचकार Suffix ; ! /put͡ʃkaːr-naː/ fondle, caress
+पुछ Suffix ; ! /put͡ʃʰ-naː/ refer to
+पूछ Suffix ; ! /puːt͡ʃʰ-naː/ address, ask
+पूज Suffix ; ! /puːd͡ʒ-naː/ hallow, idolize
+पूरा Suffix ; ! /puːraː-naː/ do
+पोछ Suffix ; ! /pot͡ʃʰ-naː/ flick away, mop up
+पोत Suffix ; ! /pot-naː/ bedaub, smear
+पोस Suffix ; ! /pos-naː/ nourish, cherish
+पोंछ Suffix ; ! /poɲt͡ʃʰ-naː/ dry up, pat
+प्रताड़ Suffix ; ! /prətaːɽ-naː/ swindle
+फटक Suffix ; ! /pʰəʈkə-naː/ winnow, fan
+फट Suffix ; ! /pʰəʈ-naː/ crack, sour
+फड़क Suffix ; ! /pʰəɽkə-naː/ twitch, palpitate
+फल Suffix ; ! /pʰəl-naː/ fruit, berry
+फसा Suffix ; ! /pʰəsaː-naː/ corner, get
+फहर Suffix ; ! /pʰəɦrə-naː/ unfurl
+फहरा Suffix ; ! /pʰəɦraː-naː/ unfurl, hoist
+फाड़ Suffix ; ! /pʰaːɽ-naː/ pull, rip up
+फांद Suffix ; ! /pʰaːnd-naː/ leap, jump
+फांस Suffix ; ! /pʰaːns-naː/ involve
+फाँद Suffix ; ! /pʰãːdə-naː/ jump
+फिर Suffix ; ! /pʰir-naː/ wander, wind
+फिरा Suffix ; ! /pʰiraː-naː/ run
+फिल्मा Suffix ; ! /pʰilmaː-naː/ film
+फिसल Suffix ; ! /pʰislə-naː/ slide, skid
+फुदक Suffix ; ! /pʰudkə-naː/ hop
+फुफकार Suffix ; ! /pʰupʰkaːr-naː/ hiss
+फुला Suffix ; ! /pʰulaː-naː/ inflate, puff out
+फुसफुसा Suffix ; ! /pʰuspʰusaː-naː/ breathe, whisper
+फूट Suffix ; ! /pʰuːʈ-naː/ cut, crack
+फूल Suffix ; ! /pʰuːl-naː/ blossom, distend
+फूंक Suffix ; ! /pʰuːŋk-naː/ burn, exorcise
+फूँक Suffix ; ! /pʰũːkə-naː/ blow, insufflate
+फेक Suffix ; ! /pʰek-naː/ play
+फेर Suffix ; ! /pʰer-naː/ run, pass
+फेंक Suffix ; ! /pʰeŋk-naː/ shy, dump
+फेंट Suffix ; ! /pʰenʈ-naː/ whisk, ruffle
+फैल Suffix ; ! /pʰæːl-naː/ transmit, expand
+फैला Suffix ; ! /pʰæːlaː-naː/ pass, carry
+फोड़ Suffix ; ! /pʰoɽ-naː/ break, chip
+फोड़ Suffix ; ! /pʰoɽ-naː/ break, burst
+फंस Suffix ; ! /pʰəns-naː/ fall, involve
+फंसा Suffix ; ! /pʰənsaː-naː/ frame
+फँस Suffix ; ! /pʰə̃sə-naː/ catch, mesh
+फँसा Suffix ; ! /pʰə̃saː-naː/ snare, incriminate
+बक Suffix ; ! /bək-naː/ open, rabbit on
+बच Suffix ; ! /bət͡ʃ-naː/ shun, keep out
+बचा Suffix ; ! /bət͡ʃaː-naː/ protect, salt away
+बज Suffix ; ! /bəd͡ʒ-naː/ play, set off
+बजा Suffix ; ! /bəd͡ʒaː-naː/ perform, sing
+बट Suffix ; ! /bəʈ-naː/ braid, intertwine
+बटोर Suffix ; ! /bəʈor-naː/ round, glean
+बड़बड़ा Suffix ; ! /bəɽbəɽaː-naː/ mutter, jabber
+बड़बड़ा Suffix ; ! /bəɽbəɽaː-naː/ chatter, grumble
+बढ Suffix ; ! /bəɖ̤-naː/ gain, take off
+बढ़ Suffix ; ! /bəɽ̥ə-naː/ creep, accumulate
+बढ़ Suffix ; ! /bəɽ̥ə-naː/ advance, bring on
+बढा Suffix ; ! /bəɖ̤aː-naː/ open up, compound
+बढ़ा Suffix ; ! /bəɽ̥aː-naː/ advance, build
+बढ़ा Suffix ; ! /bəɽ̥aː-naː/ fix, gain
+बतला Suffix ; ! /bətlaː-naː/ warn, unfold
+बता Suffix ; ! /bətaː-naː/ tell, unveil
+बदल Suffix ; ! /bədlə-naː/ yield, cut
+बध Suffix ; ! /bəd̤-naː/ package
+बन Suffix ; ! /bən-naː/ make, come out
+बनवा Suffix ; ! /bənvaː-naː/ patch up
+बना Suffix ; ! /bənaː-naː/ do, lay down
+बन् Suffix ; ! /bən-naː/ lay, set
+बरज Suffix ; ! /bərd͡ʒə-naː/ inhibit, prevent
+बरत Suffix ; ! /bərtə-naː/ take, exercise
+बर Suffix ; ! /bər-naː/ bore
+बरस Suffix ; ! /bərsə-naː/ pepper, rain
+बरसा Suffix ; ! /bərsaː-naː/ snow, shower
+बस Suffix ; ! /bəs-naː/ inhabit, people
+बसा Suffix ; ! /bəsaː-naː/ people, entertain
+बहका Suffix ; ! /bəɦkaː-naː/ lead on, string along
+बह Suffix ; ! /bəɦ-naː/ float, course
+बहला Suffix ; ! /bəɦlaː-naː/ court
+बहा Suffix ; ! /bəɦaː-naː/ pass, story
+बांच Suffix ; ! /baːɲt͡ʃ-naː/ read out
+बांट Suffix ; ! /baːnʈ-naː/ parcel out, dole <something> out
+बांध Suffix ; ! /baːnd̤-naː/ bundle, splice
+बाँच Suffix ; ! /bãːt͡ʃə-naː/ read
+बाँट Suffix ; ! /bãːʈə-naː/ apportion, divide
+बाँध Suffix ; ! /bãːd̤ə-naː/ bind, hook up
+बिक Suffix ; ! /bik-naː/ go, sell
+बिखर Suffix ; ! /bikʰrə-naː/ to be scattered, shred
+बिखेर Suffix ; ! /bikʰer-naː/ radiate, separate
+बिगड़ Suffix ; ! /biɡɽə-naː/ fall, pack up
+बिगाड Suffix ; ! /biɡaːɖ-naː/ down
+बिगाड़ Suffix ; ! /biɡaːɽ-naː/ butcher, mangle
+बिगाड़ Suffix ; ! /biɡaːɽ-naː/ addle, screw up
+बिछा Suffix ; ! /bit͡ʃʰaː-naː/ spread, plank
+बिछुड़ Suffix ; ! /bit͡ʃʰuɽ-naː/ part
+बिठा Suffix ; ! /biʈʰaː-naː/ angle
+बित Suffix ; ! /bit-naː/ wear on
+बिता Suffix ; ! /bitaː-naː/ while away, pass
+बिलख Suffix ; ! /bilkʰə-naː/ blubber
+बिलगा Suffix ; ! /bilɡaː-naː/ insulate, detach
+बिलो Suffix ; ! /bilo-naː/ churn
+बिसार Suffix ; ! /bisaːr-naː/ neglect, forget
+बीत Suffix ; ! /biːt-naː/ tick past, fly
+बीता Suffix ; ! /biːtaː-naː/ carry
+बीन Suffix ; ! /biːn-naː/ pick over
+बुझ Suffix ; ! /bud͡ʒ̤-naː/ blow out
+बुझा Suffix ; ! /bud͡ʒ̤aː-naː/ slake, assuage
+बुदबुदा Suffix ; ! /budbudaː-naː/ burble, mumble
+बुन Suffix ; ! /bun-naː/ knit, weave
+बु Suffix ; ! /bu-naː/ allay
+बुला Suffix ; ! /bulaː-naː/ call on, invite
+बुहार Suffix ; ! /buɦaːr-naː/ sweep
+बूझ Suffix ; ! /buːd͡ʒ̤-naː/ read
+बेच Suffix ; ! /bet͡ʃ-naː/ clear, flog
+बैठ Suffix ; ! /bæːʈʰ-naː/ stamp on, beg
+बैठा Suffix ; ! /bæːʈʰaː-naː/ sit, chair
+बो Suffix ; ! /bo-naː/ crop, plant out
+बोल Suffix ; ! /bol-naː/ pipe, call
+बौरा Suffix ; ! /bɔːraː-naː/ bloom
+बंट Suffix ; ! /bənʈ-naː/ separate, split
+बंध Suffix ; ! /bənd̤-naː/ clot, string
+बँध Suffix ; ! /bə̃d̤ə-naː/ contract, tie <something> up
+ब्या Suffix ; ! /bjaː-naː/ calve
+भकोस Suffix ; ! /b̤əkos-naː/ scoff, gobble
+भगा Suffix ; ! /b̤əɡaː-naː/ start, turn
+भज Suffix ; ! /b̤əd͡ʒ-naː/ worship, pray
+भटक Suffix ; ! /b̤əʈkə-naː/ wander, wonder
+भटका Suffix ; ! /b̤əʈkaː-naː/ maze, mislead
+भड़क Suffix ; ! /b̤əɽkə-naː/ blaze, flare
+भड़क Suffix ; ! /b̤əɽkə-naː/ flare
+भड़का Suffix ; ! /b̤əɽkaː-naː/ needle, spark
+भड़का Suffix ; ! /b̤əɽkaː-naː/ aggravate, instigate
+भर Suffix ; ! /b̤ər-naː/ stuff, load
+भरमा Suffix ; ! /b̤ərmaː-naː/ delude
+भाग Suffix ; ! /b̤aːɡ-naː/ take off, chase
+भांज Suffix ; ! /b̤aːɲd͡ʒ-naː/ brandish, entwine
+भांप Suffix ; ! /b̤aːmp-naː/ guess, make out
+भिगा Suffix ; ! /b̤iɡaː-naː/ drench
+भिगो Suffix ; ! /b̤iɡo-naː/ corn, steep
+भिजवा Suffix ; ! /b̤id͡ʒvaː-naː/ send down
+भिड़ Suffix ; ! /b̤iɽ-naː/ bash
+भिड़ Suffix ; ! /b̤iɽ-naː/ abut, engage
+भिनभिना Suffix ; ! /b̤inb̤inaː-naː/ drone
+भीग Suffix ; ! /b̤iːɡ-naː/ drench, soak
+भींग Suffix ; ! /b̤iːŋɡ-naː/ plaster down
+भींच Suffix ; ! /b̤iːɲt͡ʃ-naː/ squeeze, clench
+भुगत Suffix ; ! /b̤uɡtə-naː/ undergo, do
+भुना Suffix ; ! /b̤unaː-naː/ change, encash
+भुला Suffix ; ! /b̤ulaː-naː/ bewilder, deflect
+भूल Suffix ; ! /b̤uːl-naː/ go by the board, duck
+भेज Suffix ; ! /b̤ed͡ʒ-naː/ shoot, send on
+भेद Suffix ; ! /b̤ed-naː/ penetrate, interpenetrate
+भोग Suffix ; ! /b̤oɡ-naː/ experience, undergo
+भोज Suffix ; ! /b̤od͡ʒ-naː/ participate
+भोंक Suffix ; ! /b̤oŋk-naː/ stab
+भौंक Suffix ; ! /b̤ɔːŋk-naː/ bark, bay
+मच Suffix ; ! /mət͡ʃ-naː/ break out, happen
+मचल Suffix ; ! /mət͡ʃlə-naː/ play
+मचला Suffix ; ! /mət͡ʃlaː-naː/ nauseate
+मचा Suffix ; ! /mət͡ʃaː-naː/ raise, cause
+मढ Suffix ; ! /məɖ̤-naː/ transfer
+मढ़ Suffix ; ! /məɽ̥ə-naː/ impute, mount
+मढ़ Suffix ; ! /məɽ̥ə-naː/ coat
+मथ Suffix ; ! /mətʰ-naː/ churn
+मनवा Suffix ; ! /mənvaː-naː/ bend, reconcile
+म Suffix ; ! /mə-naː/ deny
+मना Suffix ; ! /mənaː-naː/ wheedle, put over on
+मन् Suffix ; ! /mən-naː/ hold
+मर Suffix ; ! /mər-naː/ cut down, give up the ghost
+मरोड़ Suffix ; ! /məroɽ-naː/ wrench, twist
+मरोड़ Suffix ; ! /məroɽ-naː/ contort, wring
+मल Suffix ; ! /məl-naː/ wring, wrench
+मसल Suffix ; ! /məslə-naː/ stamp on
+महक Suffix ; ! /məɦkə-naː/ smell
+मान Suffix ; ! /maːn-naː/ assume, hold
+माना Suffix ; ! /maːnaː-naː/ pass as
+माप Suffix ; ! /maːp-naː/ measure
+मार Suffix ; ! /maːr-naː/ plug, hit
+मांग Suffix ; ! /maːŋɡ-naː/ demand, invite
+मांज Suffix ; ! /maːɲd͡ʒ-naː/ burnish, cleanse
+माँग Suffix ; ! /mãːɡə-naː/ approach, summon
+माँड़ Suffix ; ! /mãːɽə-naː/ knead
+मिट Suffix ; ! /miʈ-naː/ wash out, wash away
+मिटा Suffix ; ! /miʈaː-naː/ mend, obliterate
+मिमिया Suffix ; ! /mimijaː-naː/ baa
+मिल Suffix ; ! /mil-naː/ match, meet up
+मिलवा Suffix ; ! /milvaː-naː/ introduce, cause to meet
+मिला Suffix ; ! /milaː-naː/ merge, mix into
+मुकर Suffix ; ! /mukrə-naː/ back-pedal, beg off
+मुड़ Suffix ; ! /muɽ-naː/ bend, swing
+मुड़ Suffix ; ! /muɽ-naː/ bend, wring
+मुरझा Suffix ; ! /murd͡ʒ̤aː-naː/ shrivel, die
+मुस्करा Suffix ; ! /muskəraː-naː/ smile, beam
+मुस्का Suffix ; ! /muskaː-naː/ flash
+मुस्कुरा Suffix ; ! /muskuraː-naː/ chuckle, smile
+मूत Suffix ; ! /muːt-naː/ take a leak, spend a penny
+मूंद Suffix ; ! /muːnd-naː/ pen, shut
+मोड Suffix ; ! /moɖ-naː/ lock
+मोड़ Suffix ; ! /moɽ-naː/ turn, wheel
+मोड़ Suffix ; ! /moɽ-naː/ bend, quill
+मोह Suffix ; ! /moɦ-naː/ allure, charm
+मंगवा Suffix ; ! /məŋɡvaː-naː/ send for
+मंगा Suffix ; ! /məŋɡaː-naː/ order, claim
+मंडरा Suffix ; ! /mənɖraː-naː/ hover, haunt
+मँगवा Suffix ; ! /mə̃ɡəvaː-naː/ order
+मँगा Suffix ; ! /mə̃ɡaː-naː/ source, subscribe
+याच Suffix ; ! /jaːt͡ʃ-naː/ repress
+रख Suffix ; ! /rəkʰ-naː/ put across, plonk on
+रखा Suffix ; ! /rəkʰaː-naː/ sit on
+रख् Suffix ; ! /rəkʰ-naː/ get
+रगड़ Suffix ; ! /rəɡɽə-naː/ rub down, scuff
+रच Suffix ; ! /rət͡ʃ-naː/ construct, compose
+रट Suffix ; ! /rəʈ-naː/ parrot, learn
+रवा Suffix ; ! /rəvaː-naː/ depart, get off
+रस Suffix ; ! /rəs-naː/ drip, seep
+रह Suffix ; ! /rəɦ-naː/ live, exist
+रिझा Suffix ; ! /rid͡ʒ̤aː-naː/ court, accost
+रिस Suffix ; ! /ris-naː/ trickle, seep
+रुक Suffix ; ! /ruk-naː/ pass, break off
+रूक Suffix ; ! /ruːk-naː/ lay over, break
+रूठ Suffix ; ! /ruːʈʰ-naː/ sulk
+रूला Suffix ; ! /ruːlaː-naː/ set off
+रेंक Suffix ; ! /reŋk-naː/ bray
+रेंग Suffix ; ! /reŋɡ-naː/ snake, creep
+रोक Suffix ; ! /rok-naː/ cut out, ward off
+रो Suffix ; ! /ro-naː/ in tears, bay
+रोप Suffix ; ! /rop-naː/ crop, plant
+रंग Suffix ; ! /rəŋɡ-naː/ glow, pigment
+रंभा Suffix ; ! /rəmb̤aː-naː/ moo, Low
+लग Suffix ; ! /ləɡ-naː/ come to, join
+लगवा Suffix ; ! /ləɡvaː-naː/ inset
+लगा Suffix ; ! /ləɡaː-naː/ fix, tack
+लटक Suffix ; ! /ləʈkə-naː/ hang, swing
+लटका Suffix ; ! /ləʈkaː-naː/ drape, hang up
+लड़खड़ा Suffix ; ! /ləɽkʰəɽaː-naː/ wobble, totter
+लड़खड़ा Suffix ; ! /ləɽkʰəɽaː-naː/ falter, reel
+लड़ Suffix ; ! /ləɽ-naː/ rumble, combat
+लड़ Suffix ; ! /ləɽ-naː/ battle, struggle
+लड़ा Suffix ; ! /ləɽaː-naː/ set against
+लतिया Suffix ; ! /lətijaː-naː/ kick
+लपक Suffix ; ! /ləpkə-naː/ grab, whip
+लपेट Suffix ; ! /ləpeʈ-naː/ intertwine, tuck
+ललकार Suffix ; ! /ləlkaːr-naː/ brave, challenge
+ललचा Suffix ; ! /ləlt͡ʃaː-naː/ tantalize
+लहरा Suffix ; ! /ləɦraː-naː/ swing, flap
+लाद Suffix ; ! /laːd-naː/ fall on, sell
+ला Suffix ; ! /laː-naː/ bring back, induce
+लांघ Suffix ; ! /laːŋɡ̤-naː/ stride
+लिख Suffix ; ! /likʰ-naː/ ring up, take down
+लिखवा Suffix ; ! /likʰvaː-naː/ dictate
+लिखा Suffix ; ! /likʰaː-naː/ dictate, Mark
+लिपट Suffix ; ! /lipʈə-naː/ close
+लिया Suffix ; ! /lijaː-naː/ take on
+लीप Suffix ; ! /liːp-naː/ daub
+लुटा Suffix ; ! /luʈaː-naː/ lavish, squander
+लुढ़क Suffix ; ! /luɽ̥ək-naː/ bowl, roll
+लुढ़क Suffix ; ! /luɽ̥ək-naː/ roll over, stumble
+लुढ़का Suffix ; ! /luɽ̥əkaː-naː/ bowl, roll
+लुभा Suffix ; ! /lub̤aː-naː/ attract, vamp
+लूट Suffix ; ! /luːʈ-naː/ prey on, fleece
+लेट Suffix ; ! /leʈ-naː/ repose, lay
+ले Suffix ; ! /le-naː/ pull, assume
+लोट Suffix ; ! /loʈ-naː/ welter, wallow
+लौट Suffix ; ! /lɔːʈ-naː/ start back, come back
+लौटा Suffix ; ! /lɔːʈaː-naː/ have back, revert to
+वसूल Suffix ; ! /vəsuːl-naː/ raise
+विचर Suffix ; ! /vit͡ʃrə-naː/ ramble, dally
+विचार Suffix ; ! /vit͡ʃaːr-naː/ consider, remark
+सक Suffix ; ! /sək-naː/ can, may
+सज Suffix ; ! /səd͡ʒ-naː/ fit, furnish
+सजा Suffix ; ! /səd͡ʒaː-naː/ titivate, grace
+सड़ Suffix ; ! /səɽ-naː/ decay, rot
+सड़ Suffix ; ! /səɽ-naː/ fester
+सड़ा Suffix ; ! /səɽaː-naː/ rot, sour
+सता Suffix ; ! /sətaː-naː/ nag, pain
+सध Suffix ; ! /səd̤-naː/ acclimate
+सनसना Suffix ; ! /sənsənaː-naː/ fizzle, whistle
+समझ Suffix ; ! /səmd͡ʒ̤ə-naː/ appreciate
+समझा Suffix ; ! /səmd͡ʒ̤aː-naː/ instruct, show
+समा Suffix ; ! /səmaː-naː/ accommodate, comprise
+समेट Suffix ; ! /səmeʈ-naː/ tuck
+सम्भाल Suffix ; ! /səmb̤aːl-naː/ support, see
+सम्हाल Suffix ; ! /səmɦaːl-naː/ cope
+सरक Suffix ; ! /sərkə-naː/ budge, inch
+सरका Suffix ; ! /sərkaː-naː/ budge, inch
+सराह Suffix ; ! /səraːɦ-naː/ applaud, merit
+सह Suffix ; ! /səɦ-naː/ put up, endure
+सहला Suffix ; ! /səɦlaː-naː/ stroke
+साध Suffix ; ! /saːd̤-naː/ accustom, present
+सान Suffix ; ! /saːn-naː/ knead
+साल Suffix ; ! /saːl-naː/ perforate, pounce
+सिकुड़ Suffix ; ! /sikuɽ-naː/ shrink, contract
+सिकुड़ Suffix ; ! /sikuɽ-naː/ contract, dwindle
+सिख Suffix ; ! /sikʰ-naː/ educate, learn
+सिखला Suffix ; ! /sikʰlaː-naː/ initiate, teach
+सिखा Suffix ; ! /sikʰaː-naː/ tutor, train
+सिमट Suffix ; ! /simʈə-naː/ rumple
+सिल Suffix ; ! /sil-naː/ tailor, tick
+सिसक Suffix ; ! /siskə-naː/ sob
+सीख Suffix ; ! /siːkʰ-naː/ do, learn
+सी Suffix ; ! /siː-naː/ mend, needle
+सींच Suffix ; ! /siːɲt͡ʃ-naː/ irrigate, water
+सुख Suffix ; ! /sukʰ-naː/ sink in, sink into
+सुखा Suffix ; ! /sukʰaː-naː/ dry, bake
+सुजा Suffix ; ! /sud͡ʒaː-naː/ bloat, primp
+सुझा Suffix ; ! /sud͡ʒ̤aː-naː/ work up, work out
+सुधर Suffix ; ! /sud̤rə-naː/ better, look up
+सुधार Suffix ; ! /sud̤aːr-naː/ amend, improve
+सुन Suffix ; ! /sun-naː/ ear, hear of
+सुना Suffix ; ! /sunaː-naː/ recite, pronounce
+सुबक Suffix ; ! /subkə-naː/ sob
+सुलग Suffix ; ! /sulɡə-naː/ smolder, smoulder
+सुलगा Suffix ; ! /sulɡaː-naː/ smoke, kindle
+सुलझ Suffix ; ! /suld͡ʒ̤ə-naː/ untangle, unscramble
+सुलझा Suffix ; ! /suld͡ʒ̤aː-naː/ do, unscramble
+सुला Suffix ; ! /sulaː-naː/ get off
+सुस्ता Suffix ; ! /sustaː-naː/ rest, lounge
+सूख Suffix ; ! /suːkʰ-naː/ dry, air
+सूंघ Suffix ; ! /suːŋɡ̤-naː/ snuff, sniff
+सूँघ Suffix ; ! /sũːɡ̤ə-naː/ smell, snuffle
+सृज Suffix ; ! /sr̩d͡ʒ-naː/ create, make
+से Suffix ; ! /se-naː/ brood, sit
+सेंक Suffix ; ! /seŋk-naː/ toast, roast
+सोख Suffix ; ! /sokʰ-naː/ suck, absorb
+सोच Suffix ; ! /sot͡ʃ-naː/ suppose, hit upon
+सो Suffix ; ! /so-naː/ slumber, sleep
+सोह Suffix ; ! /soɦ-naː/ fit
+सौप Suffix ; ! /sɔːp-naː/ trust, throw
+सौंप Suffix ; ! /sɔːmp-naː/ entrust, give
+संजो Suffix ; ! /səɲd͡ʒo-naː/ arrange, cherish
+संभल Suffix ; ! /səmb̤lə-naː/ snap out of it, rally
+संभाल Suffix ; ! /səmb̤aːl-naː/ carry, shift for
+संवार Suffix ; ! /sənvaːr-naː/ adjust, tinker
+सँजो Suffix ; ! /sə̃d͡ʒo-naː/ cherish
+सँभाल Suffix ; ! /sə̃b̤aːl-naː/ calm, bear
+सँवर Suffix ; ! /sə̃vər-naː/ prank
+सँवार Suffix ; ! /sə̃vaːr-naː/ dress, brush
+स्वीकार Suffix ; ! /sviːkaːr-naː/ admit, acknowledge
+हकला Suffix ; ! /ɦəklaː-naː/ stutter, stammer
+हट Suffix ; ! /ɦəʈ-naː/ keep back, lose sight of
+हटा Suffix ; ! /ɦəʈaː-naː/ phase out, iron out
+हड़प Suffix ; ! /ɦəɽpə-naː/ pocket, swipe
+हथिया Suffix ; ! /ɦətʰijaː-naː/ pocket, obtain
+हरा Suffix ; ! /ɦəraː-naː/ best, get the better of
+हार Suffix ; ! /ɦaːr-naː/ get the worst of it, lose
+हांक Suffix ; ! /ɦaːŋk-naː/ urge, whip on
+हांफ Suffix ; ! /ɦaːmpʰ-naː/ puff, pant
+हाँक Suffix ; ! /ɦãːkə-naː/ herd
+हिचक Suffix ; ! /ɦit͡ʃkə-naː/ demur, flinch
+हिचकिचा Suffix ; ! /ɦit͡ʃkit͡ʃaː-naː/ balance, dilly-dally
+हिनहिना Suffix ; ! /ɦinɦinaː-naː/ whicker, neigh
+हिल Suffix ; ! /ɦil-naː/ shock, tremble
+हिला Suffix ; ! /ɦilaː-naː/ joggle, agitate
+हो Suffix ; ! /ɦo-naː/ turn, flow from
+हंस Suffix ; ! /ɦəns-naː/ grin
+हंसा Suffix ; ! /ɦənsaː-naː/ tickle
+हँस Suffix ; ! /ɦə̃sə-naː/ laugh at
+
+LEXICON Suffix
++V:0 VerbSuffix ;
+
+LEXICON VerbSuffix
++Inf:^ना # ; ! -naː
++PrfPrc:0 PerfectivePrc ;
++ImprfPrc:0 ImperfectivePrc ;
++Subj:0 Subjunctive ;
++Fut:0 Future ;
++Imprt:0 Imperative ;
+
+LEXICON PerfectivePrc
++Sg+Masc:^आ # ; ! -aː
++Pl+Masc:^ए # ; ! -e
++Sg+Fem:^ई # ; ! -iː
++Pl+Fem:^ई # ; ! -iːn
+
+LEXICON ImperfectivePrc
++Sg+Masc:^ता # ; ! -taː
++Pl+Masc:^ते # ; ! -te
++Sg+Fem:^ती # ; ! -tiː
++Pl+Fem:^ती # ; ! -tiː
++Pl+Fem:^तीं # ; ! -tiːn ! when no auxiliary follows
+
+LEXICON Subjunctive
++1st+Sg:^ऊँ # ; ! -ũː
++2nd+Int+Sg:^ए # ; ! -e
++3rd+Sg:^ए # ; ! -e
++1st+Pl:^एँ # ; ! -ẽ
++2nd+Fam+Sg:^ओ # ; ! -o
++2nd+Frm+Sg:^एँ # ; ! -ẽ
++3rd+Pl:^एँ # ; ! -ẽ
+
+LEXICON Future
++1st:^ऊँ FutureEnd ; ! -ũː
++2nd+Int:^ए FutureEnd ; ! -e
++3rd:^ए FutureEnd ; ! -e
++1st:^एँ FutureEnd ; ! -ẽ
++2nd+Fam:^ओ FutureEnd ; ! -o
++2nd+Frm:^एँ FutureEnd ; ! -ẽ
++3rd:^एँ FutureEnd ; ! -ẽ
+
+LEXICON FutureEnd
++Sg+Masc:गा # ; ! -ɡaː
++Pl+Masc:गे # ; ! -ɡe
++Sg+Fem:गी # ; ! -ɡiː
++Pl+Fem:गी # ; ! -ɡiː
+
+LEXICON Imperative
++Int:0 # ;
++Fam:^ओ # ; ! -o
++Frm:^इए # ; ! -ie
++Frm:^इये # ; ! -ije
++Frm:^इएगा # ; ! -ieɡaː
++Frm:^इयेगा # ; ! -ijeɡaː
