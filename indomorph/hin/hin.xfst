@@ -3,23 +3,42 @@
 clear stack
 
 define Cons क  | ख  | ग  | घ  | ङ  | च  | छ  | ज  | झ  | ञ  | ट  | ठ  | ड  | ढ  | ण  | त  | थ  | द  | ध  | न  | प  | फ  | ब  | भ  | म  | क़  | ख़  | ग़  | ज़  | ड़  | ढ़  | फ़  | य  | र  | ल  | ळ  | व  | ह  | श  | ष  | स  | ऱ  | ऴ ;
-
 define Vowel अ  | आ  | इ  | ई  | उ  | ऊ  | ऋ  | ॠ  | ऌ  | ॡ  | ए  | ऐ  | ओ  | औ  | ा  | ि  | ी  | ु   | ू  | ृ  | ॄ  | ॢ  | ॣ  | े  | ै  | ो  | ौ ;
-
 define Other ् | ॑  | ॒  | ॓  | ॔  | ँ  | ं  | ः  | ़ ;
 
-define PossClassIStem [[Cons | Vowel | Other]^>2 Cons] "+Guess":0 ;
-define PossClassIIStem [[Cons | Vowel | Other]^>2 Vowel] "+Guess":0 ;
-define PossClassIIIStem [[Cons | Vowel | Other]^>2 Cons] "+Guess":0 ;
-define PossClassIVStem [[Cons | Vowel | Other]^>2 Vowel] "+Guess":0 ;
+define PossStem [[Cons | Vowel | Other]^>3] "+Guess":0 ;
+define PossCFinalStem [[Cons | Vowel | Other]^>2 Cons] "+Guess":0 ;
+define PossVFinalStem [[Cons | Vowel | Other]^>2 Vowel] "+Guess":0 ;
 
 read lexc < nouns.lexc
 
-substitute defined PossClassIStem for "^GUESSCLASSISTEM"
-substitute defined PossClassIIStem for "^GUESSCLASSIISTEM"
-substitute defined PossClassIIIStem for "^GUESSCLASSIIISTEM"
-substitute defined PossClassIVStem for "^GUESSCLASSIVSTEM"
+substitute defined PossCFinalStem for "^GUESSCLASSISTEM"
+substitute defined PossVFinalStem for "^GUESSCLASSIISTEM"
+substitute defined PossCFinalStem for "^GUESSCLASSIIISTEM"
+substitute defined PossVFinalStem for "^GUESSCLASSIVSTEM"
 define AllNouns ;
+
+read lexc < verbs.lexc
+substitute defined PossStem for "^GUESSVERBSTEM"
+define AllVerbs ;
+
+read lexc < adjs.lexc
+define AllAdjs ;
+
+# read lexc < misc.lexc
+# define AllMisc ;
+
+read lexc < pron.lexc
+define Pronouns ;
+
+read lexc < part.lexc
+define AllPart ;
+
+read lexc < num.lexc
+define Numbers ;
+
+read lexc < punc.lexc
+define Punctuation ;
 
 read regex ~$["+Guess"] .o. AllNouns ;
 
