@@ -8,7 +8,7 @@ Multichar_Symbols
 ! Feature for analyses with guessed stems
 +Guess
 ! Morphological properties
-+N+Masc
++N +Masc
 +Fem +Masc
 +Sg +Pl
 +Dir +Obl +Voc
@@ -27248,42 +27248,51 @@ piña ClassIV ; ! /piña/ pin
 LEXICON ClassI
 +N+Masc+Dir+Sg:ा # ; ! -aː
 +N+Masc+Dir+Sg:आ # ; ! -aː
-+N+Masc+Obl+Sg:े # ; ! -e
-+N+Masc+Obl+Sg:ए # ; ! -e
++N+Masc+Obl+Sg:े Enclitic ; ! -e
++N+Masc+Obl+Sg:ए Enclitic ; ! -e
 +N+Masc+Voc+Sg:े # ; ! -e
 +N+Masc+Voc+Sg:ए # ; ! -e
 +N+Masc+Dir+Pl:े # ; ! -e
 +N+Masc+Dir+Pl:ए # ; ! -e
-+N+Masc+Obl+Pl:ों # ; ! -õ
-+N+Masc+Obl+Pl:ओं # ; ! -õ
-+N+Masc+Obl+Pl:ोँ # ; ! -õ
-+N+Masc+Obl+Pl:ओँ # ; ! -õ
++N+Masc+Obl+Pl:ों Enclitic ; ! -õ
++N+Masc+Obl+Pl:ओं Enclitic ; ! -õ
++N+Masc+Obl+Pl:ोँ Enclitic ; ! -õ
++N+Masc+Obl+Pl:ओँ Enclitic ; ! -õ
 +N+Masc+Voc+Pl:ो # ; ! -o
 +N+Masc+Voc+Pl:ओ # ; ! -o
 
 LEXICON ClassIII
 +N+Fem+Dir+Sg:ी # ; ! -iː
 +N+Fem+Dir+Sg:ई # ; ! -iː
-+N+Fem+Obl+Sg:ी # ; ! -iː
-+N+Fem+Obl+Sg:ई # ; ! -iː
++N+Fem+Obl+Sg:ी Enclitic ; ! -iː
++N+Fem+Obl+Sg:ई Enclitic ; ! -iː
 +N+Fem+Voc+Sg:ी # ; ! -iː
 +N+Fem+Voc+Sg:ई # ; ! -iː
 +N+Fem+Dir+Pl:ियाँ # ; ! -ijãː
 +N+Fem+Dir+Pl:इयाँ # ; ! -ijãː
-+N+Fem+Obl+Pl:ियों # ; ! -ijõ
-+N+Fem+Obl+Pl:इयों # ; ! -ijõ
-+N+Fem+Obl+Pl:ियों # ; ! -ijõ
-+N+Fem+Obl+Pl:इयों # ; ! -ijõ
++N+Fem+Obl+Pl:ियों Enclitic ; ! -ijõ
++N+Fem+Obl+Pl:इयों Enclitic ; ! -ijõ
++N+Fem+Obl+Pl:ियों Enclitic ; ! -ijõ
++N+Fem+Obl+Pl:इयों Enclitic ; ! -ijõ
 +N+Fem+Voc+Pl:ियो # ; ! -ijo
 +N+Fem+Voc+Pl:इयो # ; ! -ijo
 
 LEXICON ClassIV
 +N+Fem+Dir+Sg:0 # ; !
-+N+Fem+Obl+Sg:0 # ; !
++N+Fem+Obl+Sg:0 Enclitic ; !
 +N+Fem+Voc+Sg:0 # ; !
 +N+Fem+Dir+Pl:ेँ # ; ! -e
 +N+Fem+Dir+Pl:एँ # ; ! -e
-+N+Fem+Obl+Pl:ों # ; ! -õ
-+N+Fem+Obl+Pl:ओं # ; ! -õ
++N+Fem+Obl+Pl:ों Enclitic ; ! -õ
++N+Fem+Obl+Pl:ओं Enclitic ; ! -õ
 +N+Fem+Voc+Pl:ो # ; ! -o
 +N+Fem+Voc+Pl:ओ # ; ! -o
+
+LEXICON Enclitic
++Erg:ने # ; ! -ne
++Acc:को # ; ! -ko
++Dat:को # ; ! -ko
++Inst:से # ; ! -se
++Gen:का # ; ! -kaː
++Loc:में # ; ! -mẽ
++Loc:पर् # ; ! -par
