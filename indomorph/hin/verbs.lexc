@@ -1,11 +1,14 @@
 !!!verbs.lexc for Hindi!!!
 Multichar_Symbols
+!Guessed stem
+^GUESSVERBSTEM
 !Morphological properties
 +V
 +1st +2nd +3rd
 +Masc +Fem +Sg +Pl
 +Inf ! Infinitive
-+PrfPrc +ImprfPrc ! Perfective/imperfective participle
++Perf +Imp ! Perfective/imperfective
++Part ! Participle
 +Subj +Fut ! Subjunctive, Future
 +Imprt +Int +Fam +Frm ! Imperative, Intimate, Familiar, Formal
 
@@ -13,6 +16,7 @@ LEXICON Root
 VerbStem ;
 
 LEXICON VerbStem
+^GUESSVERBSTEM Suffix ;
 अखर Suffix ; ! /akʰrə-naː/ grate
 अटक Suffix ; ! /aʈkə-naː/ flounder, pause
 अटका Suffix ; ! /aʈkaː-naː/ hobble, fasten
@@ -879,8 +883,8 @@ LEXICON Suffix
 
 LEXICON VerbSuffix
 +Inf:^ना # ; ! -naː
-+PrfPrc:0 PerfectivePrc ;
-+ImprfPrc:0 ImperfectivePrc ;
++Part+Perf:0 PerfectivePrc ;
++Part+Imp:0 ImperfectivePrc ;
 +Subj:0 Subjunctive ;
 +Fut:0 Future ;
 +Imprt:0 Imperative ;
