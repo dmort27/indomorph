@@ -1,0 +1,9 @@
+Multichar_Symbols
++Prs
++1st +2nd +3rd
++Sg +Pl
++Dir +Obl
+
+LEXICON Root
++Prs+1st+Sg+Dir:मैं # ;
++Prs+1st+Pl+Dir:हम # ;
