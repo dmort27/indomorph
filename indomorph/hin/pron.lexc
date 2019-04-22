@@ -3,7 +3,95 @@ Multichar_Symbols
 +1st +2nd +3rd
 +Sg +Pl
 +Dir +Obl
++Fam +Hon
++Refl
 
 LEXICON Root
+! Direct case pronouns
 +Prs+1st+Sg+Dir:मैं # ;
 +Prs+1st+Pl+Dir:हम # ;
++Prs+2nd+Sg+Fam+Dir:तू # ;
++Prs+2nd+Pl+Fam+Dir:तुम # ;
++Prs+2nd+Sg+Hon+Dir:आप # ;
++Prs+2nd+Pl+Hon+Dir:आप # ;
++Prs+3rd+Sg+Prox+Dir:यह # ;
++Prs+3rd+Pl+Prox+Dir:ये # ;
++Prs+3rd+Sg+Dist+Dir:वह # ;
++Prs+3rd+Pl+Dist+Dir:वे # ;
+
+! Pronouns in dative case
++Prs+1st+Sg+Dat:मुझे # ;
++Prs+1st+Sg+Dat:मुझको # ;
++Prs+2nd+Sg+Fam+Dat:तुझे # ;
++Prs+2nd+Sg+Fam+Dat:तुझको # ;
++Prs+2nd+Pl+Fam+Dat:तुम्हें # ;
++Prs+2nd+Pl+Fam+Dat:तुमको # ;
++Prs+2nd+Sg+Hon+Dat:आपको # ;
++Prs+2nd+Pl+Hon+Dat:आपको # ;
++Prs+3nd+Sg+Prox+Dat:इसे # ;
++Prs+3nd+Sg+Prox+Dat:इसको # ;
++Prs+3nd+Pl+Prox+Dat:इन्हें # ;
++Prs+3nd+Pl+Prox+Dat:इनको # ;
++Prs+3nd+Sg+Dist+Dat:उसे # ;
++Prs+3nd+Sg+Dist+Dat:उसको # ;
++Prs+3nd+Pl+Dist+Dat:उन्हें # ;
++Prs+3nd+Pl+Dist+Dat:उनको # ;
+
+! Pronouns in genitive case
++Prs+1sg+Sg+Masc+Gen:मेरा # ;
++Prs+1sg+Sg+Fem+Gen:मेरी # ;
++Prs+1sg+Pl+Masc+Gen:हमारा # ;
++Prs+1sg+Pl+Fem+Gen:हमारी # ;
++Prs+2nd+Sg+Masc+Fam+Gen:तेरा # ;
++Prs+2nd+Sg+Fem+Fam+Gen:तेरी # ;
++Prs+2nd+Pl+Masc+Fam+Gen:तुम्हारा # ;
++Prs+2nd+Pl+Fem+Fam+Gen:तुम्हारी # ;
++Prs+2nd+Sg+Masc+Hon+Gen:आपका # ;
++Prs+2nd+Sg+Fem+Hon+Gen:आपकी # ;
++Prs+2nd+Pl+Masc+Hon+Gen:आपका # ;
++Prs+2nd+Pl+Fem+Hon+Gen:आपकी # ;
++Prs+3rd+Sg+Masc+Prox+Gen:इसका # ;
++Prs+3rd+Sg+Fem+Prox+Gen:इसकी # ;
++Prs+3rd+Pl+Masc+Prox+Gen:इनका # ;
++Prs+3rd+Pl+Fem+Prox+Gen:इनकी # ;
++Prs+3rd+Sg+Masc+Dist+Gen:उसका # ;
++Prs+3rd+Sg+Fem+Dist+Gen:उसकी # ;
++Prs+3rd+Pl+Masc+Dist+Gen:उनका # ;
++Prs+3rd+Pl+Fem+Dist+Gen:उनकी # ;
+
+! Pronouns in ablative case
++Prs+1st+Sg+Abl:मुझसे # ;
++Prs+1st+Pl+Abl:हमसे # ;
++Prs+2nd+Sg+Fam+Abl:तुझसे # ;
++Prs+2nd+Sg+Fam+Abl:तुमसे # ;
++Prs+2nd+Pl+Fam+Abl:तुमसे # ;
++Prs+2nd+Sg+Hon+Abl:आपसे # ;
++Prs+2nd+Pl+Hon+Abl:आपसे # ;
++Prs+3rd+Sg+Prox+Abl:इससे # ;
++Prs+3rd+Pl+Prox+Abl:इनसे # ;
++Prs+3rd+Sg+Dist+Abl:उससे # ;
++Prs+3rd+Pl+Dist+Abl:उनसे # ;
+
+! Pronouns in the locative case
++Prs+1st+Sg+Loc:मुझपर # ;
++Prs+1st+Pl+Loc:हमपर # ;
++Prs+2nd+Sg+Fam+Loc:तुझपर # ;
++Prs+2nd+Pl+Fam+Loc:तुमपर # ;
++Prs+2nd+Sg+Hon+Loc:आपपर # ;
++Prs+2nd+Pl+Hon+Loc:आपपर # ;
++Prs+3rd+Sg+Prox+Loc:इसपर # ;
++Prs+3rd+Pl+Prox+Loc:इनपर # ;
++Prs+3rd+Sg+Dist+Loc:उसपर # ;
++Prs+3rd+Pl+Dist+Loc:उनपर # ;
+
+! Pronouns in the ergative case
++Prs+1st+Sg+Erg:मैंने # ;
++Prs+1st+Pl+Erg:हमने # ;
++Prs+2nd+Sg+Fam+Erg:तुने # ;
++Prs+2nd+Pl+Fam+Erg:तुमने # ;
++Prs+2nd+Sg+Hon+Erg:आपने # ;
++Prs+2nd+Pl+Hon+Erg:आपने # ;
++Prs+3rd+Sg+Prox+Erg:इसने # ;
++Prs+3rd+Pl+Prox+Erg:इन्होंने # ;
++Prs+3rd+Sg+Dist+Erg:उसने # ;
++Prs+3rd+Pl+Dist+Erg:उन्होंने # ;
