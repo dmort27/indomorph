@@ -1,8 +1,8 @@
 Multichar_Symbols
-+Prs
++Prs +Rel
 +1st +2nd +3rd
 +Sg +Pl
-+Dir +Obl
++Dir +Obl +Dat +Gen +Abl +Loc +Erg +Corr
 +Fam +Hon
 
 LEXICON Root
@@ -94,3 +94,17 @@ LEXICON Root
 +Prs+3rd+Pl+Prox+Erg:इन्होंने # ;
 +Prs+3rd+Sg+Dist+Erg:उसने # ;
 +Prs+3rd+Pl+Dist+Erg:उन्होंने # ;
+
+! Relative pronouns
++Rel+Sg+Dir:जो # ;
++Rel+Pl+Dir:जो # ;
++Rel+Sg+Obl:जिस # ;
++Rel+Pl+Obl:जिन # ;
++Rel+Sg+Dat:जिसे # ;
++Rel+Pl+Dat:जिन्हे # ;
++Rel+Sg+Gen:जिसका # ;
++Rel+Pl+Gen:जिनका # ;
++Rel+Sg+Erg:जिसने # ;
++Rel+Pl+Erg:जिन्होंने # ;
++Rel+Sg+Corr:वह # ;
++Rel+Pl+Corr:वे # ;
