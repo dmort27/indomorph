@@ -727,7 +727,7 @@ LEXICON Adverb
 ही # ; ! /ɦiː/ bloody well, only
 हुए # ; ! /ɦue/ in the very act of
 
-LEXICON Adposition
+LEXICON Adpositions
 अन्दर # ; ! /andər/ under
 अलग # ; ! /aləɡ/ beside
 उपर # ; ! /upər/ into
@@ -884,39 +884,8 @@ LEXICON Pronoun
 अधिक # ; ! /ad̤ik/ a lot, much
 अधिकतम # ; ! /ad̤iktəm/ most
 अपना # ; ! /apnaː/ own
-अपने # ; ! /apne/ he, she
 अपनेआप # ; ! /apneaːp/ yourself
 आप # ; ! /aːp/ you
-आपका # ; ! /aːpkaː/ your, yours
-आपकी # ; ! /aːpkiː/ your, yours
-आपके # ; ! /aːpke/ your, yours
-आपको # ; ! /aːpko/ you
-आपसे # ; ! /aːpse/ you
-इनका # ; ! /inkaː/ their
-इनकी # ; ! /inkiː/ he, she
-इनके # ; ! /inke/ he, they
-इनको # ; ! /inko/ they
-इनसे # ; ! /inse/ they
-इन्हें # ; ! /inɦen/ she, these
-इसका # ; ! /iskaː/ its
-इसकी # ; ! /iskiː/ ITS
-इसके # ; ! /iske/ ITS
-इसको # ; ! /isko/ it, he
-इसे # ; ! /ise/ it, he
-उन # ; ! /un/ those, them
-उनका # ; ! /unkaː/ their
-उनकी # ; ! /unkiː/ he, she
-उनके # ; ! /unke/ they, he
-उनको # ; ! /unko/ they, them
-उनसे # ; ! /unse/ they
-उन्हें # ; ! /unɦen/ them, she
-उस # ; ! /us/ he
-उसका # ; ! /uskaː/ its
-उसकी # ; ! /uskiː/ hers
-उसके # ; ! /uske/ her, HIS
-उसको # ; ! /usko/ he, she
-उसे # ; ! /use/ he, she
-एसा # ; ! /esaː/ such
 कइयों # ; ! /kəijon/ many
 कई # ; ! /kəi/ good few, several
 कहाँ # ; ! /kəɦãː/ somewhere
@@ -948,19 +917,6 @@ LEXICON Pronoun
 जो # ; ! /d͡ʒo/ who, that
 ज्यादा # ; ! /d͡ʒjaːdaː/ much, many
 तब # ; ! /təb/ when
-तु # ; ! /tu/ ye, thou
-तुझको # ; ! /tud͡ʒ̤ko/ you
-तुझे # ; ! /tud͡ʒ̤e/ you
-तुम # ; ! /tum/ you, yourself
-तुमको # ; ! /tumko/ you
-तुमसे # ; ! /tumse/ you
-तुम्हारा # ; ! /tumɦaːraː/ yours, thine
-तुम्हारी # ; ! /tumɦaːriː/ your, yours
-तुम्हारे # ; ! /tumɦaːre/ your, yours
-तुम्हें # ; ! /tumɦen/ you
-तू # ; ! /tuː/ you
-तेरा # ; ! /teraː/ thee
-तेरे # ; ! /tere/ your
 थोड़ा # ; ! /tʰoɽaː/ little
 दूसरा # ; ! /duːsraː/ another
 दोनों # ; ! /donon/ both
@@ -972,12 +928,6 @@ LEXICON Pronoun
 बहुत # ; ! /bəɦut/ many, plenty
 बहुतों # ; ! /bəɦuton/ many
 बिलकुल # ; ! /bilkul/ any
-मुझको # ; ! /mud͡ʒ̤ko/ I, me
-मुझे # ; ! /mud͡ʒ̤e/ I
-मेरा # ; ! /meraː/ I
-मेरे # ; ! /mere/ MY
-मै # ; ! /mæː/ i
-मैं # ; ! /mæːn/ we, I
 यदि # ; ! /jədi/ if
 यह # ; ! /jəɦ/ that, this
 ये # ; ! /je/ these
@@ -992,14 +942,5 @@ LEXICON Pronoun
 स्वतः # ; ! /svətəh/ it, myself
 स्वयं # ; ! /svəjən/ itself, herself
 स्वंय # ; ! /svənjə/ oneself
-हम # ; ! /ɦəm/ we
-हमको # ; ! /ɦəmko/ we
-हमने # ; ! /ɦəmne/ we
-हमसे # ; ! /ɦəmse/ we
-हमारा # ; ! /ɦəmaːraː/ we
-हमारी # ; ! /ɦəmaːriː/ our, ours
-हमारे # ; ! /ɦəmaːre/ us
-हमे # ; ! /ɦəme/ us
-हमें # ; ! /ɦəmen/ we, us
 हरएक # ; ! /ɦərəek/ each
 हरेक # ; ! /ɦərek/ everyone, everybody
