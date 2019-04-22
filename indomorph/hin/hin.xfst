@@ -43,6 +43,9 @@ define Numbers ;
 read lexc < punc.lexc
 define Puncs ;
 
+read lexc < misc.lexc
+define Misc ;
+
 read regex ~$["+Guess"]
            .o. [ AllNouns
                | AllVerbs
@@ -51,6 +54,7 @@ read regex ~$["+Guess"]
                | Parts
                | Numbers
                | Puncs
+               | Misc
                ];
 
 read regex $["+Guess"]
