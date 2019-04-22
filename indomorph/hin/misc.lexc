@@ -2,7 +2,7 @@
 !!!These categories don't inflect!!!
 Multichar_Symbols
 !Morphological properties
-+Adj +Adp +Conj +Prt +Num +Pron
++Adv +Adp +Conj +Prt +Num +Pron
 
 LEXICON Root
 Adverb ;
@@ -13,934 +13,949 @@ Number ;
 Pronoun ;
 
 LEXICON Adverb
-अकसर # ; ! /aksər/ mostly, oftentimes
-अकस्मात # ; ! /aksmaːt/ circumstantially, by chance
-अकस्मात् # ; ! /aksmaːt/ suddenly
-अकारण # ; ! /akaːrəɳ/ lightly
-अकेला # ; ! /akelaː/ by myself, alone
-अकेले # ; ! /akele/ by himself, single-handedly
-अक्षरशः # ; ! /akʂərʃəh/ literally, literatim
-अक्सर # ; ! /aksər/ many's the time, generally
-अगरचे # ; ! /aɡrət͡ʃe/ albeit, though
-अग्रिम # ; ! /aɡrim/ in advance
-अचानक # ; ! /at͡ʃaːnək/ all at once, explosively
-अटकल # ; ! /aʈkəl/ conceivably
-अति # ; ! /ati/ far
-अतिमहत्त्वपूर्ण # ; ! /atimɦəttvəpuːrɳə/ urgently
-अतिशय # ; ! /atiʃəj/ excessively
-अतः # ; ! /atəh/ therefore, hence
-अत्यधिक # ; ! /atjəd̤ik/ shatteringly, staggeringly
-अत्यन्त # ; ! /atjəntə/ precious, exceedingly
-अत्याधिक # ; ! /atjaːd̤ik/ high, stiff
-अथवा # ; ! /atʰvaː/ else
-अधिक # ; ! /ad̤ik/ still, too
-अधिकतम # ; ! /ad̤iktəm/ at the outside, at the very outside
-अधिकतर # ; ! /ad̤iktər/ in general, more
-अधिकाधिक # ; ! /ad̤ikaːd̤ik/ at most, more and more
-अधिकारपूर्वक # ; ! /ad̤ikaːrpuːrvək/ authoritatively
-अधिकांश # ; ! /ad̤ikaːnʃə/ for the most part
-अधिकांशतः # ; ! /ad̤ikaːnʃtəh/ in the main
-अधिमानतः # ; ! /ad̤imaːntəh/ preferably
-अधीरतापूर्वक # ; ! /ad̤iːrtaːpuːrvək/ impatiently
-अनजाने # ; ! /and͡ʒaːne/ casually, unconsciously
-अनत # ; ! /anət/ elsewhere
-अनन्तर # ; ! /anntər/ afterward, subsequently
-अनसोचे # ; ! /ansot͡ʃe/ thoughtlessly
-अनायास # ; ! /anaːjaːs/ spontaneously, involuntarily
-अनिवार्यतः # ; ! /anivaːrjətəh/ necessarily
-अनुमानतः # ; ! /anumaːntəh/ notionally
-अनुसार # ; ! /anusaːr/ after, to
-अन्ततोगत्वा # ; ! /antətoɡtvaː/ ultimately
-अन्ततः # ; ! /antətəh/ as things turned out, in the last resort
-अन्दर # ; ! /andər/ at home
-अन्धाधुन्ध # ; ! /and̤aːd̤und̤ə/ headlong
-अन्य # ; ! /anjə/ else
-अन्यत्र # ; ! /anjətrə/ elsewhere
-अन्यथा # ; ! /anjətʰaː/ otherwise
-अन्यायपूर्वक # ; ! /anjaːjpuːrvək/ wrongfully
-अपर # ; ! /apər/ additionally
-अपितु # ; ! /apitu/ on the other hand
-अपेक्षाकृत # ; ! /apekʂaːkr̩t/ relatively
-अप्रतिम # ; ! /aprətim/ without parallel
-अफसोसजनक # ; ! /apʰsosd͡ʒənək/ regrettable
-अब # ; ! /ab/ just now, anymore
-अबतक # ; ! /abtək/ hitherto
-अभिमानपूर्वक # ; ! /ab̤imaːnpuːrvək/ arrogantly
-अभी # ; ! /ab̤iː/ actually, now
-अभीतक # ; ! /ab̤iːtək/ hitherto
-अर्थात् # ; ! /artʰaːt/ in other words, that is to say
-अर्द्धवार्षिक # ; ! /ardd̤əvaːrʂik/ biannually
-अलग # ; ! /aləɡ/ away, apart
-अलबत्ता # ; ! /albəttaː/ surely
-अलावा # ; ! /alaːvaː/ moreover
-अवश्य # ; ! /avʃjə/ course, jolly well
-अविराम # ; ! /aviraːm/ non-stop
-अविलम्ब # ; ! /avilmbə/ expeditiously
-अविलंब # ; ! /aviləmbə/ urgently
-अश्रुपूरित # ; ! /aʃrupuːrit/ tearfully
-असावधानीवश # ; ! /asaːvd̤aːniːvəʃ/ incautiously
-असुरक्षित # ; ! /asurkʂit/ defenceless, defencelessly
-अंडरआर्म # ; ! /nɖərəarmə/ underarm
-अंततोगत्वा # ; ! /ntətoɡtvaː/ in the end, finally
-अंततः # ; ! /ntətəh/ in the fulness of time, in the long run
-अंतर्गत # ; ! /ntərɡət/ under
-अंदर # ; ! /ndər/ inland, inside
-अंदाजन # ; ! /ndaːd͡ʒən/ tentatively
-अंधाधुंध # ; ! /nd̤aːd̤und̤ə/ blind
-अंशतः # ; ! /nʃətəh/ half, in some measure
-आख़िर # ; ! /aːxir/ after all, the devil
-आखिरकार # ; ! /aːkʰirkaːr/ at last, eventually
-आख़िरकार # ; ! /aːxirkaːr/ after all
-आगे # ; ! /aːɡe/ forward, forth
-आग्रहपूर्वक # ; ! /aːɡrəɦpuːrvək/ earnestly
-आज # ; ! /aːd͡ʒ/ today
-आजकल # ; ! /aːd͡ʒkəl/ present, now a days
-आड़ा # ; ! /aːɽaː/ abeam
-आड़ा # ; ! /aːɽaː/ lengthwise, athwart
-आड़े # ; ! /aːɽe/ slantwise
-आड़े # ; ! /aːɽe/ abeam, across
-आदतन # ; ! /aːdtən/ as a matter of course, habitually
-आदरपूर्वक # ; ! /aːdrəpuːrvək/ respectfully
-आदेशानुसार # ; ! /aːdeʃaːnusaːr/ by order, at <somebody> behest
-आद्य # ; ! /aːdjə/ primarily
-आद्योपान्त # ; ! /aːdjopaːntə/ end-to-end
-आनन्दपूर्वक # ; ! /aːnndəpuːrvək/ pleasurably
-आनंदपूर्वक # ; ! /aːnəndpuːrvək/ blissfully
-आमरण # ; ! /aːmrəɳ/ to death
-आरपार # ; ! /aːrpaːr/ across, through
-आश्चर्यपूर्वक # ; ! /aːʃt͡ʃərjəpuːrvək/ in amazement, in wonderment
-आसपास # ; ! /aːspaːs/ hereabouts, close
-आहिस्ता # ; ! /aːɦistaː/ easy, tardily
-इकटठे # ; ! /ikʈəʈʰe/ together
-इच्छानुसार # ; ! /it͡ʃt͡ʃʰaːnusaːr/ at will, ad lib
-इच्छापूर्वक # ; ! /it͡ʃt͡ʃʰaːpuːrvək/ with a good grace, with good grace
-इतना # ; ! /itnaː/ so, that
-इधर # ; ! /id̤ər/ here
-इन # ; ! /in/ in
-इन् # ; ! /in/ in
-इरादतन # ; ! /iraːdtən/ intentionally
-इष्टतम # ; ! /iʂʈətəm/ optimally
-इसकेबाद # ; ! /iskebaːd/ hereafter
-इसलिए # ; ! /islie/ therefore, so
-ईसवी # ; ! /iːsviː/ Anno domini
-उच्च # ; ! /ut͡ʃt͡ʃə/ highly
-उठा # ; ! /uʈʰaː/ up
-उतना # ; ! /utnaː/ so much, insomuch
-उत्तरोत्तर # ; ! /uttərottər/ increasingly, more and more
-उत्साहपूर्वक # ; ! /utsaːɦpuːrvək/ enthusiastically, zealously
-उत्सुकतापूर्वक # ; ! /utsuktaːpuːrvək/ questioningly, avidly
-उत्सुकतावश # ; ! /utsuktaːvəʃ/ anxiously
-उदारतापूर्वक # ; ! /udaːrtaːpuːrvək/ generously, obligingly
-उदाहरणार्थ # ; ! /udaːɦrəɳaːrtʰə/ e.g., for instance
-उधर # ; ! /ud̤ər/ thither, yon
-उपर्युक्त # ; ! /uprjuktə/ supra
-उपलब्ध # ; ! /upləbd̤ə/ around
-उर्फ़ # ; ! /urfə/ alias
-उलटा # ; ! /ulʈaː/ inside out
-उलटे # ; ! /ulʈe/ backwards, Contra
-उल्टा # ; ! /ulʈaː/ in reverse, backward
-उल्टे # ; ! /ulʈe/ rather, backwards
-उल्लासपूर्वक # ; ! /ullaːspuːrvək/ gleefully
-उसमें # ; ! /usmen/ therein
-उससे # ; ! /usse/ therefrom, thereto
-ऊपर # ; ! /uːpər/ upwards, up
-ऊर्ध्व # ; ! /uːrd̤və/ up
-ऊंचा # ; ! /uːɲt͡ʃaː/ aloft, up
-ऊंचे # ; ! /uːɲt͡ʃe/ skyward
-एकतरफ़ा # ; ! /ektərfaː/ unilaterally
-एकतार # ; ! /ektaːr/ constantly
-एकदम # ; ! /ekdəm/ clean, plum
-एकसमान # ; ! /eksəmaːn/ uniformly
-एकसा # ; ! /eksaː/ evenly, invariably
-एकसाथ # ; ! /eksaːtʰ/ conjointly, simultaneously
-एकाएक # ; ! /ekaːek/ short, unawares
-एकाध # ; ! /ekaːd̤/ some
-एडी # ; ! /eɖiː/ AD
-ऐसा # ; ! /æːsaː/ so
-ऐसे # ; ! /æːse/ so
-ऑल # ; ! /ऑlə/ all
-ओर # ; ! /or/ across
-और # ; ! /ɔːr/ much, further
-कटुतापूर्वक # ; ! /kəʈutaːpuːrvək/ viciously
-कठोरतापूर्वक # ; ! /kəʈʰortaːpuːrvək/ scathingly, sternly
-कण्ठस्थ # ; ! /kəɳʈʰəstʰə/ by heart
-कदा # ; ! /kədaː/ infrequently
-कदाचित # ; ! /kədaːt͡ʃit/ seldom, seemingly
-कदाचित् # ; ! /kədaːt͡ʃit/ possibly
-कदापि # ; ! /kədaːpi/ ever
-कपटपूर्वक # ; ! /kəpʈəpuːrvək/ fraudulently
-कब # ; ! /kəb/ then, when
-कभी # ; ! /kəb̤iː/ ever
-कमोबेश # ; ! /kəmobeʃ/ more or less
-करीब # ; ! /kəriːb/ close to
-क़रीब # ; ! /qəriːb/ near
-क़रीब # ; ! /qəriːb/ thereabouts
-कल # ; ! /kəl/ tomorrow, yesterday
-कष्टपूर्वक # ; ! /kəʂʈəpuːrvək/ sorely, painfully
-कसकर # ; ! /kəskər/ bodily, close
-कहाँ # ; ! /kəɦãː/ wherever, where
-कहिं # ; ! /kəɦin/ somewhere
-कहीं # ; ! /kəɦiːn/ someplace, anywhere
-क़ानूनन # ; ! /qaːnuːnən/ legally
-काफी # ; ! /kaːpʰiː/ fucking, pretty
-काफ़ी # ; ! /kaːfiː/ appreciably, rather
-किञ्चित # ; ! /kiɲt͡ʃit/ any
-कितना # ; ! /kitnaː/ how
-किधर # ; ! /kid̤ər/ where
-किसलिए # ; ! /kislie/ why
-किससे # ; ! /kisse/ whereby
-किंचित # ; ! /kiɲt͡ʃit/ somewhat
-किंतु # ; ! /kintu/ only
-कुछ # ; ! /kut͡ʃʰ/ a tad, rather
-कुशलतापूर्वक # ; ! /kuʃlətaːpuːrvək/ competently, aptly
-कुसमय # ; ! /kusməj/ malapropos, inopportunely
-कृतज्ञतापूर्वक # ; ! /kr̩td͡ʒɲətaːpuːrvək/ appreciatively, gratefully
-कृपया # ; ! /kr̩pjaː/ kindly
-कृपापूर्वक # ; ! /kr̩paːpuːrvək/ graciously
-केवल # ; ! /kevəl/ just, scarcely
-कैसा # ; ! /kæːsaː/ how
-कैसे # ; ! /kæːse/ how
-कोई # ; ! /koiː/ some
-क्यों # ; ! /kjon/ why ever, why
-क्योंकि # ; ! /kjoŋki/ inasmuch
-क्रमशः # ; ! /krəmʃəh/ step by step, step-by-step
-क्रमानुसार # ; ! /krəmaːnusaːr/ consecutively, sequentially
-क्रूरतापूर्वक # ; ! /kruːrtaːpuːrvək/ inhumanely, cruelly
-क्रोधपूर्वक # ; ! /krod̤puːrvək/ wrathfully
-खड़ा # ; ! /kʰəɽaː/ endways
-खासकर # ; ! /kʰaːskər/ mostly, especially
-ख़ासकर # ; ! /xaːskər/ especially, par excellence
-खासा # ; ! /kʰaːsaː/ pretty
-खुद # ; ! /kʰud/ by oneself, personally
-ख़ुद # ; ! /xud/ personally, privately
-खुलकर # ; ! /kʰulkər/ candidly, openly
-खुल्लमखुल्ला # ; ! /kʰulləmkʰullaː/ overtly, openly
-ख़ूब # ; ! /xuːb/ extremely, very
-खेदपूर्वक # ; ! /kʰedpuːrvək/ contritely, ruefully
-खैर # ; ! /kʰæːr/ so
-गड़बड़ # ; ! /ɡəɽbəɽ/ awry, amiss
-गम्भीरतापूर्वक # ; ! /ɡəmb̤iːrtaːpuːrvək/ in all seriousness
-गलत # ; ! /ɡələt/ wrongly, wrong
-गहरा # ; ! /ɡəɦraː/ deep, deeply
-ग़ैर # ; ! /ɣæːr/ non
-ग़ैरमामूली # ; ! /ɣæːrmaːmuːliː/ uncommonly
-गोकि # ; ! /ɡoki/ though
-गोया # ; ! /ɡojaː/ quasi
-गौरवान्वित # ; ! /ɡɔːrvaːnvit/ proud
-गंभीरतापूर्वक # ; ! /ɡəmb̤iːrtaːpuːrvək/ demurely
-घुमाकर # ; ! /ɡ̤umaːkər/ indirectly
-घुलमिलकर # ; ! /ɡ̤ulmilkər/ cheek by jowl
-घृणापूर्वक # ; ! /ɡ̤r̩ɳaːpuːrvək/ disgustedly
-चालू # ; ! /t͡ʃaːluː/ in progress, in hand
-चिढ़कर # ; ! /t͡ʃiɽ̥əkər/ irritably
-चित # ; ! /t͡ʃit/ supinely
-चित्तचोर # ; ! /t͡ʃittət͡ʃor/ heart-stealer
-चिपकाकर # ; ! /t͡ʃipkaːkər/ glued to <something>
-चुपके # ; ! /t͡ʃupke/ surreptitiously, mutely
-चुपचाप # ; ! /t͡ʃupt͡ʃaːp/ quiety, silently
-चूंकि # ; ! /t͡ʃuːŋki/ AS
-चूँकि # ; ! /t͡ʃũːki/ inasmuch
-चौगुना # ; ! /t͡ʃɔːɡunaː/ fourfold
-चौथे # ; ! /t͡ʃɔːtʰe/ fourthly
-छिपकर # ; ! /t͡ʃʰipkər/ in hiding
-छोड़कर # ; ! /t͡ʃʰoɽkər/ without, but
-जइसे # ; ! /d͡ʒəise/ like
-जब # ; ! /d͡ʒəb/ when
-ज़बरन # ; ! /zəbrən/ by force, forcefully
-ज़बर्दस्ती # ; ! /zəbrdəstiː/ willy-nilly
-जबानी # ; ! /d͡ʒəbaːniː/ orally, verbally
-ज़बानी # ; ! /zəbaːniː/ word of mouth, by word of mouth
-जभी # ; ! /d͡ʒəb̤iː/ AS
-जरूर # ; ! /d͡ʒəruːr/ necessarily, surely
-ज़रूर # ; ! /zəruːr/ far and away, quite so
-जल्द # ; ! /d͡ʒəldə/ pronto, facilely
-जल्दि # ; ! /d͡ʒəldi/ soon
-जल्दी # ; ! /d͡ʒəldiː/ sooner rather than later, soon
-जहाँ # ; ! /d͡ʒəɦãː/ where
-जाकर # ; ! /d͡ʒaːkər/ go and
-जानबूझकर # ; ! /d͡ʒaːnbuːd͡ʒ̤kər/ advisedly, in cold blood
-जायज # ; ! /d͡ʒaːjəd͡ʒ/ legitimately
-जाहिर # ; ! /d͡ʒaːɦir/ predictably
-ज़ाहिर # ; ! /zaːɦir/ noticeably
-जिसमें # ; ! /d͡ʒismen/ wherein
-जिससे # ; ! /d͡ʒisse/ whereby
-जुड़कर # ; ! /d͡ʒuɽkər/ coherently
-जैसा # ; ! /d͡ʒæːsaː/ so
-जैसेकि # ; ! /d͡ʒæːseki/ namely
-ज्ञानपूर्वक # ; ! /d͡ʒɲaːnpuːrvək/ knowingly
-ज़्यादा # ; ! /zjaːdaː/ too, very often
-ज़्यादातर # ; ! /zjaːdaːtər/ principally, chiefly
-ज्योंही # ; ! /d͡ʒjonɦiː/ as
-झट # ; ! /d͡ʒ̤əʈ/ at once, quick
-झटपट # ; ! /d͡ʒ̤əʈpəʈ/ quickly
-झूठमूठ # ; ! /d͡ʒ̤uːʈʰmuːʈʰ/ affectedly
-झूठी # ; ! /d͡ʒ̤uːʈʰiː/ falsely
-टटका # ; ! /ʈəʈkaː/ newly
-टटोलकर # ; ! /ʈəʈolkər/ gropingly
-टेढ़ा # ; ! /ʈeɽ̥aː/ obliquely
-ठस # ; ! /ʈʰəs/ chock-a-block
-ठसाठस # ; ! /ʈʰəsaːʈʰəs/ tightly
-ठिक # ; ! /ʈʰik/ okay
-ठीक # ; ! /ʈʰiːk/ smack, on the nose
-ठीकठाक # ; ! /ʈʰiːkʈʰaːk/ just
-ठीकठीक # ; ! /ʈʰiːkʈʰiːk/ actually
-ठूँसकर # ; ! /ʈʰũːsəkər/ under pressure
-डटकर # ; ! /ɖəʈkər/ unhesitatingly, hardily
-डरावनी # ; ! /ɖəraːvniː/ frighteningly
-डावांडोल # ; ! /ɖaːvaːnɖol/ adrift
-डोंगा # ; ! /ɖoŋɡaː/ pro rata
-तक # ; ! /tək/ that
-तकरीबन # ; ! /təkriːbən/ nearly
-तड़के # ; ! /təɽke/ soon
-तत्क्षण # ; ! /tətkʂəɳ/ in the same breath
-तत्परतापूर्वक # ; ! /tətpərtaːpuːrvək/ swiftly
-तत्पश्चात # ; ! /tətpəʃt͡ʃaːt/ afterwards
-तत्वतः # ; ! /tətvətəh/ basically
-तथापि # ; ! /tətʰaːpi/ yet
-तदनुकूल # ; ! /tədnukuːl/ accordingly
-तदनुसार # ; ! /tədnusaːr/ accordingly
-तदनंतर # ; ! /tədnəntər/ thence
-तदर्थ # ; ! /tədrtʰə/ ad hoc
-तदापि # ; ! /tədaːpi/ yet
-तनहा # ; ! /tənɦaː/ solus, only
-तब # ; ! /təb/ now, then
-तभी # ; ! /təb̤iː/ only
-तमाम # ; ! /təmaːm/ utterly, throughout
-तरफ़ # ; ! /tərəf/ across
-तले # ; ! /təle/ below, beneath
-ताकि # ; ! /taːki/ so
-ताहम # ; ! /taːɦəm/ nevertheless
-तिगुना # ; ! /tiɡunaː/ triply, three-fold
-तिरछा # ; ! /tirt͡ʃʰaː/ obliquely, diagonally
-तिरछे # ; ! /tirt͡ʃʰe/ across, slantwise
-तिरस्कारपूर्वक # ; ! /tirskaːrpuːrvək/ contemptuously
-तीव्रतर # ; ! /tiːvrətər/ faster
-तीव्रतापूर्वक # ; ! /tiːvrətaːpuːrvək/ nakedly
-तीसरा # ; ! /tiːsraː/ third, thirdly
-तीसरे # ; ! /tiːsre/ thirdly
-तुरत # ; ! /turət/ at once, offhand
-तुरन्त # ; ! /turntə/ out of hand, like a flash
-तुरंत # ; ! /turəntə/ straight off, instantly
-तैसा # ; ! /tæːsaː/ so, thus
-थोड़ा # ; ! /tʰoɽaː/ remotely, few
-थोड़ी # ; ! /tʰoɽiː/ part
-दक्षतापूर्वक # ; ! /dəkʂətaːpuːrvək/ dexterously, with adroitness
-दक्षिणावर्त # ; ! /dəkʂiɳaːvrtə/ clockwise
-दयापूर्वक # ; ! /dəjaːpuːrvək/ kindly
-दरअसल # ; ! /dərasəl/ actually
-दरदरा # ; ! /dərdəraː/ coarsely
-दस्ती # ; ! /dəstiː/ by hand
-दाये # ; ! /daːje/ to the right
-दाहिने # ; ! /daːɦine/ to the right
-दिनरात # ; ! /dinraːt/ round the clock
-दीनतापूर्वक # ; ! /diːntaːpuːrvək/ abjectly
-दुगना # ; ! /duɡnaː/ twice
-दुगुना # ; ! /duɡunaː/ two times, twofold
-दुबारा # ; ! /dubaːraː/ afresh, again
-दुर्घटनावश # ; ! /durɡ̤əʈnaːvəʃ/ accidentally
-दुर्भाग्यवश # ; ! /durb̤aːɡjəvəʃ/ sad to say, unluckily
-दुहराकर # ; ! /duɦraːkər/ anew
-दूना # ; ! /duːnaː/ doubly, double
-दूर # ; ! /duːr/ away, off
-दूसरा # ; ! /duːsraː/ second, secondly
-दृढ़तापूर्वक # ; ! /dr̩ɽ̥ətaːpuːrvək/ stoutly, steadfastly
-दृढ़तापूर्वक # ; ! /dr̩ɽ̥ətaːpuːrvək/ adamantly, assuredly
-देरतक # ; ! /dertək/ late
-दैवीय # ; ! /dæːviːj/ divinely
-दोगुना # ; ! /doɡunaː/ doubly
-दोबारा # ; ! /dobaːraː/ again
-दौड़कर # ; ! /dɔːɽkər/ at the double, on the double
-द्वारा # ; ! /dvaːraː/ through
-द्विपक्षी # ; ! /dvipkʂiː/ bilaterally
-धाराप्रवाह # ; ! /d̤aːraːprəvaːɦ/ glibly
-धीमे # ; ! /d̤iːme/ slowly, Low
-धीरे # ; ! /d̤iːre/ quietly, softly
-धूर्ततापूर्वक # ; ! /d̤uːrtətaːpuːrvək/ cunningly
-धैर्यपूर्वक # ; ! /d̤æːrjəpuːrvək/ patiently
-ध्यानपूर्वक # ; ! /d̤jaːnpuːrvək/ unflaggingly, closely
-नज़दीक # ; ! /nəzdiːk/ near, by
-नम्रतापूर्वक # ; ! /nəmrətaːpuːrvək/ mildly, earnestly
-नही # ; ! /nəɦiː/ no, nowhere
-नहीं # ; ! /nəɦiːn/ no, nope
-नाममात्र # ; ! /naːmmaːtrə/ nominally
-नाहक # ; ! /naːɦək/ undeservedly
-निकट # ; ! /nikəʈ/ by, near
-नित # ; ! /nit/ eternally
-नितान्त # ; ! /nitaːntə/ precious
-नित्य # ; ! /nitjə/ ever
-निपट # ; ! /nipəʈ/ utterly, absolutely
-निम्नानुसार # ; ! /nimnaːnusaːr/ as follows
-नियमतः # ; ! /nijmətəh/ routinely
-निरन्तर # ; ! /nirntər/ perpetually, ever
-निराशापूर्वक # ; ! /niraːʃaːpuːrvək/ despairingly, despondently
-निरंतर # ; ! /nirəntər/ endlessly, steadily
-निर्दयतापूर्वक # ; ! /nirdəjtaːpuːrvək/ mercilessly, sadistically
-निर्भयतापूर्वक # ; ! /nirb̤əjtaːpuːrvək/ fearlessly
-निर्ममतापूर्वक # ; ! /nirməmtaːpuːrvək/ unforgivingly
-निर्लज्जतापूर्वक # ; ! /nirləd͡ʒd͡ʒətaːpuːrvək/ unashamedly
-निर्विवादित # ; ! /nirvivaːdit/ unanimously
-निश्चयपूर्वक # ; ! /niʃt͡ʃəjpuːrvək/ a fortiori, for certain
-निष्ठापूर्वक # ; ! /niʂʈʰaːpuːrvək/ scrupulously, stanchly
-निष्ठुरतापूर्वक # ; ! /niʂʈʰurtaːpuːrvək/ unfeelingly, mercilessly
-निष्पक्ष # ; ! /niʂpəkʂə/ without prejudice
-निसंदेह # ; ! /nisəndeɦ/ sure
-निस्सन्देह # ; ! /nissəndeɦ/ of course, inevitably
-निस्संदेह # ; ! /nissəndeɦ/ with a capital, undoubtedly
-निहायत # ; ! /niɦaːjət/ high, deadly
-निःशुल्क # ; ! /niəhʃulkə/ free of charge
-निःसन्देह # ; ! /niəhsəndeɦ/ and no mistake, easily
-निःसंकोच # ; ! /niəhsəŋkot͡ʃ/ readily
-नीचे # ; ! /niːt͡ʃe/ to a lower place, beneath
-नीरस # ; ! /niːrəs/ flat
-न्यायपूर्वक # ; ! /njaːjpuːrvək/ justly, fairly
-न्यायसंगत # ; ! /njaːjsəŋɡət/ clean
-न्यारा # ; ! /njaːraː/ aloof
-पतले # ; ! /pətle/ thinly
-पदेन # ; ! /pəden/ ex officio
-परस्पर # ; ! /pərspər/ mutually
-परिणामस्वरूप # ; ! /pəriɳaːmsvəruːp/ consequentially, in consequence
-परिश्रमपूर्वक # ; ! /pəriʃrəmpuːrvək/ diligently
-परिहासमय # ; ! /pəriɦaːsməj/ funny
-परे # ; ! /pəre/ ulterior
-पलटकर # ; ! /pəlʈəkər/ turn round and <do> <something>
-पश्चात # ; ! /pəʃt͡ʃaːt/ after, behind
-पश्चात् # ; ! /pəʃt͡ʃaːt/ afterwards, later
-पस # ; ! /pəs/ near
-पहले # ; ! /pəɦle/ previously, ago
-पहिले # ; ! /pəɦile/ aforetime, first of all
-पाप # ; ! /paːp/ evil
-पास # ; ! /paːs/ by, adjacent
-पाँचवें # ; ! /pãːt͡ʃəven/ fifthly
-पिछड़ा # ; ! /pit͡ʃʰɽaː/ backward
-पिछले # ; ! /pit͡ʃʰle/ over the past
-पीछे # ; ! /piːt͡ʃʰe/ behind, after
-पीठपर # ; ! /piːʈʰpər/ behind
-पुन # ; ! /pun/ again
-पुनः # ; ! /punəh/ back, again
-पुराना # ; ! /puraːnaː/ second-hand
-पूरा # ; ! /puːraː/ in full
-पूरे # ; ! /puːre/ throughout, around
-पूर्णकालिक # ; ! /puːrɳəkaːlik/ full-time
-पूर्णतया # ; ! /puːrɳətjaː/ quite, from A to Z
-पूर्णतः # ; ! /puːrɳətəh/ broad, absolutely
-पूर्णरूपेण # ; ! /puːrɳəruːpeɳ/ quite, totally
-पृथक # ; ! /pr̩tʰək/ aloof
-पेश # ; ! /peʃ/ present, previously
-पेशतर # ; ! /peʃtər/ Sooner
-पैदल # ; ! /pæːdəl/ Shank's pony, on Shank's mare
-प्रकटतः # ; ! /prəkʈətəh/ seemingly
-प्रतिक्षण # ; ! /prətikʂəɳ/ minutely
-प्रतिदिन # ; ! /prətidin/ daily
-प्रतिपल # ; ! /prətipəl/ minutely
-प्रतिवर्ष # ; ! /prətivrʂə/ annually, per annum
-प्रतिशत # ; ! /prətiʃət/ per cent, percent
-प्रत्यक्ष # ; ! /prətjəkʂə/ firsthand
-प्रत्यक्षतः # ; ! /prətjəkʂətəh/ prima facie, direct
-प्रत्युत # ; ! /prətjut/ but, on the contrary
-प्रत्येक # ; ! /prətjek/ apiece
-प्रथमतः # ; ! /prətʰmətəh/ firstly
-प्रथमदृष्टया # ; ! /prətʰmədr̩ʂʈəjaː/ prima facie
-प्रधानतः # ; ! /prəd̤aːntəh/ chiefly, primarily
-प्रभावपूर्ण # ; ! /prəb̤aːvpuːrɳə/ effectively
-प्रयत्नपूर्वक # ; ! /prəjtnəpuːrvək/ effortfully
-प्रसन्नतापूर्वक # ; ! /prəsnnətaːpuːrvək/ merrily, jovially
-प्रसंगवश # ; ! /prəsəŋɡvəʃ/ in passing, incidentally
-प्राणघातक # ; ! /praːɳɡ̤aːtək/ mortally
-प्रायः # ; ! /praːjəh/ almost, nearly
-प्रेमपूर्वक # ; ! /prempuːrvək/ fondly
-फटाफट # ; ! /pʰəʈaːpʰəʈ/ quickly
-फलतः # ; ! /pʰəltəh/ consequently, eventually
-फलस्वरूप # ; ! /pʰəlsvəruːp/ thereby, accordingly
-फालतु # ; ! /pʰaːltu/ bloody
-फिर # ; ! /pʰir/ back
-फिरसे # ; ! /pʰirse/ afresh
-फिलहाल # ; ! /pʰilɦaːl/ currently, right now
-फ़िलहाल # ; ! /filɦaːl/ at present
-फ़िलहाल # ; ! /filɦaːl/ nowadays, recently
-फुटकर # ; ! /pʰuʈkər/ retail
-फौरन # ; ! /pʰɔːrən/ on the nail, soon
-फ़ौरन # ; ! /fɔːrən/ promptly, pronto
-बखूबी # ; ! /bəkʰuːbiː/ excellently, thoroughly
-बख़ूबी # ; ! /bəxuːbiː/ fine, first-rate
-बचाये # ; ! /bət͡ʃaːje/ on the run
-बजाय # ; ! /bəd͡ʒaːj/ instead
-बजे # ; ! /bəd͡ʒe/ o'clock
-बड़ा # ; ! /bəɽaː/ supra, across
-बढ़कर # ; ! /bəɽ̥əkər/ ahead
-बढ़वार # ; ! /bəɽ̥əvaːr/ beyond
-बदकिस्मत # ; ! /bədkismət/ unfortunately
-बदौलत # ; ! /bədɔːlət/ through
-बन्द # ; ! /bəndə/ to
-बर्बरतापूर्वक # ; ! /bərbərtaːpuːrvək/ savagely
-बलपूर्वक # ; ! /bəlpuːrvək/ forcedly, emphatically
-बलात् # ; ! /bəlaːt/ forcefully, forcibly
-बल्कि # ; ! /bəlki/ rather, nay
-बहरहाल # ; ! /bəɦrəɦaːl/ by the way
-बहुत # ; ! /bəɦut/ bad, way
-बहुधा # ; ! /bəɦud̤aː/ chiefly, as usual
-बाइज्जत # ; ! /baːid͡ʒd͡ʒət/ with all respect
-बाएं # ; ! /baːen/ to the left
-बाकायदा # ; ! /baːkaːjdaː/ systematically
-बाक़ायदा # ; ! /baːqaːjdaː/ systematically
-बाद # ; ! /baːd/ later, after
-बार # ; ! /baːr/ often
-बारबार # ; ! /baːrbaːr/ oft, often
-बारम्बार # ; ! /baːrmbaːr/ time without number, time after time
-बारंबार # ; ! /baːrəmbaːr/ over and over, repeatedly
-बाहर # ; ! /baːɦər/ forth, without
-बिना # ; ! /binaː/ without
-बिरले # ; ! /birle/ seldom
-बिलकुल # ; ! /bilkul/ absolutely, plenty
-बिल्कुल # ; ! /bilkul/ at all, absolutely
-बीच # ; ! /biːt͡ʃ/ midway, between
-बीचोबीच # ; ! /biːt͡ʃobiːt͡ʃ/ midmost
-बुराई # ; ! /buraːiː/ evil
-बेकाम # ; ! /bekaːm/ out of action
-बेखटक # ; ! /bekʰʈək/ safely
-बेखटके # ; ! /bekʰʈəke/ unconcernedly
-बेघरबार # ; ! /beɡ̤rəbaːr/ rough
-बेठिकाने # ; ! /beʈʰikaːne/ adrift
-बेढब # ; ! /beɖ̤əb/ heavily
-बेतरह # ; ! /betrəɦ/ heavily
-बेतहाशा # ; ! /betɦaːʃaː/ wildly, recklessly
-बेदर्द # ; ! /bedrdə/ unmercifully
-बेदाम # ; ! /bedaːm/ gratis, free of charge
-बेधड़क # ; ! /bed̤ɽək/ dauntlessly, fluently
-बेरहम # ; ! /berɦəm/ unmercifully
-बेरहमी # ; ! /berɦəmiː/ mercilessly
-बेरोकटोक # ; ! /berokʈok/ smoothly
-बेशक # ; ! /beʃək/ naturally, admittedly
-बेशक़ # ; ! /beʃəq/ alright
-बेसमय # ; ! /besməj/ out of turn
-बेसुर # ; ! /besur/ flat
-बेहद # ; ! /beɦəd/ stiff, whacking
-बेहिचक # ; ! /beɦit͡ʃək/ straight out
-बेहूदा # ; ! /beɦuːdaː/ fatuously
-भक्तिपूर्वक # ; ! /b̤əktipuːrvək/ devotedly, faithfully
-भद्दा # ; ! /b̤əddaː/ terribly
-भद्दे # ; ! /b̤ədde/ grotesquely
-भर # ; ! /b̤ər/ over, round
-भलीभाँति # ; ! /b̤əliːb̤ãːti/ very well
-भवदीय # ; ! /b̤əvdiːj/ sincerely yours, sincerely
-भाग्यवश # ; ! /b̤aːɡjəvəʃ/ it so happens that
-भारी # ; ! /b̤aːriː/ dearly
-भावुकतावश # ; ! /b̤aːvuktaːvəʃ/ emotionally
-भी # ; ! /b̤iː/ also, and all
-भीतर # ; ! /b̤iːtər/ in, within
-भूलवश # ; ! /b̤uːlvəʃ/ mistakenly
-मजबूरन # ; ! /məd͡ʒbuːrən/ perforce, constrainedly
-मनसा # ; ! /mənsaː/ mentally
-मरणोपरांत # ; ! /mərɳopraːntə/ posthumously
-मर्तबा # ; ! /mərtəbaː/ often
-मसलन # ; ! /məslən/ for example
-महज़ # ; ! /məɦəz/ merely, simply
-मात्र # ; ! /maːtrə/ merely, just
-मानो # ; ! /maːno/ as
-मानों # ; ! /maːnon/ quasi
-मिलकर # ; ! /milkər/ side by side
-मिलजुलकर # ; ! /mild͡ʒulkər/ jointly
-मुख्यतया # ; ! /mukʰjətjaː/ chiefly, primarily
-मुख्यतः # ; ! /mukʰjətəh/ foremost, primarily
-मूर्खतावश # ; ! /muːrkʰətaːvəʃ/ stupidly
-मूलतः # ; ! /muːltəh/ fundamentally, radically
-मौज़ूद # ; ! /mɔːzuːd/ there
-यकायक # ; ! /jəkaːjək/ suddenly, immediately
-यक़ीनन # ; ! /jəqiːnən/ surely, certainly
-यथा # ; ! /jətʰaː/ videlicet, namely
-यथाक्रम # ; ! /jətʰaːkrəm/ sequentially
-यथायोग्य # ; ! /jətʰaːjoɡjə/ duly, deservedly
-यथावत # ; ! /jətʰaːvət/ duly
-यथावत् # ; ! /jətʰaːvt/ duly, in situ
-यथाविधि # ; ! /jətʰaːvid̤i/ formally, as a rule
-यथासमय # ; ! /jətʰaːsməj/ duly
-यथासम्भव # ; ! /jətʰaːsmb̤əv/ possibly
-यथासंभव # ; ! /jətʰaːsəmb̤əv/ as far as possible
-यथेष्टम # ; ! /jətʰeʂʈəm/ ad lib
-यथोचित # ; ! /jətʰot͡ʃit/ reasonably, duly
-यहां # ; ! /jəɦaːn/ here, Here
-यहाँ # ; ! /jəɦãː/ hither, here
-यहीं # ; ! /jəɦiːn/ right here
-यानि # ; ! /jaːni/ viz, namely
-यूँही # ; ! /jũːɦiː/ just
-रटकर # ; ! /rəʈkər/ by heart
-रातदिन # ; ! /raːtdin/ night and day, day and night
-रातभर # ; ! /raːtb̤ər/ night-long
-रातोंरात # ; ! /raːtonraːt/ overnight
-रुचिपूर्वक # ; ! /rut͡ʃipuːrvək/ fondly
-रूबरू # ; ! /ruːbruː/ face to face
-रैखिक # ; ! /ræːkʰik/ linearly
-रोज # ; ! /rod͡ʒ/ each day
-रोज़ # ; ! /roz/ daily
-रोजाना # ; ! /rod͡ʒaːnaː/ each day
-रोमांचित # ; ! /romaːɲt͡ʃit/ excitedly
-लगभग # ; ! /ləɡb̤əɡ/ nearly, something like
-लगातर # ; ! /ləɡaːtər/ on end
-लगातार # ; ! /ləɡaːtaːr/ on end, persistently
-लगे # ; ! /ləɡe/ toward
-लायक़ # ; ! /laːjəq/ worth doing
-लिए # ; ! /lie/ to
-लिहाजा # ; ! /liɦaːd͡ʒaː/ so
-लेकिन # ; ! /lekin/ but
-लंपट # ; ! /ləmpəʈ/ loosely
-वगैरह # ; ! /vəɡæːrəɦ/ etcetera
-वग़ैरह # ; ! /vəɣæːrəɦ/ on and on
-वरन # ; ! /vərən/ else
-वस्तुतः # ; ! /vəstutəh/ really, literally
-वहां # ; ! /vəɦaːn/ yonder
-वहाँ # ; ! /vəɦãː/ yonder, there
-वही # ; ! /vəɦiː/ easily
-वहीं # ; ! /vəɦiːn/ ibidem
-वाकई # ; ! /vaːkəi/ indeed
-वापस # ; ! /vaːpəs/ back
-वामावर्ती # ; ! /vaːmaːvrtiː/ anticlockwise
-विचारपूर्वक # ; ! /vit͡ʃaːrpuːrvək/ with discretion, carefully
-विधिपूर्वक # ; ! /vid̤ipuːrvək/ normally
-विनम्रतापूर्वक # ; ! /vinmrətaːpuːrvək/ submissively
-विनयपूर्वक # ; ! /vinjəpuːrvək/ beseechingly, submissively
-विपरीत # ; ! /vipriːt/ counter
-विलासितापूर्वक # ; ! /vilaːsitaːpuːrvək/ voluptuously
-विशेषकर # ; ! /viʃeʂkər/ notably, in particular
-विशेषतया # ; ! /viʃeʂtəjaː/ characteristically
-विशेषतः # ; ! /viʃeʂtəh/ notably
-विश्वसनीय # ; ! /viʃvəsniːj/ faithfully
-विश्वासपूर्वक # ; ! /viʃvaːspuːrvək/ trustfully, trustingly
-विस्तारपूर्वक # ; ! /vistaːrpuːrvək/ large, punctiliously
-वीरतापूर्वक # ; ! /viːrtaːpuːrvək/ valorously, valiantly
-वैसा # ; ! /væːsaː/ so, sic
-वैसे # ; ! /væːse/ by the way, incidentally
-व्यग्रतापूर्वक # ; ! /vjəɡrətaːpuːrvək/ frantically, edgily
-व्यर्थ # ; ! /vjərtʰə/ vainly, unprofitably
-व्यस्ततापूर्वक # ; ! /vjəstətaːpuːrvək/ busily
-व्यंग्यपूर्वक # ; ! /vjəŋɡjəpuːrvək/ wryly, cynically
-शब्दशः # ; ! /ʃəbdəʃəh/ word for word, verbatim
-शान्तिपूर्वक # ; ! /ʃaːntipuːrvək/ quiety
-शायद # ; ! /ʃaːjəd/ perhaps, well
-शालीनतापूर्वक # ; ! /ʃaːliːntaːpuːrvək/ decently, graciously
-शांतिपूर्वक # ; ! /ʃaːntipuːrvək/ tranquilly, placidly
-शिष्टतापूर्वक # ; ! /ʃiʂʈətaːpuːrvək/ courteously
-शिष्टाचारपूर्वक # ; ! /ʃiʂʈaːt͡ʃaːrpuːrvək/ civilisedly
-शीघ्र # ; ! /ʃiːɡ̤rə/ hasty, shortly
-शीघ्रतम # ; ! /ʃiːɡ̤rətəm/ soonest
-श्रद्धापूर्वक # ; ! /ʃrədd̤aːpuːrvək/ faithfully, devoutly
-सगर्व # ; ! /səɡrvə/ arrogantly, imperiously
-सच # ; ! /sət͡ʃ/ surely, really
-सचमुच # ; ! /sət͡ʃmut͡ʃ/ really, indeed
-सतर्कतापूर्ण # ; ! /sətrkətaːpuːrɳə/ softly softly
-सतर्कतापूर्वक # ; ! /sətrkətaːpuːrvək/ with kid gloves, cautiously
-सत्कारपूर्वक # ; ! /sətkaːrpuːrvək/ respectfully
-सदा # ; ! /sədaː/ constantly, always
-सदेह # ; ! /sədeɦ/ bodiless
-सदैव # ; ! /sədæːv/ ever, always
-सदोष # ; ! /sədoʂ/ culpably
-सद्यः # ; ! /sədjəh/ newly
-सप्ताहभर # ; ! /səptaːɦb̤ər/ week-long
-सप्रेम # ; ! /səprem/ with love, fondly
-सफलतापूर्वक # ; ! /səpʰlətaːpuːrvək/ big, effectively
-समरूप # ; ! /səmruːp/ same
-समूचा # ; ! /səmuːt͡ʃaː/ all
-सम्प्रति # ; ! /səmprəti/ present
-सम्भवतः # ; ! /səmb̤əvtəh/ presumably, maybe
-सम्मानपूर्वक # ; ! /səmmaːnpuːrvək/ deferentially
-सम्मुख # ; ! /səmmukʰ/ before, face to face
-सरलतापूर्वक # ; ! /sərlətaːpuːrvək/ easily
-सरसरी # ; ! /sərsəriː/ cursorily
-सर्वत्र # ; ! /sərvətrə/ all over, universally
-सर्वथा # ; ! /sərvətʰaː/ to all intents and purposes
-सर्वदा # ; ! /sərvədaː/ invariably, everlastingly
-सर्वप्रथम # ; ! /sərvəprətʰəm/ in the first place, first of all
-सर्वोपरि # ; ! /sərvopri/ chiefly
-सवार # ; ! /səvaːr/ aboard, onboard
-सवेरे # ; ! /səvere/ early, soon
-सशरीर # ; ! /səʃriːr/ bodiless
-ससम्मान # ; ! /səsmmaːn/ respectfully
-सस्ते # ; ! /səste/ inexpensively
-सस्नेह # ; ! /səsneɦ/ with love
-सहसा # ; ! /səɦsaː/ sharp
-सहानुभूतिपूर्वक # ; ! /səɦaːnub̤uːtipuːrvək/ compassionately, sympathetically
-साथ # ; ! /saːtʰ/ along
-सादर # ; ! /saːdər/ respectfully
-साधारणतया # ; ! /saːd̤aːrɳətjaː/ customarily
-साधारणतः # ; ! /saːd̤aːrɳətəh/ generally speaking, in general
-साधिकार # ; ! /saːd̤ikaːr/ authoritatively
-सानिध्य # ; ! /saːnid̤jə/ company
-सानंद # ; ! /saːnəndə/ blissfully, exultantly
-साभार # ; ! /saːb̤aːr/ gratefully
-सामने # ; ! /saːmne/ fore, before
-सामान्यतया # ; ! /saːmaːnjətjaː/ popularly, routinely
-सामान्यतः # ; ! /saːmaːnjətəh/ commonly, normally
-सायास # ; ! /saːjaːs/ effortfully
-सारतः # ; ! /saːrtəh/ essentially
-सारे # ; ! /saːre/ around
-सालाना # ; ! /saːlaːnaː/ annually
-सावधानीपूर्वक # ; ! /saːvd̤aːniːpuːrvək/ circumspectly
-साश्चर्य # ; ! /saːʃt͡ʃərjə/ in astonishment, in wonderment
-साहसपूर्वक # ; ! /saːɦsəpuːrvək/ gamely, courageously
-सांख्यिक # ; ! /saːŋkʰjik/ statistically
-सिर्फ # ; ! /sirpʰə/ only
-सिर्फ़ # ; ! /sirfə/ strictly, but
-सिर्फ़ # ; ! /sirfə/ merely
-सिलसिलेवार # ; ! /silsilevaːr/ in sequence, seriatim
-सिवाय # ; ! /sivaːj/ but, else
-सीधा # ; ! /siːd̤aː/ full, precipitously
-सीधे # ; ! /siːd̤e/ square, straight
-सुखपूर्वक # ; ! /sukʰpuːrvək/ nice and
-सुदूर # ; ! /suduːr/ remotely, nowhere
-सुनकर # ; ! /sunkər/ by the sound of it
-सुबह # ; ! /subəɦ/ in the morning
-सोचकर # ; ! /sot͡ʃkər/ think
-सौभाग्यवश # ; ! /sɔːb̤aːɡjəvəʃ/ luckily, fortunately
-सौहार्दपूर्वक # ; ! /sɔːɦaːrdəpuːrvək/ cordially
-संतोषपूर्वक # ; ! /səntoʂpuːrvək/ contentedly
-संतोषप्रद # ; ! /səntoʂprəd/ nicely
-संभवत # ; ! /səmb̤vət/ perhaps
-संभवतया # ; ! /səmb̤vətjaː/ presumably, probably
-संभवतः # ; ! /səmb̤vətəh/ possibly, as likely as not
-संयमपूर्वक # ; ! /sənjməpuːrvək/ abstemiously
-संयोगवश # ; ! /sənjoɡvəʃ/ as chance would have it, by accident
-स् # ; ! /s/ through, since
-स्थिरतापूर्वक # ; ! /stʰirtaːpuːrvək/ steadily
-स्नेहपूर्वक # ; ! /sneɦpuːrvək/ affectionately
-स्पष्टत # ; ! /spəʂʈət/ patently
-स्पष्टतया # ; ! /spəʂʈətjaː/ explicitly, barely
-स्पष्टतः # ; ! /spəʂʈətəh/ plain, plainly
-स्वतंत्रतापूर्वक # ; ! /svətəntrətaːpuːrvək/ freely
-स्वतः # ; ! /svətəh/ in person, loose
-स्वभावतः # ; ! /svəb̤aːvtəh/ basically
-स्वभाववश # ; ! /svəb̤aːvvəʃ/ precisely
-स्वयम # ; ! /svəjəm/ naturally
-स्वादानुसार # ; ! /svaːdaːnusaːr/ to taste
-स्वेच्छया # ; ! /svet͡ʃt͡ʃʰəjaː/ voluntarily, willingly
-स्वेच्छापूर्वक # ; ! /svet͡ʃt͡ʃʰaːpuːrvək/ volitionally, voluntarily
-स्वंय # ; ! /svənjə/ personally
-हट # ; ! /ɦəʈ/ out of the way
-हठपूर्वक # ; ! /ɦəʈʰpuːrvək/ obstinately
-हठात् # ; ! /ɦəʈʰaːt/ wildly
-हताशापूर्ण # ; ! /ɦətaːʃaːpuːrɳə/ desperately
-हमेशा # ; ! /ɦəmeʃaː/ evermore, forever
-हमेसा # ; ! /ɦəmesaː/ ever
-हरदम # ; ! /ɦərdəm/ always
-हरेक # ; ! /ɦərek/ per head
-हाय # ; ! /ɦaːj/ alas
-हालाँकि # ; ! /ɦaːlãːki/ though
-हास्यजनक # ; ! /ɦaːsjəd͡ʒnək/ ludicrously
-हाँ # ; ! /ɦãː/ I'll say!, yeah
-ही # ; ! /ɦiː/ bloody well, only
-हुए # ; ! /ɦue/ in the very act of
+अकसर AdvPOS ; ! /aksər/ mostly, oftentimes
+अकस्मात AdvPOS ; ! /aksmaːt/ circumstantially, by chance
+अकस्मात् AdvPOS ; ! /aksmaːt/ suddenly
+अकारण AdvPOS ; ! /akaːrəɳ/ lightly
+अकेला AdvPOS ; ! /akelaː/ by myself, alone
+अकेले AdvPOS ; ! /akele/ by himself, single-handedly
+अक्षरशः AdvPOS ; ! /akʂərʃəh/ literally, literatim
+अक्सर AdvPOS ; ! /aksər/ many's the time, generally
+अगरचे AdvPOS ; ! /aɡrət͡ʃe/ albeit, though
+अग्रिम AdvPOS ; ! /aɡrim/ in advance
+अचानक AdvPOS ; ! /at͡ʃaːnək/ all at once, explosively
+अटकल AdvPOS ; ! /aʈkəl/ conceivably
+अति AdvPOS ; ! /ati/ far
+अतिमहत्त्वपूर्ण AdvPOS ; ! /atimɦəttvəpuːrɳə/ urgently
+अतिशय AdvPOS ; ! /atiʃəj/ excessively
+अतः AdvPOS ; ! /atəh/ therefore, hence
+अत्यधिक AdvPOS ; ! /atjəd̤ik/ shatteringly, staggeringly
+अत्यन्त AdvPOS ; ! /atjəntə/ precious, exceedingly
+अत्याधिक AdvPOS ; ! /atjaːd̤ik/ high, stiff
+अथवा AdvPOS ; ! /atʰvaː/ else
+अधिक AdvPOS ; ! /ad̤ik/ still, too
+अधिकतम AdvPOS ; ! /ad̤iktəm/ at the outside, at the very outside
+अधिकतर AdvPOS ; ! /ad̤iktər/ in general, more
+अधिकाधिक AdvPOS ; ! /ad̤ikaːd̤ik/ at most, more and more
+अधिकारपूर्वक AdvPOS ; ! /ad̤ikaːrpuːrvək/ authoritatively
+अधिकांश AdvPOS ; ! /ad̤ikaːnʃə/ for the most part
+अधिकांशतः AdvPOS ; ! /ad̤ikaːnʃtəh/ in the main
+अधिमानतः AdvPOS ; ! /ad̤imaːntəh/ preferably
+अधीरतापूर्वक AdvPOS ; ! /ad̤iːrtaːpuːrvək/ impatiently
+अनजाने AdvPOS ; ! /and͡ʒaːne/ casually, unconsciously
+अनत AdvPOS ; ! /anət/ elsewhere
+अनन्तर AdvPOS ; ! /anntər/ afterward, subsequently
+अनसोचे AdvPOS ; ! /ansot͡ʃe/ thoughtlessly
+अनायास AdvPOS ; ! /anaːjaːs/ spontaneously, involuntarily
+अनिवार्यतः AdvPOS ; ! /anivaːrjətəh/ necessarily
+अनुमानतः AdvPOS ; ! /anumaːntəh/ notionally
+अनुसार AdvPOS ; ! /anusaːr/ after, to
+अन्ततोगत्वा AdvPOS ; ! /antətoɡtvaː/ ultimately
+अन्ततः AdvPOS ; ! /antətəh/ as things turned out, in the last resort
+अन्दर AdvPOS ; ! /andər/ at home
+अन्धाधुन्ध AdvPOS ; ! /and̤aːd̤und̤ə/ headlong
+अन्य AdvPOS ; ! /anjə/ else
+अन्यत्र AdvPOS ; ! /anjətrə/ elsewhere
+अन्यथा AdvPOS ; ! /anjətʰaː/ otherwise
+अन्यायपूर्वक AdvPOS ; ! /anjaːjpuːrvək/ wrongfully
+अपर AdvPOS ; ! /apər/ additionally
+अपितु AdvPOS ; ! /apitu/ on the other hand
+अपेक्षाकृत AdvPOS ; ! /apekʂaːkr̩t/ relatively
+अप्रतिम AdvPOS ; ! /aprətim/ without parallel
+अफसोसजनक AdvPOS ; ! /apʰsosd͡ʒənək/ regrettable
+अब AdvPOS ; ! /ab/ just now, anymore
+अबतक AdvPOS ; ! /abtək/ hitherto
+अभिमानपूर्वक AdvPOS ; ! /ab̤imaːnpuːrvək/ arrogantly
+अभी AdvPOS ; ! /ab̤iː/ actually, now
+अभीतक AdvPOS ; ! /ab̤iːtək/ hitherto
+अर्थात् AdvPOS ; ! /artʰaːt/ in other words, that is to say
+अर्द्धवार्षिक AdvPOS ; ! /ardd̤əvaːrʂik/ biannually
+अलग AdvPOS ; ! /aləɡ/ away, apart
+अलबत्ता AdvPOS ; ! /albəttaː/ surely
+अलावा AdvPOS ; ! /alaːvaː/ moreover
+अवश्य AdvPOS ; ! /avʃjə/ course, jolly well
+अविराम AdvPOS ; ! /aviraːm/ non-stop
+अविलम्ब AdvPOS ; ! /avilmbə/ expeditiously
+अविलंब AdvPOS ; ! /aviləmbə/ urgently
+अश्रुपूरित AdvPOS ; ! /aʃrupuːrit/ tearfully
+असावधानीवश AdvPOS ; ! /asaːvd̤aːniːvəʃ/ incautiously
+असुरक्षित AdvPOS ; ! /asurkʂit/ defenceless, defencelessly
+अंडरआर्म AdvPOS ; ! /nɖərəarmə/ underarm
+अंततोगत्वा AdvPOS ; ! /ntətoɡtvaː/ in the end, finally
+अंततः AdvPOS ; ! /ntətəh/ in the fulness of time, in the long run
+अंतर्गत AdvPOS ; ! /ntərɡət/ under
+अंदर AdvPOS ; ! /ndər/ inland, inside
+अंदाजन AdvPOS ; ! /ndaːd͡ʒən/ tentatively
+अंधाधुंध AdvPOS ; ! /nd̤aːd̤und̤ə/ blind
+अंशतः AdvPOS ; ! /nʃətəh/ half, in some measure
+आख़िर AdvPOS ; ! /aːxir/ after all, the devil
+आखिरकार AdvPOS ; ! /aːkʰirkaːr/ at last, eventually
+आख़िरकार AdvPOS ; ! /aːxirkaːr/ after all
+आगे AdvPOS ; ! /aːɡe/ forward, forth
+आग्रहपूर्वक AdvPOS ; ! /aːɡrəɦpuːrvək/ earnestly
+आज AdvPOS ; ! /aːd͡ʒ/ today
+आजकल AdvPOS ; ! /aːd͡ʒkəl/ present, now a days
+आड़ा AdvPOS ; ! /aːɽaː/ abeam
+आड़ा AdvPOS ; ! /aːɽaː/ lengthwise, athwart
+आड़े AdvPOS ; ! /aːɽe/ slantwise
+आड़े AdvPOS ; ! /aːɽe/ abeam, across
+आदतन AdvPOS ; ! /aːdtən/ as a matter of course, habitually
+आदरपूर्वक AdvPOS ; ! /aːdrəpuːrvək/ respectfully
+आदेशानुसार AdvPOS ; ! /aːdeʃaːnusaːr/ by order, at <somebody> behest
+आद्य AdvPOS ; ! /aːdjə/ primarily
+आद्योपान्त AdvPOS ; ! /aːdjopaːntə/ end-to-end
+आनन्दपूर्वक AdvPOS ; ! /aːnndəpuːrvək/ pleasurably
+आनंदपूर्वक AdvPOS ; ! /aːnəndpuːrvək/ blissfully
+आमरण AdvPOS ; ! /aːmrəɳ/ to death
+आरपार AdvPOS ; ! /aːrpaːr/ across, through
+आश्चर्यपूर्वक AdvPOS ; ! /aːʃt͡ʃərjəpuːrvək/ in amazement, in wonderment
+आसपास AdvPOS ; ! /aːspaːs/ hereabouts, close
+आहिस्ता AdvPOS ; ! /aːɦistaː/ easy, tardily
+इकटठे AdvPOS ; ! /ikʈəʈʰe/ together
+इच्छानुसार AdvPOS ; ! /it͡ʃt͡ʃʰaːnusaːr/ at will, ad lib
+इच्छापूर्वक AdvPOS ; ! /it͡ʃt͡ʃʰaːpuːrvək/ with a good grace, with good grace
+इतना AdvPOS ; ! /itnaː/ so, that
+इधर AdvPOS ; ! /id̤ər/ here
+इन AdvPOS ; ! /in/ in
+इन् AdvPOS ; ! /in/ in
+इरादतन AdvPOS ; ! /iraːdtən/ intentionally
+इष्टतम AdvPOS ; ! /iʂʈətəm/ optimally
+इसकेबाद AdvPOS ; ! /iskebaːd/ hereafter
+इसलिए AdvPOS ; ! /islie/ therefore, so
+ईसवी AdvPOS ; ! /iːsviː/ Anno domini
+उच्च AdvPOS ; ! /ut͡ʃt͡ʃə/ highly
+उठा AdvPOS ; ! /uʈʰaː/ up
+उतना AdvPOS ; ! /utnaː/ so much, insomuch
+उत्तरोत्तर AdvPOS ; ! /uttərottər/ increasingly, more and more
+उत्साहपूर्वक AdvPOS ; ! /utsaːɦpuːrvək/ enthusiastically, zealously
+उत्सुकतापूर्वक AdvPOS ; ! /utsuktaːpuːrvək/ questioningly, avidly
+उत्सुकतावश AdvPOS ; ! /utsuktaːvəʃ/ anxiously
+उदारतापूर्वक AdvPOS ; ! /udaːrtaːpuːrvək/ generously, obligingly
+उदाहरणार्थ AdvPOS ; ! /udaːɦrəɳaːrtʰə/ e.g., for instance
+उधर AdvPOS ; ! /ud̤ər/ thither, yon
+उपर्युक्त AdvPOS ; ! /uprjuktə/ supra
+उपलब्ध AdvPOS ; ! /upləbd̤ə/ around
+उर्फ़ AdvPOS ; ! /urfə/ alias
+उलटा AdvPOS ; ! /ulʈaː/ inside out
+उलटे AdvPOS ; ! /ulʈe/ backwards, Contra
+उल्टा AdvPOS ; ! /ulʈaː/ in reverse, backward
+उल्टे AdvPOS ; ! /ulʈe/ rather, backwards
+उल्लासपूर्वक AdvPOS ; ! /ullaːspuːrvək/ gleefully
+उसमें AdvPOS ; ! /usmen/ therein
+उससे AdvPOS ; ! /usse/ therefrom, thereto
+ऊपर AdvPOS ; ! /uːpər/ upwards, up
+ऊर्ध्व AdvPOS ; ! /uːrd̤və/ up
+ऊंचा AdvPOS ; ! /uːɲt͡ʃaː/ aloft, up
+ऊंचे AdvPOS ; ! /uːɲt͡ʃe/ skyward
+एकतरफ़ा AdvPOS ; ! /ektərfaː/ unilaterally
+एकतार AdvPOS ; ! /ektaːr/ constantly
+एकदम AdvPOS ; ! /ekdəm/ clean, plum
+एकसमान AdvPOS ; ! /eksəmaːn/ uniformly
+एकसा AdvPOS ; ! /eksaː/ evenly, invariably
+एकसाथ AdvPOS ; ! /eksaːtʰ/ conjointly, simultaneously
+एकाएक AdvPOS ; ! /ekaːek/ short, unawares
+एकाध AdvPOS ; ! /ekaːd̤/ some
+एडी AdvPOS ; ! /eɖiː/ AD
+ऐसा AdvPOS ; ! /æːsaː/ so
+ऐसे AdvPOS ; ! /æːse/ so
+ऑल AdvPOS ; ! /ऑlə/ all
+ओर AdvPOS ; ! /or/ across
+और AdvPOS ; ! /ɔːr/ much, further
+कटुतापूर्वक AdvPOS ; ! /kəʈutaːpuːrvək/ viciously
+कठोरतापूर्वक AdvPOS ; ! /kəʈʰortaːpuːrvək/ scathingly, sternly
+कण्ठस्थ AdvPOS ; ! /kəɳʈʰəstʰə/ by heart
+कदा AdvPOS ; ! /kədaː/ infrequently
+कदाचित AdvPOS ; ! /kədaːt͡ʃit/ seldom, seemingly
+कदाचित् AdvPOS ; ! /kədaːt͡ʃit/ possibly
+कदापि AdvPOS ; ! /kədaːpi/ ever
+कपटपूर्वक AdvPOS ; ! /kəpʈəpuːrvək/ fraudulently
+कब AdvPOS ; ! /kəb/ then, when
+कभी AdvPOS ; ! /kəb̤iː/ ever
+कमोबेश AdvPOS ; ! /kəmobeʃ/ more or less
+करीब AdvPOS ; ! /kəriːb/ close to
+क़रीब AdvPOS ; ! /qəriːb/ near
+क़रीब AdvPOS ; ! /qəriːb/ thereabouts
+कल AdvPOS ; ! /kəl/ tomorrow, yesterday
+कष्टपूर्वक AdvPOS ; ! /kəʂʈəpuːrvək/ sorely, painfully
+कसकर AdvPOS ; ! /kəskər/ bodily, close
+कहाँ AdvPOS ; ! /kəɦãː/ wherever, where
+कहिं AdvPOS ; ! /kəɦin/ somewhere
+कहीं AdvPOS ; ! /kəɦiːn/ someplace, anywhere
+क़ानूनन AdvPOS ; ! /qaːnuːnən/ legally
+काफी AdvPOS ; ! /kaːpʰiː/ fucking, pretty
+काफ़ी AdvPOS ; ! /kaːfiː/ appreciably, rather
+किञ्चित AdvPOS ; ! /kiɲt͡ʃit/ any
+कितना AdvPOS ; ! /kitnaː/ how
+किधर AdvPOS ; ! /kid̤ər/ where
+किसलिए AdvPOS ; ! /kislie/ why
+किससे AdvPOS ; ! /kisse/ whereby
+किंचित AdvPOS ; ! /kiɲt͡ʃit/ somewhat
+किंतु AdvPOS ; ! /kintu/ only
+कुछ AdvPOS ; ! /kut͡ʃʰ/ a tad, rather
+कुशलतापूर्वक AdvPOS ; ! /kuʃlətaːpuːrvək/ competently, aptly
+कुसमय AdvPOS ; ! /kusməj/ malapropos, inopportunely
+कृतज्ञतापूर्वक AdvPOS ; ! /kr̩td͡ʒɲətaːpuːrvək/ appreciatively, gratefully
+कृपया AdvPOS ; ! /kr̩pjaː/ kindly
+कृपापूर्वक AdvPOS ; ! /kr̩paːpuːrvək/ graciously
+केवल AdvPOS ; ! /kevəl/ just, scarcely
+कैसा AdvPOS ; ! /kæːsaː/ how
+कैसे AdvPOS ; ! /kæːse/ how
+कोई AdvPOS ; ! /koiː/ some
+क्यों AdvPOS ; ! /kjon/ why ever, why
+क्योंकि AdvPOS ; ! /kjoŋki/ inasmuch
+क्रमशः AdvPOS ; ! /krəmʃəh/ step by step, step-by-step
+क्रमानुसार AdvPOS ; ! /krəmaːnusaːr/ consecutively, sequentially
+क्रूरतापूर्वक AdvPOS ; ! /kruːrtaːpuːrvək/ inhumanely, cruelly
+क्रोधपूर्वक AdvPOS ; ! /krod̤puːrvək/ wrathfully
+खड़ा AdvPOS ; ! /kʰəɽaː/ endways
+खासकर AdvPOS ; ! /kʰaːskər/ mostly, especially
+ख़ासकर AdvPOS ; ! /xaːskər/ especially, par excellence
+खासा AdvPOS ; ! /kʰaːsaː/ pretty
+खुद AdvPOS ; ! /kʰud/ by oneself, personally
+ख़ुद AdvPOS ; ! /xud/ personally, privately
+खुलकर AdvPOS ; ! /kʰulkər/ candidly, openly
+खुल्लमखुल्ला AdvPOS ; ! /kʰulləmkʰullaː/ overtly, openly
+ख़ूब AdvPOS ; ! /xuːb/ extremely, very
+खेदपूर्वक AdvPOS ; ! /kʰedpuːrvək/ contritely, ruefully
+खैर AdvPOS ; ! /kʰæːr/ so
+गड़बड़ AdvPOS ; ! /ɡəɽbəɽ/ awry, amiss
+गम्भीरतापूर्वक AdvPOS ; ! /ɡəmb̤iːrtaːpuːrvək/ in all seriousness
+गलत AdvPOS ; ! /ɡələt/ wrongly, wrong
+गहरा AdvPOS ; ! /ɡəɦraː/ deep, deeply
+ग़ैर AdvPOS ; ! /ɣæːr/ non
+ग़ैरमामूली AdvPOS ; ! /ɣæːrmaːmuːliː/ uncommonly
+गोकि AdvPOS ; ! /ɡoki/ though
+गोया AdvPOS ; ! /ɡojaː/ quasi
+गौरवान्वित AdvPOS ; ! /ɡɔːrvaːnvit/ proud
+गंभीरतापूर्वक AdvPOS ; ! /ɡəmb̤iːrtaːpuːrvək/ demurely
+घुमाकर AdvPOS ; ! /ɡ̤umaːkər/ indirectly
+घुलमिलकर AdvPOS ; ! /ɡ̤ulmilkər/ cheek by jowl
+घृणापूर्वक AdvPOS ; ! /ɡ̤r̩ɳaːpuːrvək/ disgustedly
+चालू AdvPOS ; ! /t͡ʃaːluː/ in progress, in hand
+चिढ़कर AdvPOS ; ! /t͡ʃiɽ̥əkər/ irritably
+चित AdvPOS ; ! /t͡ʃit/ supinely
+चित्तचोर AdvPOS ; ! /t͡ʃittət͡ʃor/ heart-stealer
+चिपकाकर AdvPOS ; ! /t͡ʃipkaːkər/ glued to <something>
+चुपके AdvPOS ; ! /t͡ʃupke/ surreptitiously, mutely
+चुपचाप AdvPOS ; ! /t͡ʃupt͡ʃaːp/ quiety, silently
+चूंकि AdvPOS ; ! /t͡ʃuːŋki/ AS
+चूँकि AdvPOS ; ! /t͡ʃũːki/ inasmuch
+चौगुना AdvPOS ; ! /t͡ʃɔːɡunaː/ fourfold
+चौथे AdvPOS ; ! /t͡ʃɔːtʰe/ fourthly
+छिपकर AdvPOS ; ! /t͡ʃʰipkər/ in hiding
+छोड़कर AdvPOS ; ! /t͡ʃʰoɽkər/ without, but
+जइसे AdvPOS ; ! /d͡ʒəise/ like
+जब AdvPOS ; ! /d͡ʒəb/ when
+ज़बरन AdvPOS ; ! /zəbrən/ by force, forcefully
+ज़बर्दस्ती AdvPOS ; ! /zəbrdəstiː/ willy-nilly
+जबानी AdvPOS ; ! /d͡ʒəbaːniː/ orally, verbally
+ज़बानी AdvPOS ; ! /zəbaːniː/ word of mouth, by word of mouth
+जभी AdvPOS ; ! /d͡ʒəb̤iː/ AS
+जरूर AdvPOS ; ! /d͡ʒəruːr/ necessarily, surely
+ज़रूर AdvPOS ; ! /zəruːr/ far and away, quite so
+जल्द AdvPOS ; ! /d͡ʒəldə/ pronto, facilely
+जल्दि AdvPOS ; ! /d͡ʒəldi/ soon
+जल्दी AdvPOS ; ! /d͡ʒəldiː/ sooner rather than later, soon
+जहाँ AdvPOS ; ! /d͡ʒəɦãː/ where
+जाकर AdvPOS ; ! /d͡ʒaːkər/ go and
+जानबूझकर AdvPOS ; ! /d͡ʒaːnbuːd͡ʒ̤kər/ advisedly, in cold blood
+जायज AdvPOS ; ! /d͡ʒaːjəd͡ʒ/ legitimately
+जाहिर AdvPOS ; ! /d͡ʒaːɦir/ predictably
+ज़ाहिर AdvPOS ; ! /zaːɦir/ noticeably
+जिसमें AdvPOS ; ! /d͡ʒismen/ wherein
+जिससे AdvPOS ; ! /d͡ʒisse/ whereby
+जुड़कर AdvPOS ; ! /d͡ʒuɽkər/ coherently
+जैसा AdvPOS ; ! /d͡ʒæːsaː/ so
+जैसेकि AdvPOS ; ! /d͡ʒæːseki/ namely
+ज्ञानपूर्वक AdvPOS ; ! /d͡ʒɲaːnpuːrvək/ knowingly
+ज़्यादा AdvPOS ; ! /zjaːdaː/ too, very often
+ज़्यादातर AdvPOS ; ! /zjaːdaːtər/ principally, chiefly
+ज्योंही AdvPOS ; ! /d͡ʒjonɦiː/ as
+झट AdvPOS ; ! /d͡ʒ̤əʈ/ at once, quick
+झटपट AdvPOS ; ! /d͡ʒ̤əʈpəʈ/ quickly
+झूठमूठ AdvPOS ; ! /d͡ʒ̤uːʈʰmuːʈʰ/ affectedly
+झूठी AdvPOS ; ! /d͡ʒ̤uːʈʰiː/ falsely
+टटका AdvPOS ; ! /ʈəʈkaː/ newly
+टटोलकर AdvPOS ; ! /ʈəʈolkər/ gropingly
+टेढ़ा AdvPOS ; ! /ʈeɽ̥aː/ obliquely
+ठस AdvPOS ; ! /ʈʰəs/ chock-a-block
+ठसाठस AdvPOS ; ! /ʈʰəsaːʈʰəs/ tightly
+ठिक AdvPOS ; ! /ʈʰik/ okay
+ठीक AdvPOS ; ! /ʈʰiːk/ smack, on the nose
+ठीकठाक AdvPOS ; ! /ʈʰiːkʈʰaːk/ just
+ठीकठीक AdvPOS ; ! /ʈʰiːkʈʰiːk/ actually
+ठूँसकर AdvPOS ; ! /ʈʰũːsəkər/ under pressure
+डटकर AdvPOS ; ! /ɖəʈkər/ unhesitatingly, hardily
+डरावनी AdvPOS ; ! /ɖəraːvniː/ frighteningly
+डावांडोल AdvPOS ; ! /ɖaːvaːnɖol/ adrift
+डोंगा AdvPOS ; ! /ɖoŋɡaː/ pro rata
+तक AdvPOS ; ! /tək/ that
+तकरीबन AdvPOS ; ! /təkriːbən/ nearly
+तड़के AdvPOS ; ! /təɽke/ soon
+तत्क्षण AdvPOS ; ! /tətkʂəɳ/ in the same breath
+तत्परतापूर्वक AdvPOS ; ! /tətpərtaːpuːrvək/ swiftly
+तत्पश्चात AdvPOS ; ! /tətpəʃt͡ʃaːt/ afterwards
+तत्वतः AdvPOS ; ! /tətvətəh/ basically
+तथापि AdvPOS ; ! /tətʰaːpi/ yet
+तदनुकूल AdvPOS ; ! /tədnukuːl/ accordingly
+तदनुसार AdvPOS ; ! /tədnusaːr/ accordingly
+तदनंतर AdvPOS ; ! /tədnəntər/ thence
+तदर्थ AdvPOS ; ! /tədrtʰə/ ad hoc
+तदापि AdvPOS ; ! /tədaːpi/ yet
+तनहा AdvPOS ; ! /tənɦaː/ solus, only
+तब AdvPOS ; ! /təb/ now, then
+तभी AdvPOS ; ! /təb̤iː/ only
+तमाम AdvPOS ; ! /təmaːm/ utterly, throughout
+तरफ़ AdvPOS ; ! /tərəf/ across
+तले AdvPOS ; ! /təle/ below, beneath
+ताकि AdvPOS ; ! /taːki/ so
+ताहम AdvPOS ; ! /taːɦəm/ nevertheless
+तिगुना AdvPOS ; ! /tiɡunaː/ triply, three-fold
+तिरछा AdvPOS ; ! /tirt͡ʃʰaː/ obliquely, diagonally
+तिरछे AdvPOS ; ! /tirt͡ʃʰe/ across, slantwise
+तिरस्कारपूर्वक AdvPOS ; ! /tirskaːrpuːrvək/ contemptuously
+तीव्रतर AdvPOS ; ! /tiːvrətər/ faster
+तीव्रतापूर्वक AdvPOS ; ! /tiːvrətaːpuːrvək/ nakedly
+तीसरा AdvPOS ; ! /tiːsraː/ third, thirdly
+तीसरे AdvPOS ; ! /tiːsre/ thirdly
+तुरत AdvPOS ; ! /turət/ at once, offhand
+तुरन्त AdvPOS ; ! /turntə/ out of hand, like a flash
+तुरंत AdvPOS ; ! /turəntə/ straight off, instantly
+तैसा AdvPOS ; ! /tæːsaː/ so, thus
+थोड़ा AdvPOS ; ! /tʰoɽaː/ remotely, few
+थोड़ी AdvPOS ; ! /tʰoɽiː/ part
+दक्षतापूर्वक AdvPOS ; ! /dəkʂətaːpuːrvək/ dexterously, with adroitness
+दक्षिणावर्त AdvPOS ; ! /dəkʂiɳaːvrtə/ clockwise
+दयापूर्वक AdvPOS ; ! /dəjaːpuːrvək/ kindly
+दरअसल AdvPOS ; ! /dərasəl/ actually
+दरदरा AdvPOS ; ! /dərdəraː/ coarsely
+दस्ती AdvPOS ; ! /dəstiː/ by hand
+दाये AdvPOS ; ! /daːje/ to the right
+दाहिने AdvPOS ; ! /daːɦine/ to the right
+दिनरात AdvPOS ; ! /dinraːt/ round the clock
+दीनतापूर्वक AdvPOS ; ! /diːntaːpuːrvək/ abjectly
+दुगना AdvPOS ; ! /duɡnaː/ twice
+दुगुना AdvPOS ; ! /duɡunaː/ two times, twofold
+दुबारा AdvPOS ; ! /dubaːraː/ afresh, again
+दुर्घटनावश AdvPOS ; ! /durɡ̤əʈnaːvəʃ/ accidentally
+दुर्भाग्यवश AdvPOS ; ! /durb̤aːɡjəvəʃ/ sad to say, unluckily
+दुहराकर AdvPOS ; ! /duɦraːkər/ anew
+दूना AdvPOS ; ! /duːnaː/ doubly, double
+दूर AdvPOS ; ! /duːr/ away, off
+दूसरा AdvPOS ; ! /duːsraː/ second, secondly
+दृढ़तापूर्वक AdvPOS ; ! /dr̩ɽ̥ətaːpuːrvək/ stoutly, steadfastly
+दृढ़तापूर्वक AdvPOS ; ! /dr̩ɽ̥ətaːpuːrvək/ adamantly, assuredly
+देरतक AdvPOS ; ! /dertək/ late
+दैवीय AdvPOS ; ! /dæːviːj/ divinely
+दोगुना AdvPOS ; ! /doɡunaː/ doubly
+दोबारा AdvPOS ; ! /dobaːraː/ again
+दौड़कर AdvPOS ; ! /dɔːɽkər/ at the double, on the double
+द्वारा AdvPOS ; ! /dvaːraː/ through
+द्विपक्षी AdvPOS ; ! /dvipkʂiː/ bilaterally
+धाराप्रवाह AdvPOS ; ! /d̤aːraːprəvaːɦ/ glibly
+धीमे AdvPOS ; ! /d̤iːme/ slowly, Low
+धीरे AdvPOS ; ! /d̤iːre/ quietly, softly
+धूर्ततापूर्वक AdvPOS ; ! /d̤uːrtətaːpuːrvək/ cunningly
+धैर्यपूर्वक AdvPOS ; ! /d̤æːrjəpuːrvək/ patiently
+ध्यानपूर्वक AdvPOS ; ! /d̤jaːnpuːrvək/ unflaggingly, closely
+नज़दीक AdvPOS ; ! /nəzdiːk/ near, by
+नम्रतापूर्वक AdvPOS ; ! /nəmrətaːpuːrvək/ mildly, earnestly
+नही AdvPOS ; ! /nəɦiː/ no, nowhere
+नहीं AdvPOS ; ! /nəɦiːn/ no, nope
+नाममात्र AdvPOS ; ! /naːmmaːtrə/ nominally
+नाहक AdvPOS ; ! /naːɦək/ undeservedly
+निकट AdvPOS ; ! /nikəʈ/ by, near
+नित AdvPOS ; ! /nit/ eternally
+नितान्त AdvPOS ; ! /nitaːntə/ precious
+नित्य AdvPOS ; ! /nitjə/ ever
+निपट AdvPOS ; ! /nipəʈ/ utterly, absolutely
+निम्नानुसार AdvPOS ; ! /nimnaːnusaːr/ as follows
+नियमतः AdvPOS ; ! /nijmətəh/ routinely
+निरन्तर AdvPOS ; ! /nirntər/ perpetually, ever
+निराशापूर्वक AdvPOS ; ! /niraːʃaːpuːrvək/ despairingly, despondently
+निरंतर AdvPOS ; ! /nirəntər/ endlessly, steadily
+निर्दयतापूर्वक AdvPOS ; ! /nirdəjtaːpuːrvək/ mercilessly, sadistically
+निर्भयतापूर्वक AdvPOS ; ! /nirb̤əjtaːpuːrvək/ fearlessly
+निर्ममतापूर्वक AdvPOS ; ! /nirməmtaːpuːrvək/ unforgivingly
+निर्लज्जतापूर्वक AdvPOS ; ! /nirləd͡ʒd͡ʒətaːpuːrvək/ unashamedly
+निर्विवादित AdvPOS ; ! /nirvivaːdit/ unanimously
+निश्चयपूर्वक AdvPOS ; ! /niʃt͡ʃəjpuːrvək/ a fortiori, for certain
+निष्ठापूर्वक AdvPOS ; ! /niʂʈʰaːpuːrvək/ scrupulously, stanchly
+निष्ठुरतापूर्वक AdvPOS ; ! /niʂʈʰurtaːpuːrvək/ unfeelingly, mercilessly
+निष्पक्ष AdvPOS ; ! /niʂpəkʂə/ without prejudice
+निसंदेह AdvPOS ; ! /nisəndeɦ/ sure
+निस्सन्देह AdvPOS ; ! /nissəndeɦ/ of course, inevitably
+निस्संदेह AdvPOS ; ! /nissəndeɦ/ with a capital, undoubtedly
+निहायत AdvPOS ; ! /niɦaːjət/ high, deadly
+निःशुल्क AdvPOS ; ! /niəhʃulkə/ free of charge
+निःसन्देह AdvPOS ; ! /niəhsəndeɦ/ and no mistake, easily
+निःसंकोच AdvPOS ; ! /niəhsəŋkot͡ʃ/ readily
+नीचे AdvPOS ; ! /niːt͡ʃe/ to a lower place, beneath
+नीरस AdvPOS ; ! /niːrəs/ flat
+न्यायपूर्वक AdvPOS ; ! /njaːjpuːrvək/ justly, fairly
+न्यायसंगत AdvPOS ; ! /njaːjsəŋɡət/ clean
+न्यारा AdvPOS ; ! /njaːraː/ aloof
+पतले AdvPOS ; ! /pətle/ thinly
+पदेन AdvPOS ; ! /pəden/ ex officio
+परस्पर AdvPOS ; ! /pərspər/ mutually
+परिणामस्वरूप AdvPOS ; ! /pəriɳaːmsvəruːp/ consequentially, in consequence
+परिश्रमपूर्वक AdvPOS ; ! /pəriʃrəmpuːrvək/ diligently
+परिहासमय AdvPOS ; ! /pəriɦaːsməj/ funny
+परे AdvPOS ; ! /pəre/ ulterior
+पलटकर AdvPOS ; ! /pəlʈəkər/ turn round and <do> <something>
+पश्चात AdvPOS ; ! /pəʃt͡ʃaːt/ after, behind
+पश्चात् AdvPOS ; ! /pəʃt͡ʃaːt/ afterwards, later
+पस AdvPOS ; ! /pəs/ near
+पहले AdvPOS ; ! /pəɦle/ previously, ago
+पहिले AdvPOS ; ! /pəɦile/ aforetime, first of all
+पाप AdvPOS ; ! /paːp/ evil
+पास AdvPOS ; ! /paːs/ by, adjacent
+पाँचवें AdvPOS ; ! /pãːt͡ʃəven/ fifthly
+पिछड़ा AdvPOS ; ! /pit͡ʃʰɽaː/ backward
+पिछले AdvPOS ; ! /pit͡ʃʰle/ over the past
+पीछे AdvPOS ; ! /piːt͡ʃʰe/ behind, after
+पीठपर AdvPOS ; ! /piːʈʰpər/ behind
+पुन AdvPOS ; ! /pun/ again
+पुनः AdvPOS ; ! /punəh/ back, again
+पुराना AdvPOS ; ! /puraːnaː/ second-hand
+पूरा AdvPOS ; ! /puːraː/ in full
+पूरे AdvPOS ; ! /puːre/ throughout, around
+पूर्णकालिक AdvPOS ; ! /puːrɳəkaːlik/ full-time
+पूर्णतया AdvPOS ; ! /puːrɳətjaː/ quite, from A to Z
+पूर्णतः AdvPOS ; ! /puːrɳətəh/ broad, absolutely
+पूर्णरूपेण AdvPOS ; ! /puːrɳəruːpeɳ/ quite, totally
+पृथक AdvPOS ; ! /pr̩tʰək/ aloof
+पेश AdvPOS ; ! /peʃ/ present, previously
+पेशतर AdvPOS ; ! /peʃtər/ Sooner
+पैदल AdvPOS ; ! /pæːdəl/ Shank's pony, on Shank's mare
+प्रकटतः AdvPOS ; ! /prəkʈətəh/ seemingly
+प्रतिक्षण AdvPOS ; ! /prətikʂəɳ/ minutely
+प्रतिदिन AdvPOS ; ! /prətidin/ daily
+प्रतिपल AdvPOS ; ! /prətipəl/ minutely
+प्रतिवर्ष AdvPOS ; ! /prətivrʂə/ annually, per annum
+प्रतिशत AdvPOS ; ! /prətiʃət/ per cent, percent
+प्रत्यक्ष AdvPOS ; ! /prətjəkʂə/ firsthand
+प्रत्यक्षतः AdvPOS ; ! /prətjəkʂətəh/ prima facie, direct
+प्रत्युत AdvPOS ; ! /prətjut/ but, on the contrary
+प्रत्येक AdvPOS ; ! /prətjek/ apiece
+प्रथमतः AdvPOS ; ! /prətʰmətəh/ firstly
+प्रथमदृष्टया AdvPOS ; ! /prətʰmədr̩ʂʈəjaː/ prima facie
+प्रधानतः AdvPOS ; ! /prəd̤aːntəh/ chiefly, primarily
+प्रभावपूर्ण AdvPOS ; ! /prəb̤aːvpuːrɳə/ effectively
+प्रयत्नपूर्वक AdvPOS ; ! /prəjtnəpuːrvək/ effortfully
+प्रसन्नतापूर्वक AdvPOS ; ! /prəsnnətaːpuːrvək/ merrily, jovially
+प्रसंगवश AdvPOS ; ! /prəsəŋɡvəʃ/ in passing, incidentally
+प्राणघातक AdvPOS ; ! /praːɳɡ̤aːtək/ mortally
+प्रायः AdvPOS ; ! /praːjəh/ almost, nearly
+प्रेमपूर्वक AdvPOS ; ! /prempuːrvək/ fondly
+फटाफट AdvPOS ; ! /pʰəʈaːpʰəʈ/ quickly
+फलतः AdvPOS ; ! /pʰəltəh/ consequently, eventually
+फलस्वरूप AdvPOS ; ! /pʰəlsvəruːp/ thereby, accordingly
+फालतु AdvPOS ; ! /pʰaːltu/ bloody
+फिर AdvPOS ; ! /pʰir/ back
+फिरसे AdvPOS ; ! /pʰirse/ afresh
+फिलहाल AdvPOS ; ! /pʰilɦaːl/ currently, right now
+फ़िलहाल AdvPOS ; ! /filɦaːl/ at present
+फ़िलहाल AdvPOS ; ! /filɦaːl/ nowadays, recently
+फुटकर AdvPOS ; ! /pʰuʈkər/ retail
+फौरन AdvPOS ; ! /pʰɔːrən/ on the nail, soon
+फ़ौरन AdvPOS ; ! /fɔːrən/ promptly, pronto
+बखूबी AdvPOS ; ! /bəkʰuːbiː/ excellently, thoroughly
+बख़ूबी AdvPOS ; ! /bəxuːbiː/ fine, first-rate
+बचाये AdvPOS ; ! /bət͡ʃaːje/ on the run
+बजाय AdvPOS ; ! /bəd͡ʒaːj/ instead
+बजे AdvPOS ; ! /bəd͡ʒe/ o'clock
+बड़ा AdvPOS ; ! /bəɽaː/ supra, across
+बढ़कर AdvPOS ; ! /bəɽ̥əkər/ ahead
+बढ़वार AdvPOS ; ! /bəɽ̥əvaːr/ beyond
+बदकिस्मत AdvPOS ; ! /bədkismət/ unfortunately
+बदौलत AdvPOS ; ! /bədɔːlət/ through
+बन्द AdvPOS ; ! /bəndə/ to
+बर्बरतापूर्वक AdvPOS ; ! /bərbərtaːpuːrvək/ savagely
+बलपूर्वक AdvPOS ; ! /bəlpuːrvək/ forcedly, emphatically
+बलात् AdvPOS ; ! /bəlaːt/ forcefully, forcibly
+बल्कि AdvPOS ; ! /bəlki/ rather, nay
+बहरहाल AdvPOS ; ! /bəɦrəɦaːl/ by the way
+बहुत AdvPOS ; ! /bəɦut/ bad, way
+बहुधा AdvPOS ; ! /bəɦud̤aː/ chiefly, as usual
+बाइज्जत AdvPOS ; ! /baːid͡ʒd͡ʒət/ with all respect
+बाएं AdvPOS ; ! /baːen/ to the left
+बाकायदा AdvPOS ; ! /baːkaːjdaː/ systematically
+बाक़ायदा AdvPOS ; ! /baːqaːjdaː/ systematically
+बाद AdvPOS ; ! /baːd/ later, after
+बार AdvPOS ; ! /baːr/ often
+बारबार AdvPOS ; ! /baːrbaːr/ oft, often
+बारम्बार AdvPOS ; ! /baːrmbaːr/ time without number, time after time
+बारंबार AdvPOS ; ! /baːrəmbaːr/ over and over, repeatedly
+बाहर AdvPOS ; ! /baːɦər/ forth, without
+बिना AdvPOS ; ! /binaː/ without
+बिरले AdvPOS ; ! /birle/ seldom
+बिलकुल AdvPOS ; ! /bilkul/ absolutely, plenty
+बिल्कुल AdvPOS ; ! /bilkul/ at all, absolutely
+बीच AdvPOS ; ! /biːt͡ʃ/ midway, between
+बीचोबीच AdvPOS ; ! /biːt͡ʃobiːt͡ʃ/ midmost
+बुराई AdvPOS ; ! /buraːiː/ evil
+बेकाम AdvPOS ; ! /bekaːm/ out of action
+बेखटक AdvPOS ; ! /bekʰʈək/ safely
+बेखटके AdvPOS ; ! /bekʰʈəke/ unconcernedly
+बेघरबार AdvPOS ; ! /beɡ̤rəbaːr/ rough
+बेठिकाने AdvPOS ; ! /beʈʰikaːne/ adrift
+बेढब AdvPOS ; ! /beɖ̤əb/ heavily
+बेतरह AdvPOS ; ! /betrəɦ/ heavily
+बेतहाशा AdvPOS ; ! /betɦaːʃaː/ wildly, recklessly
+बेदर्द AdvPOS ; ! /bedrdə/ unmercifully
+बेदाम AdvPOS ; ! /bedaːm/ gratis, free of charge
+बेधड़क AdvPOS ; ! /bed̤ɽək/ dauntlessly, fluently
+बेरहम AdvPOS ; ! /berɦəm/ unmercifully
+बेरहमी AdvPOS ; ! /berɦəmiː/ mercilessly
+बेरोकटोक AdvPOS ; ! /berokʈok/ smoothly
+बेशक AdvPOS ; ! /beʃək/ naturally, admittedly
+बेशक़ AdvPOS ; ! /beʃəq/ alright
+बेसमय AdvPOS ; ! /besməj/ out of turn
+बेसुर AdvPOS ; ! /besur/ flat
+बेहद AdvPOS ; ! /beɦəd/ stiff, whacking
+बेहिचक AdvPOS ; ! /beɦit͡ʃək/ straight out
+बेहूदा AdvPOS ; ! /beɦuːdaː/ fatuously
+भक्तिपूर्वक AdvPOS ; ! /b̤əktipuːrvək/ devotedly, faithfully
+भद्दा AdvPOS ; ! /b̤əddaː/ terribly
+भद्दे AdvPOS ; ! /b̤ədde/ grotesquely
+भर AdvPOS ; ! /b̤ər/ over, round
+भलीभाँति AdvPOS ; ! /b̤əliːb̤ãːti/ very well
+भवदीय AdvPOS ; ! /b̤əvdiːj/ sincerely yours, sincerely
+भाग्यवश AdvPOS ; ! /b̤aːɡjəvəʃ/ it so happens that
+भारी AdvPOS ; ! /b̤aːriː/ dearly
+भावुकतावश AdvPOS ; ! /b̤aːvuktaːvəʃ/ emotionally
+भी AdvPOS ; ! /b̤iː/ also, and all
+भीतर AdvPOS ; ! /b̤iːtər/ in, within
+भूलवश AdvPOS ; ! /b̤uːlvəʃ/ mistakenly
+मजबूरन AdvPOS ; ! /məd͡ʒbuːrən/ perforce, constrainedly
+मनसा AdvPOS ; ! /mənsaː/ mentally
+मरणोपरांत AdvPOS ; ! /mərɳopraːntə/ posthumously
+मर्तबा AdvPOS ; ! /mərtəbaː/ often
+मसलन AdvPOS ; ! /məslən/ for example
+महज़ AdvPOS ; ! /məɦəz/ merely, simply
+मात्र AdvPOS ; ! /maːtrə/ merely, just
+मानो AdvPOS ; ! /maːno/ as
+मानों AdvPOS ; ! /maːnon/ quasi
+मिलकर AdvPOS ; ! /milkər/ side by side
+मिलजुलकर AdvPOS ; ! /mild͡ʒulkər/ jointly
+मुख्यतया AdvPOS ; ! /mukʰjətjaː/ chiefly, primarily
+मुख्यतः AdvPOS ; ! /mukʰjətəh/ foremost, primarily
+मूर्खतावश AdvPOS ; ! /muːrkʰətaːvəʃ/ stupidly
+मूलतः AdvPOS ; ! /muːltəh/ fundamentally, radically
+मौज़ूद AdvPOS ; ! /mɔːzuːd/ there
+यकायक AdvPOS ; ! /jəkaːjək/ suddenly, immediately
+यक़ीनन AdvPOS ; ! /jəqiːnən/ surely, certainly
+यथा AdvPOS ; ! /jətʰaː/ videlicet, namely
+यथाक्रम AdvPOS ; ! /jətʰaːkrəm/ sequentially
+यथायोग्य AdvPOS ; ! /jətʰaːjoɡjə/ duly, deservedly
+यथावत AdvPOS ; ! /jətʰaːvət/ duly
+यथावत् AdvPOS ; ! /jətʰaːvt/ duly, in situ
+यथाविधि AdvPOS ; ! /jətʰaːvid̤i/ formally, as a rule
+यथासमय AdvPOS ; ! /jətʰaːsməj/ duly
+यथासम्भव AdvPOS ; ! /jətʰaːsmb̤əv/ possibly
+यथासंभव AdvPOS ; ! /jətʰaːsəmb̤əv/ as far as possible
+यथेष्टम AdvPOS ; ! /jətʰeʂʈəm/ ad lib
+यथोचित AdvPOS ; ! /jətʰot͡ʃit/ reasonably, duly
+यहां AdvPOS ; ! /jəɦaːn/ here, Here
+यहाँ AdvPOS ; ! /jəɦãː/ hither, here
+यहीं AdvPOS ; ! /jəɦiːn/ right here
+यानि AdvPOS ; ! /jaːni/ viz, namely
+यूँही AdvPOS ; ! /jũːɦiː/ just
+रटकर AdvPOS ; ! /rəʈkər/ by heart
+रातदिन AdvPOS ; ! /raːtdin/ night and day, day and night
+रातभर AdvPOS ; ! /raːtb̤ər/ night-long
+रातोंरात AdvPOS ; ! /raːtonraːt/ overnight
+रुचिपूर्वक AdvPOS ; ! /rut͡ʃipuːrvək/ fondly
+रूबरू AdvPOS ; ! /ruːbruː/ face to face
+रैखिक AdvPOS ; ! /ræːkʰik/ linearly
+रोज AdvPOS ; ! /rod͡ʒ/ each day
+रोज़ AdvPOS ; ! /roz/ daily
+रोजाना AdvPOS ; ! /rod͡ʒaːnaː/ each day
+रोमांचित AdvPOS ; ! /romaːɲt͡ʃit/ excitedly
+लगभग AdvPOS ; ! /ləɡb̤əɡ/ nearly, something like
+लगातर AdvPOS ; ! /ləɡaːtər/ on end
+लगातार AdvPOS ; ! /ləɡaːtaːr/ on end, persistently
+लगे AdvPOS ; ! /ləɡe/ toward
+लायक़ AdvPOS ; ! /laːjəq/ worth doing
+लिए AdvPOS ; ! /lie/ to
+लिहाजा AdvPOS ; ! /liɦaːd͡ʒaː/ so
+लेकिन AdvPOS ; ! /lekin/ but
+लंपट AdvPOS ; ! /ləmpəʈ/ loosely
+वगैरह AdvPOS ; ! /vəɡæːrəɦ/ etcetera
+वग़ैरह AdvPOS ; ! /vəɣæːrəɦ/ on and on
+वरन AdvPOS ; ! /vərən/ else
+वस्तुतः AdvPOS ; ! /vəstutəh/ really, literally
+वहां AdvPOS ; ! /vəɦaːn/ yonder
+वहाँ AdvPOS ; ! /vəɦãː/ yonder, there
+वही AdvPOS ; ! /vəɦiː/ easily
+वहीं AdvPOS ; ! /vəɦiːn/ ibidem
+वाकई AdvPOS ; ! /vaːkəi/ indeed
+वापस AdvPOS ; ! /vaːpəs/ back
+वामावर्ती AdvPOS ; ! /vaːmaːvrtiː/ anticlockwise
+विचारपूर्वक AdvPOS ; ! /vit͡ʃaːrpuːrvək/ with discretion, carefully
+विधिपूर्वक AdvPOS ; ! /vid̤ipuːrvək/ normally
+विनम्रतापूर्वक AdvPOS ; ! /vinmrətaːpuːrvək/ submissively
+विनयपूर्वक AdvPOS ; ! /vinjəpuːrvək/ beseechingly, submissively
+विपरीत AdvPOS ; ! /vipriːt/ counter
+विलासितापूर्वक AdvPOS ; ! /vilaːsitaːpuːrvək/ voluptuously
+विशेषकर AdvPOS ; ! /viʃeʂkər/ notably, in particular
+विशेषतया AdvPOS ; ! /viʃeʂtəjaː/ characteristically
+विशेषतः AdvPOS ; ! /viʃeʂtəh/ notably
+विश्वसनीय AdvPOS ; ! /viʃvəsniːj/ faithfully
+विश्वासपूर्वक AdvPOS ; ! /viʃvaːspuːrvək/ trustfully, trustingly
+विस्तारपूर्वक AdvPOS ; ! /vistaːrpuːrvək/ large, punctiliously
+वीरतापूर्वक AdvPOS ; ! /viːrtaːpuːrvək/ valorously, valiantly
+वैसा AdvPOS ; ! /væːsaː/ so, sic
+वैसे AdvPOS ; ! /væːse/ by the way, incidentally
+व्यग्रतापूर्वक AdvPOS ; ! /vjəɡrətaːpuːrvək/ frantically, edgily
+व्यर्थ AdvPOS ; ! /vjərtʰə/ vainly, unprofitably
+व्यस्ततापूर्वक AdvPOS ; ! /vjəstətaːpuːrvək/ busily
+व्यंग्यपूर्वक AdvPOS ; ! /vjəŋɡjəpuːrvək/ wryly, cynically
+शब्दशः AdvPOS ; ! /ʃəbdəʃəh/ word for word, verbatim
+शान्तिपूर्वक AdvPOS ; ! /ʃaːntipuːrvək/ quiety
+शायद AdvPOS ; ! /ʃaːjəd/ perhaps, well
+शालीनतापूर्वक AdvPOS ; ! /ʃaːliːntaːpuːrvək/ decently, graciously
+शांतिपूर्वक AdvPOS ; ! /ʃaːntipuːrvək/ tranquilly, placidly
+शिष्टतापूर्वक AdvPOS ; ! /ʃiʂʈətaːpuːrvək/ courteously
+शिष्टाचारपूर्वक AdvPOS ; ! /ʃiʂʈaːt͡ʃaːrpuːrvək/ civilisedly
+शीघ्र AdvPOS ; ! /ʃiːɡ̤rə/ hasty, shortly
+शीघ्रतम AdvPOS ; ! /ʃiːɡ̤rətəm/ soonest
+श्रद्धापूर्वक AdvPOS ; ! /ʃrədd̤aːpuːrvək/ faithfully, devoutly
+सगर्व AdvPOS ; ! /səɡrvə/ arrogantly, imperiously
+सच AdvPOS ; ! /sət͡ʃ/ surely, really
+सचमुच AdvPOS ; ! /sət͡ʃmut͡ʃ/ really, indeed
+सतर्कतापूर्ण AdvPOS ; ! /sətrkətaːpuːrɳə/ softly softly
+सतर्कतापूर्वक AdvPOS ; ! /sətrkətaːpuːrvək/ with kid gloves, cautiously
+सत्कारपूर्वक AdvPOS ; ! /sətkaːrpuːrvək/ respectfully
+सदा AdvPOS ; ! /sədaː/ constantly, always
+सदेह AdvPOS ; ! /sədeɦ/ bodiless
+सदैव AdvPOS ; ! /sədæːv/ ever, always
+सदोष AdvPOS ; ! /sədoʂ/ culpably
+सद्यः AdvPOS ; ! /sədjəh/ newly
+सप्ताहभर AdvPOS ; ! /səptaːɦb̤ər/ week-long
+सप्रेम AdvPOS ; ! /səprem/ with love, fondly
+सफलतापूर्वक AdvPOS ; ! /səpʰlətaːpuːrvək/ big, effectively
+समरूप AdvPOS ; ! /səmruːp/ same
+समूचा AdvPOS ; ! /səmuːt͡ʃaː/ all
+सम्प्रति AdvPOS ; ! /səmprəti/ present
+सम्भवतः AdvPOS ; ! /səmb̤əvtəh/ presumably, maybe
+सम्मानपूर्वक AdvPOS ; ! /səmmaːnpuːrvək/ deferentially
+सम्मुख AdvPOS ; ! /səmmukʰ/ before, face to face
+सरलतापूर्वक AdvPOS ; ! /sərlətaːpuːrvək/ easily
+सरसरी AdvPOS ; ! /sərsəriː/ cursorily
+सर्वत्र AdvPOS ; ! /sərvətrə/ all over, universally
+सर्वथा AdvPOS ; ! /sərvətʰaː/ to all intents and purposes
+सर्वदा AdvPOS ; ! /sərvədaː/ invariably, everlastingly
+सर्वप्रथम AdvPOS ; ! /sərvəprətʰəm/ in the first place, first of all
+सर्वोपरि AdvPOS ; ! /sərvopri/ chiefly
+सवार AdvPOS ; ! /səvaːr/ aboard, onboard
+सवेरे AdvPOS ; ! /səvere/ early, soon
+सशरीर AdvPOS ; ! /səʃriːr/ bodiless
+ससम्मान AdvPOS ; ! /səsmmaːn/ respectfully
+सस्ते AdvPOS ; ! /səste/ inexpensively
+सस्नेह AdvPOS ; ! /səsneɦ/ with love
+सहसा AdvPOS ; ! /səɦsaː/ sharp
+सहानुभूतिपूर्वक AdvPOS ; ! /səɦaːnub̤uːtipuːrvək/ compassionately, sympathetically
+साथ AdvPOS ; ! /saːtʰ/ along
+सादर AdvPOS ; ! /saːdər/ respectfully
+साधारणतया AdvPOS ; ! /saːd̤aːrɳətjaː/ customarily
+साधारणतः AdvPOS ; ! /saːd̤aːrɳətəh/ generally speaking, in general
+साधिकार AdvPOS ; ! /saːd̤ikaːr/ authoritatively
+सानिध्य AdvPOS ; ! /saːnid̤jə/ company
+सानंद AdvPOS ; ! /saːnəndə/ blissfully, exultantly
+साभार AdvPOS ; ! /saːb̤aːr/ gratefully
+सामने AdvPOS ; ! /saːmne/ fore, before
+सामान्यतया AdvPOS ; ! /saːmaːnjətjaː/ popularly, routinely
+सामान्यतः AdvPOS ; ! /saːmaːnjətəh/ commonly, normally
+सायास AdvPOS ; ! /saːjaːs/ effortfully
+सारतः AdvPOS ; ! /saːrtəh/ essentially
+सारे AdvPOS ; ! /saːre/ around
+सालाना AdvPOS ; ! /saːlaːnaː/ annually
+सावधानीपूर्वक AdvPOS ; ! /saːvd̤aːniːpuːrvək/ circumspectly
+साश्चर्य AdvPOS ; ! /saːʃt͡ʃərjə/ in astonishment, in wonderment
+साहसपूर्वक AdvPOS ; ! /saːɦsəpuːrvək/ gamely, courageously
+सांख्यिक AdvPOS ; ! /saːŋkʰjik/ statistically
+सिर्फ AdvPOS ; ! /sirpʰə/ only
+सिर्फ़ AdvPOS ; ! /sirfə/ strictly, but
+सिर्फ़ AdvPOS ; ! /sirfə/ merely
+सिलसिलेवार AdvPOS ; ! /silsilevaːr/ in sequence, seriatim
+सिवाय AdvPOS ; ! /sivaːj/ but, else
+सीधा AdvPOS ; ! /siːd̤aː/ full, precipitously
+सीधे AdvPOS ; ! /siːd̤e/ square, straight
+सुखपूर्वक AdvPOS ; ! /sukʰpuːrvək/ nice and
+सुदूर AdvPOS ; ! /suduːr/ remotely, nowhere
+सुनकर AdvPOS ; ! /sunkər/ by the sound of it
+सुबह AdvPOS ; ! /subəɦ/ in the morning
+सोचकर AdvPOS ; ! /sot͡ʃkər/ think
+सौभाग्यवश AdvPOS ; ! /sɔːb̤aːɡjəvəʃ/ luckily, fortunately
+सौहार्दपूर्वक AdvPOS ; ! /sɔːɦaːrdəpuːrvək/ cordially
+संतोषपूर्वक AdvPOS ; ! /səntoʂpuːrvək/ contentedly
+संतोषप्रद AdvPOS ; ! /səntoʂprəd/ nicely
+संभवत AdvPOS ; ! /səmb̤vət/ perhaps
+संभवतया AdvPOS ; ! /səmb̤vətjaː/ presumably, probably
+संभवतः AdvPOS ; ! /səmb̤vətəh/ possibly, as likely as not
+संयमपूर्वक AdvPOS ; ! /sənjməpuːrvək/ abstemiously
+संयोगवश AdvPOS ; ! /sənjoɡvəʃ/ as chance would have it, by accident
+स् AdvPOS ; ! /s/ through, since
+स्थिरतापूर्वक AdvPOS ; ! /stʰirtaːpuːrvək/ steadily
+स्नेहपूर्वक AdvPOS ; ! /sneɦpuːrvək/ affectionately
+स्पष्टत AdvPOS ; ! /spəʂʈət/ patently
+स्पष्टतया AdvPOS ; ! /spəʂʈətjaː/ explicitly, barely
+स्पष्टतः AdvPOS ; ! /spəʂʈətəh/ plain, plainly
+स्वतंत्रतापूर्वक AdvPOS ; ! /svətəntrətaːpuːrvək/ freely
+स्वतः AdvPOS ; ! /svətəh/ in person, loose
+स्वभावतः AdvPOS ; ! /svəb̤aːvtəh/ basically
+स्वभाववश AdvPOS ; ! /svəb̤aːvvəʃ/ precisely
+स्वयम AdvPOS ; ! /svəjəm/ naturally
+स्वादानुसार AdvPOS ; ! /svaːdaːnusaːr/ to taste
+स्वेच्छया AdvPOS ; ! /svet͡ʃt͡ʃʰəjaː/ voluntarily, willingly
+स्वेच्छापूर्वक AdvPOS ; ! /svet͡ʃt͡ʃʰaːpuːrvək/ volitionally, voluntarily
+स्वंय AdvPOS ; ! /svənjə/ personally
+हट AdvPOS ; ! /ɦəʈ/ out of the way
+हठपूर्वक AdvPOS ; ! /ɦəʈʰpuːrvək/ obstinately
+हठात् AdvPOS ; ! /ɦəʈʰaːt/ wildly
+हताशापूर्ण AdvPOS ; ! /ɦətaːʃaːpuːrɳə/ desperately
+हमेशा AdvPOS ; ! /ɦəmeʃaː/ evermore, forever
+हमेसा AdvPOS ; ! /ɦəmesaː/ ever
+हरदम AdvPOS ; ! /ɦərdəm/ always
+हरेक AdvPOS ; ! /ɦərek/ per head
+हाय AdvPOS ; ! /ɦaːj/ alas
+हालाँकि AdvPOS ; ! /ɦaːlãːki/ though
+हास्यजनक AdvPOS ; ! /ɦaːsjəd͡ʒnək/ ludicrously
+हाँ AdvPOS ; ! /ɦãː/ I'll say!, yeah
+ही AdvPOS ; ! /ɦiː/ bloody well, only
+हुए AdvPOS ; ! /ɦue/ in the very act of
 
-LEXICON Adpositions
-अन्दर # ; ! /andər/ under
-अलग # ; ! /aləɡ/ beside
-उपर # ; ! /upər/ into
-उपरान्त # ; ! /upraːntə/ since
-ओर # ; ! /or/ on
-और # ; ! /ɔːr/ plus
-का # ; ! /kaː/ of
-किंतु # ; ! /kintu/ but
-की # ; ! /kiː/ of
-के # ; ! /ke/ from
-को # ; ! /ko/ on
-जगह # ; ! /d͡ʒəɡəɦ/ in <somebody> place
-तक # ; ! /tək/ up to <something>, up until <something>
-तरफ # ; ! /tərəpʰ/ towards
-दरमियान # ; ! /dərmijaːn/ on
-दौरान # ; ! /dɔːraːn/ during
-द्वारा # ; ! /dvaːraː/ by
-धन # ; ! /d̤ən/ plus
-न # ; ! /nə/ without
-नजदीक # ; ! /nəd͡ʒdiːk/ upon
-निमित्त # ; ! /nimittə/ against
-पर # ; ! /pər/ at, down
-परंतु # ; ! /pərəntu/ but
-पर्यंत # ; ! /pərjəntə/ during
-पे # ; ! /pe/ on
-प्रति # ; ! /prəti/ in, per
-प्रतिकूल # ; ! /prətikuːl/ unlike
-बगैर # ; ! /bəɡæːr/ without
-बढ़कर # ; ! /bəɽ̥əkər/ above
-बतौर # ; ! /bətɔːr/ as
-बनाम # ; ! /bənaːm/ versus
-बाबत # ; ! /baːbət/ of
-बावजूद # ; ! /baːvd͡ʒuːd/ despite
-बिना # ; ! /binaː/ without
-भी # ; ! /b̤iː/ to boot, boot
-मगर # ; ! /məɡər/ but
-मान्य # ; ! /maːnjə/ in order
-मिलकर # ; ! /milkər/ among
-मिलाकर # ; ! /milaːkər/ with
-में # ; ! /men/ on, in
-लिए # ; ! /lie/ in favor of
-लिये # ; ! /lije/ against, on
-लेकर # ; ! /lekər/ with
-वाला # ; ! /vaːlaː/ with
-वास्ते # ; ! /vaːste/ of, FOR
-विरुद्ध # ; ! /virudd̤ə/ versus
-वैसा # ; ! /væːsaː/ like
-शीघ्र # ; ! /ʃiːɡ̤rə/ ere
-समीप # ; ! /səmiːp/ beside
-सम्मुख # ; ! /səmmukʰ/ against
-सहित # ; ! /səɦit/ including
-साढ़े # ; ! /saːɽ̥e/ half
-स् # ; ! /s/ out of, at <somebody> hands
+LEXICON AdvPOS
++Adv:0 # ;
+
+LEXICON Adposition
+अन्दर AdpPOS ; ! /andər/ under
+अलग AdpPOS ; ! /aləɡ/ beside
+उपर AdpPOS ; ! /upər/ into
+उपरान्त AdpPOS ; ! /upraːntə/ since
+ओर AdpPOS ; ! /or/ on
+और AdpPOS ; ! /ɔːr/ plus
+का AdpPOS ; ! /kaː/ of
+किंतु AdpPOS ; ! /kintu/ but
+की AdpPOS ; ! /kiː/ of
+के AdpPOS ; ! /ke/ from
+को AdpPOS ; ! /ko/ on
+जगह AdpPOS ; ! /d͡ʒəɡəɦ/ in <somebody> place
+तक AdpPOS ; ! /tək/ up to <something>, up until <something>
+तरफ AdpPOS ; ! /tərəpʰ/ towards
+दरमियान AdpPOS ; ! /dərmijaːn/ on
+दौरान AdpPOS ; ! /dɔːraːn/ during
+द्वारा AdpPOS ; ! /dvaːraː/ by
+धन AdpPOS ; ! /d̤ən/ plus
+न AdpPOS ; ! /nə/ without
+नजदीक AdpPOS ; ! /nəd͡ʒdiːk/ upon
+निमित्त AdpPOS ; ! /nimittə/ against
+पर AdpPOS ; ! /pər/ at, down
+परंतु AdpPOS ; ! /pərəntu/ but
+पर्यंत AdpPOS ; ! /pərjəntə/ during
+पे AdpPOS ; ! /pe/ on
+प्रति AdpPOS ; ! /prəti/ in, per
+प्रतिकूल AdpPOS ; ! /prətikuːl/ unlike
+बगैर AdpPOS ; ! /bəɡæːr/ without
+बढ़कर AdpPOS ; ! /bəɽ̥əkər/ above
+बतौर AdpPOS ; ! /bətɔːr/ as
+बनाम AdpPOS ; ! /bənaːm/ versus
+बाबत AdpPOS ; ! /baːbət/ of
+बावजूद AdpPOS ; ! /baːvd͡ʒuːd/ despite
+बिना AdpPOS ; ! /binaː/ without
+भी AdpPOS ; ! /b̤iː/ to boot, boot
+मगर AdpPOS ; ! /məɡər/ but
+मान्य AdpPOS ; ! /maːnjə/ in order
+मिलकर AdpPOS ; ! /milkər/ among
+मिलाकर AdpPOS ; ! /milaːkər/ with
+में AdpPOS ; ! /men/ on, in
+लिए AdpPOS ; ! /lie/ in favor of
+लिये AdpPOS ; ! /lije/ against, on
+लेकर AdpPOS ; ! /lekər/ with
+वाला AdpPOS ; ! /vaːlaː/ with
+वास्ते AdpPOS ; ! /vaːste/ of, FOR
+विरुद्ध AdpPOS ; ! /virudd̤ə/ versus
+वैसा AdpPOS ; ! /væːsaː/ like
+शीघ्र AdpPOS ; ! /ʃiːɡ̤rə/ ere
+समीप AdpPOS ; ! /səmiːp/ beside
+सम्मुख AdpPOS ; ! /səmmukʰ/ against
+सहित AdpPOS ; ! /səɦit/ including
+साढ़े AdpPOS ; ! /saːɽ̥e/ half
+स् AdpPOS ; ! /s/ out of, at <somebody> hands
+
+LEXICON AdpPOS
++Adp:0 # ;
 
 LEXICON Conjunction
-अगर # ; ! /aɡər/ as long as, so long as
-अगरचे # ; ! /aɡrət͡ʃe/ notwithstanding
-अतएव # ; ! /atəev/ so
-अतः # ; ! /atəh/ because, then
-अथवा # ; ! /atʰvaː/ or
-अन्यथा # ; ! /anjətʰaː/ or, otherwise
-अभी # ; ! /ab̤iː/ now
-अर्थात # ; ! /artʰaːt/ because
-इसलिए # ; ! /islie/ because
-इसलिये # ; ! /islije/ then
-ऊर्फ # ; ! /uːrpʰə/ alias
-एवं # ; ! /evən/ and
-और # ; ! /ɔːr/ and
-काश # ; ! /kaːʃ/ if only
-कि # ; ! /ki/ whether, if
-किन्तु # ; ! /kintu/ but
-किंतु # ; ! /kintu/ but
-की # ; ! /kiː/ HOW
-कैसे # ; ! /kæːse/ how
-क्या # ; ! /kjaː/ what
-क्योंकि # ; ! /kjoŋki/ when, as
-चाहे # ; ! /t͡ʃaːɦe/ or, even if
-चूंकि # ; ! /t͡ʃuːŋki/ since, because
-चूँकि # ; ! /t͡ʃũːki/ when, whereas
-जब # ; ! /d͡ʒəb/ as, while
-जबकि # ; ! /d͡ʒəbki/ whereas
-जबतक # ; ! /d͡ʒəbtək/ as long as
-जहाँ # ; ! /d͡ʒəɦãː/ where
-जिससे # ; ! /d͡ʒisse/ so
-जैसा # ; ! /d͡ʒæːsaː/ as
-जैसे # ; ! /d͡ʒæːse/ as it were
-जो # ; ! /d͡ʒo/ which, although
-जोकि # ; ! /d͡ʒoki/ which
-ज्योंहि # ; ! /d͡ʒjonɦi/ as
-तथा # ; ! /tətʰaː/ and
-तथापि # ; ! /tətʰaːpi/ nevertheless
-तदनन्तर # ; ! /tədnəntər/ whereupon
-ताकि # ; ! /taːki/ in order that, because
-तुरन्त # ; ! /turntə/ directly
-तो # ; ! /to/ then
-पर # ; ! /pər/ but
-परन्तु # ; ! /pərntu/ but
-फिर # ; ! /pʰir/ then
-फ़ौरन # ; ! /fɔːrən/ immediately
-बल्कि # ; ! /bəlki/ but rather
-बावजूद # ; ! /baːvd͡ʒuːd/ besides it, inspite of
-भी # ; ! /b̤iː/ too
-मगर # ; ! /məɡər/ but, though
-मानकर # ; ! /maːnkər/ assuming
-मानो # ; ! /maːno/ as though, that
-यदि # ; ! /jədi/ if only, if
-यद्यपि # ; ! /jədjəpi/ albeit, while
-या # ; ! /jaː/ or, either
-यानी # ; ! /jaːniː/ that
-याने # ; ! /jaːne/ that
-लिहाजा # ; ! /liɦaːd͡ʒaː/ thus, therefore
-लेकिन # ; ! /lekin/ but
-व # ; ! /və/ and
-वरना # ; ! /vərnaː/ otherwise
-वरन् # ; ! /vərn/ but
-वा # ; ! /vaː/ or
-सो # ; ! /so/ because
-हलांकि # ; ! /ɦəlaːŋki/ though
-हालांकि # ; ! /ɦaːlaːŋki/ although
+अगर ConjPOS ; ! /aɡər/ as long as, so long as
+अगरचे ConjPOS ; ! /aɡrət͡ʃe/ notwithstanding
+अतएव ConjPOS ; ! /atəev/ so
+अतः ConjPOS ; ! /atəh/ because, then
+अथवा ConjPOS ; ! /atʰvaː/ or
+अन्यथा ConjPOS ; ! /anjətʰaː/ or, otherwise
+अभी ConjPOS ; ! /ab̤iː/ now
+अर्थात ConjPOS ; ! /artʰaːt/ because
+इसलिए ConjPOS ; ! /islie/ because
+इसलिये ConjPOS ; ! /islije/ then
+ऊर्फ ConjPOS ; ! /uːrpʰə/ alias
+एवं ConjPOS ; ! /evən/ and
+और ConjPOS ; ! /ɔːr/ and
+काश ConjPOS ; ! /kaːʃ/ if only
+कि ConjPOS ; ! /ki/ whether, if
+किन्तु ConjPOS ; ! /kintu/ but
+किंतु ConjPOS ; ! /kintu/ but
+की ConjPOS ; ! /kiː/ HOW
+कैसे ConjPOS ; ! /kæːse/ how
+क्या ConjPOS ; ! /kjaː/ what
+क्योंकि ConjPOS ; ! /kjoŋki/ when, as
+चाहे ConjPOS ; ! /t͡ʃaːɦe/ or, even if
+चूंकि ConjPOS ; ! /t͡ʃuːŋki/ since, because
+चूँकि ConjPOS ; ! /t͡ʃũːki/ when, whereas
+जब ConjPOS ; ! /d͡ʒəb/ as, while
+जबकि ConjPOS ; ! /d͡ʒəbki/ whereas
+जबतक ConjPOS ; ! /d͡ʒəbtək/ as long as
+जहाँ ConjPOS ; ! /d͡ʒəɦãː/ where
+जिससे ConjPOS ; ! /d͡ʒisse/ so
+जैसा ConjPOS ; ! /d͡ʒæːsaː/ as
+जैसे ConjPOS ; ! /d͡ʒæːse/ as it were
+जो ConjPOS ; ! /d͡ʒo/ which, although
+जोकि ConjPOS ; ! /d͡ʒoki/ which
+ज्योंहि ConjPOS ; ! /d͡ʒjonɦi/ as
+तथा ConjPOS ; ! /tətʰaː/ and
+तथापि ConjPOS ; ! /tətʰaːpi/ nevertheless
+तदनन्तर ConjPOS ; ! /tədnəntər/ whereupon
+ताकि ConjPOS ; ! /taːki/ in order that, because
+तुरन्त ConjPOS ; ! /turntə/ directly
+तो ConjPOS ; ! /to/ then
+पर ConjPOS ; ! /pər/ but
+परन्तु ConjPOS ; ! /pərntu/ but
+फिर ConjPOS ; ! /pʰir/ then
+फ़ौरन ConjPOS ; ! /fɔːrən/ immediately
+बल्कि ConjPOS ; ! /bəlki/ but rather
+बावजूद ConjPOS ; ! /baːvd͡ʒuːd/ besides it, inspite of
+भी ConjPOS ; ! /b̤iː/ too
+मगर ConjPOS ; ! /məɡər/ but, though
+मानकर ConjPOS ; ! /maːnkər/ assuming
+मानो ConjPOS ; ! /maːno/ as though, that
+यदि ConjPOS ; ! /jədi/ if only, if
+यद्यपि ConjPOS ; ! /jədjəpi/ albeit, while
+या ConjPOS ; ! /jaː/ or, either
+यानी ConjPOS ; ! /jaːniː/ that
+याने ConjPOS ; ! /jaːne/ that
+लिहाजा ConjPOS ; ! /liɦaːd͡ʒaː/ thus, therefore
+लेकिन ConjPOS ; ! /lekin/ but
+व ConjPOS ; ! /və/ and
+वरना ConjPOS ; ! /vərnaː/ otherwise
+वरन् ConjPOS ; ! /vərn/ but
+वा ConjPOS ; ! /vaː/ or
+सो ConjPOS ; ! /so/ because
+हलांकि ConjPOS ; ! /ɦəlaːŋki/ though
+हालांकि ConjPOS ; ! /ɦaːlaːŋki/ although
+
+LEXICON ConjPOS
++Conj:0 # ;
 
 LEXICON Particle
-अलविदा # ; ! /alvidaː/ adieu
-अहो # ; ! /aɦo/ heigh
-आओ # ; ! /aːo/ come
-आदाब # ; ! /aːdaːb/ cheerio
-आरे # ; ! /aːre/ LO, Roger
-ख़बरदार # ; ! /xəbrədaːr/ vide, take care
-ख़ाक # ; ! /xaːk/ nothing of the kind
-ग़ज़ब # ; ! /ɣəzəb/ perfect
-छोड़ # ; ! /t͡ʃʰoɽ/ leave
-जय # ; ! /d͡ʒəj/ viva
-जरूर # ; ! /d͡ʒəruːr/ of course, sure
-जा # ; ! /d͡ʒaː/ go
-ज़िंदाबाद # ; ! /zindaːbaːd/ viva
-दे # ; ! /de/ give
-देखिये # ; ! /dekʰije/ vide
-बंदगी # ; ! /bəndɡiː/ cheerio
-भला # ; ! /b̤əlaː/ okey, OK
-रुक # ; ! /ruk/ stop
-रे # ; ! /re/ HA, sirrah
-लो # ; ! /lo/ take, heigh
-वाह # ; ! /vaːɦ/ hey, boh
-शाबाश # ; ! /ʃaːbaːʃ/ well done, okey
-शुभकामनाएं # ; ! /ʃub̤kaːmnaːen/ best wishes
-हट # ; ! /ɦəʈ/ move, hence
-हाय # ; ! /ɦaːj/ HI
+अलविदा PartPOS ; ! /alvidaː/ adieu
+अहो PartPOS ; ! /aɦo/ heigh
+आओ PartPOS ; ! /aːo/ come
+आदाब PartPOS ; ! /aːdaːb/ cheerio
+आरे PartPOS ; ! /aːre/ LO, Roger
+ख़बरदार PartPOS ; ! /xəbrədaːr/ vide, take care
+ख़ाक PartPOS ; ! /xaːk/ nothing of the kind
+ग़ज़ब PartPOS ; ! /ɣəzəb/ perfect
+छोड़ PartPOS ; ! /t͡ʃʰoɽ/ leave
+जय PartPOS ; ! /d͡ʒəj/ viva
+जरूर PartPOS ; ! /d͡ʒəruːr/ of course, sure
+जा PartPOS ; ! /d͡ʒaː/ go
+ज़िंदाबाद PartPOS ; ! /zindaːbaːd/ viva
+दे PartPOS ; ! /de/ give
+देखिये PartPOS ; ! /dekʰije/ vide
+बंदगी PartPOS ; ! /bəndɡiː/ cheerio
+भला PartPOS ; ! /b̤əlaː/ okey, OK
+रुक PartPOS ; ! /ruk/ stop
+रे PartPOS ; ! /re/ HA, sirrah
+लो PartPOS ; ! /lo/ take, heigh
+वाह PartPOS ; ! /vaːɦ/ hey, boh
+शाबाश PartPOS ; ! /ʃaːbaːʃ/ well done, okey
+शुभकामनाएं PartPOS ; ! /ʃub̤kaːmnaːen/ best wishes
+हट PartPOS ; ! /ɦəʈ/ move, hence
+हाय PartPOS ; ! /ɦaːj/ HI
+
+LEXICON PartPOS
++Part:0 # ;
 
 LEXICON Number
 सिफर # ; ! /sipʰər/ nought
 सुन्ना # ; ! /sunnaː/ zero
 
 LEXICON Pronoun
-अगर # ; ! /aɡər/ if
-अधिक # ; ! /ad̤ik/ a lot, much
-अधिकतम # ; ! /ad̤iktəm/ most
-अपना # ; ! /apnaː/ own
-अपनेआप # ; ! /apneaːp/ yourself
-आप # ; ! /aːp/ you
-कइयों # ; ! /kəijon/ many
-कई # ; ! /kəi/ good few, several
-कहाँ # ; ! /kəɦãː/ somewhere
-कहीं # ; ! /kəɦiːn/ somewhere
-काफ़ी # ; ! /kaːfiː/ enough
-किनका # ; ! /kinkaː/ whose
-किनके # ; ! /kinke/ who
-किन्हें # ; ! /kinɦen/ whom
-किस # ; ! /kis/ whom
-किसका # ; ! /kiskaː/ whose
-किसके # ; ! /kiske/ who
-किसको # ; ! /kisko/ who, whom
-किसने # ; ! /kisne/ who
-किसी # ; ! /kisiː/ somebody, someone
-किसे # ; ! /kise/ whom
-कुछ # ; ! /kut͡ʃʰ/ anything, some
-कोई # ; ! /koiː/ someone, somebody
-कोष्टक # ; ! /koʂʈək/ table
-कौन # ; ! /kɔːn/ whoever, who
-कंहा # ; ! /kənɦaː/ where
-क्या # ; ! /kjaː/ what, if
-खुद # ; ! /kʰud/ oneself, themselves
-ख़ुद # ; ! /xud/ himself, yourself
-चौथा # ; ! /t͡ʃɔːtʰaː/ fourth
-ज़रा # ; ! /zəraː/ some
-जि # ; ! /d͡ʒi/ which, that
-जिन्हें # ; ! /d͡ʒinɦen/ which
-जिसका # ; ! /d͡ʒiskaː/ which
-जो # ; ! /d͡ʒo/ who, that
-ज्यादा # ; ! /d͡ʒjaːdaː/ much, many
-तब # ; ! /təb/ when
-थोड़ा # ; ! /tʰoɽaː/ little
-दूसरा # ; ! /duːsraː/ another
-दोनों # ; ! /donon/ both
-नग # ; ! /nəɡ/ pieces
-निजी # ; ! /nid͡ʒiː/ own
-पहला # ; ! /pəɦlaː/ the former
-पूर्वकथित # ; ! /puːrvəktʰit/ Same
-प्रत्येक # ; ! /prətjek/ everything, everybody
-बहुत # ; ! /bəɦut/ many, plenty
-बहुतों # ; ! /bəɦuton/ many
-बिलकुल # ; ! /bilkul/ any
-यदि # ; ! /jədi/ if
-यह # ; ! /jəɦ/ that, this
-ये # ; ! /je/ these
-वह # ; ! /vəɦ/ she, he
-वही # ; ! /vəɦiː/ that
-वे # ; ! /ve/ they, those
-वो # ; ! /vo/ those, they
-सब # ; ! /səb/ everyone, all
-सबकुछ # ; ! /səbkut͡ʃʰ/ the be-all and end-all, evrything
-सहेली # ; ! /səɦeliː/ friend
-सारा # ; ! /saːraː/ everything
-स्वतः # ; ! /svətəh/ it, myself
-स्वयं # ; ! /svəjən/ itself, herself
-स्वंय # ; ! /svənjə/ oneself
-हरएक # ; ! /ɦərəek/ each
-हरेक # ; ! /ɦərek/ everyone, everybody
+अगर PronPOS ; ! /aɡər/ if
+अधिक PronPOS ; ! /ad̤ik/ a lot, much
+अधिकतम PronPOS ; ! /ad̤iktəm/ most
+अपना PronPOS ; ! /apnaː/ own
+अपनेआप PronPOS ; ! /apneaːp/ yourself
+आप PronPOS ; ! /aːp/ you
+कइयों PronPOS ; ! /kəijon/ many
+कई PronPOS ; ! /kəi/ good few, several
+कहाँ PronPOS ; ! /kəɦãː/ somewhere
+कहीं PronPOS ; ! /kəɦiːn/ somewhere
+काफ़ी PronPOS ; ! /kaːfiː/ enough
+किनका PronPOS ; ! /kinkaː/ whose
+किनके PronPOS ; ! /kinke/ who
+किन्हें PronPOS ; ! /kinɦen/ whom
+किस PronPOS ; ! /kis/ whom
+किसका PronPOS ; ! /kiskaː/ whose
+किसके PronPOS ; ! /kiske/ who
+किसको PronPOS ; ! /kisko/ who, whom
+किसने PronPOS ; ! /kisne/ who
+किसी PronPOS ; ! /kisiː/ somebody, someone
+किसे PronPOS ; ! /kise/ whom
+कुछ PronPOS ; ! /kut͡ʃʰ/ anything, some
+कोई PronPOS ; ! /koiː/ someone, somebody
+कोष्टक PronPOS ; ! /koʂʈək/ table
+कौन PronPOS ; ! /kɔːn/ whoever, who
+कंहा PronPOS ; ! /kənɦaː/ where
+क्या PronPOS ; ! /kjaː/ what, if
+खुद PronPOS ; ! /kʰud/ oneself, themselves
+ख़ुद PronPOS ; ! /xud/ himself, yourself
+चौथा PronPOS ; ! /t͡ʃɔːtʰaː/ fourth
+ज़रा PronPOS ; ! /zəraː/ some
+जि PronPOS ; ! /d͡ʒi/ which, that
+जिन्हें PronPOS ; ! /d͡ʒinɦen/ which
+जिसका PronPOS ; ! /d͡ʒiskaː/ which
+जो PronPOS ; ! /d͡ʒo/ who, that
+ज्यादा PronPOS ; ! /d͡ʒjaːdaː/ much, many
+तब PronPOS ; ! /təb/ when
+थोड़ा PronPOS ; ! /tʰoɽaː/ little
+दूसरा PronPOS ; ! /duːsraː/ another
+दोनों PronPOS ; ! /donon/ both
+नग PronPOS ; ! /nəɡ/ pieces
+निजी PronPOS ; ! /nid͡ʒiː/ own
+पहला PronPOS ; ! /pəɦlaː/ the former
+पूर्वकथित PronPOS ; ! /puːrvəktʰit/ Same
+प्रत्येक PronPOS ; ! /prətjek/ everything, everybody
+बहुत PronPOS ; ! /bəɦut/ many, plenty
+बहुतों PronPOS ; ! /bəɦuton/ many
+बिलकुल PronPOS ; ! /bilkul/ any
+यदि PronPOS ; ! /jədi/ if
+यह PronPOS ; ! /jəɦ/ that, this
+ये PronPOS ; ! /je/ these
+वह PronPOS ; ! /vəɦ/ she, he
+वही PronPOS ; ! /vəɦiː/ that
+वे PronPOS ; ! /ve/ they, those
+वो PronPOS ; ! /vo/ those, they
+सब PronPOS ; ! /səb/ everyone, all
+सबकुछ PronPOS ; ! /səbkut͡ʃʰ/ the be-all and end-all, evrything
+सहेली PronPOS ; ! /səɦeliː/ friend
+सारा PronPOS ; ! /saːraː/ everything
+स्वतः PronPOS ; ! /svətəh/ it, myself
+स्वयं PronPOS ; ! /svəjən/ itself, herself
+स्वंय PronPOS ; ! /svənjə/ oneself
+हरएक PronPOS ; ! /ɦərəek/ each
+हरेक PronPOS ; ! /ɦərek/ everyone, everybody
+
+LEXICON PronPOS
++Pron:0 # ;
