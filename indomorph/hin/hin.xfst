@@ -20,7 +20,10 @@ define AllNouns ;
 
 read lexc < verbs.lexc
 substitute defined PossStem for "^GUESSVERBSTEM"
-define AllVerbs ;
+define Verbs ;
+read lexc < verbs-exceptions.lexc
+define ExceptionalVerbs ;
+define AllVerbs [ Verbs | ExceptionalVerbs ];
 
 read lexc < adjs.lexc
 define AllAdjs ;
@@ -32,16 +35,28 @@ read lexc < pron.lexc
 define Pronouns ;
 
 read lexc < part.lexc
-define AllPart ;
+define Parts ;
 
 read lexc < num.lexc
 define Numbers ;
 
 read lexc < punc.lexc
-define Punctuation ;
+define Puncs ;
 
-read regex ~$["+Guess"] .o. AllNouns ;
+read regex ~$["+Guess"]
+           .o. [ AllNouns
+               | AllVerbs
+               | AllAdjs
+               | Pronouns
+               | Parts
+               | Numbers
+               | Puncs
+               ];
 
-read regex $["+Guess"] .o. AllNouns ;
+read regex $["+Guess"]
+           .o. [ AllNouns
+               | AllVerbs
+               | AddAdjs
+               ] ;
 
 save stack hin.fst
