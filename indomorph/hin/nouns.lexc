@@ -33585,6 +33585,16 @@ LEXICON ClassI
 +N+Masc+Voc+Pl:ो # ; ! -o
 +N+Masc+Voc+Pl:ओ # ; ! -o
 
+LEXICON ClassII
++N+Masc+Dir+Sg:0 # ;
++N+Masc+Dir+Pl:0 # ;
++N+Masc+Obl+Sg:0 Enclitic ;
++N+Masc+Obl+Pl:ो Enclitic ; ! -o
++N+Masc+Obl+Pl:योँ Enclitic ; ! -jõ
++N+Masc+Voc+Sg:0 # ;
++N+Masc+Voc+Pl:ो # ; ! -o
++N+Masc+Voc+Pl:यो # ; ! -jo
+
 LEXICON ClassIII
 +N+Fem+Dir+Sg:ी # ; ! -iː
 +N+Fem+Dir+Sg:ई # ; ! -iː
@@ -33620,3 +33630,4 @@ LEXICON Enclitic
 +Gen:का # ; ! -kaː
 +Loc:में # ; ! -mẽ
 +Loc:पर् # ; ! -par
+0:0 # ;
