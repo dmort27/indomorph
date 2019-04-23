@@ -4,12 +4,17 @@ import re
 
 
 def morph_to_dict(props):
-    return {k: v for (k,v)
-            in [x.split('=') for x in props.split('|')]}
+    """Convert morphological props to a dictionary"""
+    if props == '_':
+        return {}
+    else:
+        return {k: v for (k,v)
+                in [x.split('=') for x in props.split('|')]}
 
 
-def lemma_morph_tr(token):
-    return (token[3], morph_to_dict(token[5]))
+def lemma_pos_morph_tr(token):
+    """Lemma and morphological props as dictionary"""
+    return (token[2], token[3], morph_to_dict(token[5]))
 
 
 class ConllU:
