@@ -5,12 +5,12 @@ Multichar_Symbols
 +Adv +Adp +Conj +Prt +Num +Pron
 
 LEXICON Root
-Adverb ;
-Adposition ;
-Conjunction ;
-Particle ;
-Number ;
-Pronoun ;
+0:0 Adverb ;
+0:0 Adposition ;
+0:0 Conjunction ;
+0:0 Particle ;
+0:0 Number ;
+0:0 Pronoun ;
 
 LEXICON Adverb
 अकसर AdvPOS ; ! /aksər/ mostly, oftentimes
