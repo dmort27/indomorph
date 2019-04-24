@@ -6,9 +6,9 @@ define Cons क  | ख  | ग  | घ  | ङ  | च  | छ  | ज  | झ  | ञ  
 define Vowel अ  | आ  | इ  | ई  | उ  | ऊ  | ऋ  | ॠ  | ऌ  | ॡ  | ए  | ऐ  | ओ  | औ  | ा  | ि  | ी  | ु   | ू  | ृ  | ॄ  | ॢ  | ॣ  | े  | ै  | ो  | ौ ;
 define Other ् | ॑  | ॒  | ॓  | ॔  | ँ  | ं  | ः  | ़ ;
 
-define PossStem [[Cons | Vowel | Other]^>3] "+Guess":0 ;
-define PossCFinalStem [[Cons | Vowel | Other]^>2 Cons] "+Guess":0 ;
-define PossVFinalStem [[Cons | Vowel | Other]^>2 Vowel] "+Guess":0 ;
+define PossStem [[Cons | Vowel | Other]^>2] "+Guess":0 ;
+define PossCFinalStem [[Cons | Vowel | Other]^>1 Cons] "+Guess":0 ;
+define PossVFinalStem [[Cons | Vowel | Other]^>1 Vowel] "+Guess":0 ;
 
 read lexc < nouns.lexc
 
