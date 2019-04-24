@@ -1,45 +1,48 @@
 Multichar_Symbols
-+Part
++Adp
 
 LEXICON Root
-+Part:0 Postposition ;
+0:0 Postposition ;
 
 LEXICON Postposition
-के # ;
-को # ;
-तक # ;
-ने # ;
-पर # ;
-से # ;
-तले # ;
-तहत # ;
-में # ;
-लिए # ;
-चलते # ;
-जरिए # ;
-बकौल # ;
-बजाए # ;
-बजाय # ;
-बतौर # ;
-बाबत # ;
-बारे # ;
-लिये # ;
-लेकर # ;
-समेत # ;
-सहित # ;
-हेतु # ;
-अलावा # ;
-खिलाफ # ;
-प्रति # ;
-बराबर # ;
-अनुसार # ;
-द्वारा # ;
-बावजूद # ;
-वास्ते # ;
-स्वरूप # ;
-अंतर्गत # ;
-मुताबिक # ;
-मुताबिक़ # ;
-अतिरिक्त # ;
-मद्देनजर # ;
-मद्देनज़र # ;
+के PostpositionPOS ;
+को PostpositionPOS ;
+तक PostpositionPOS ;
+ने PostpositionPOS ;
+पर PostpositionPOS ;
+से PostpositionPOS ;
+तले PostpositionPOS ;
+तहत PostpositionPOS ;
+में PostpositionPOS ;
+लिए PostpositionPOS ;
+चलते PostpositionPOS ;
+जरिए PostpositionPOS ;
+बकौल PostpositionPOS ;
+बजाए PostpositionPOS ;
+बजाय PostpositionPOS ;
+बतौर PostpositionPOS ;
+बाबत PostpositionPOS ;
+बारे PostpositionPOS ;
+लिये PostpositionPOS ;
+लेकर PostpositionPOS ;
+समेत PostpositionPOS ;
+सहित PostpositionPOS ;
+हेतु PostpositionPOS ;
+अलावा PostpositionPOS ;
+खिलाफ PostpositionPOS ;
+प्रति PostpositionPOS ;
+बराबर PostpositionPOS ;
+अनुसार PostpositionPOS ;
+द्वारा PostpositionPOS ;
+बावजूद PostpositionPOS ;
+वास्ते PostpositionPOS ;
+स्वरूप PostpositionPOS ;
+अंतर्गत PostpositionPOS ;
+मुताबिक PostpositionPOS ;
+मुताबिक़ PostpositionPOS ;
+अतिरिक्त PostpositionPOS ;
+मद्देनजर PostpositionPOS ;
+मद्देनज़र PostpositionPOS ;
+
+LEXICON PostpositionPOS
++Adp:0 # ;

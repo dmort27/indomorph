@@ -19,7 +19,10 @@ class FST(object):
             return []
 
     def _get_lemma(self, morphs):
-        return morphs[0]
+        if morphs:
+            return morphs[0]
+        else:
+            return ''
 
     def _get_best_analysis(self, analyses):
         morph_list = [self._to_morphs(x) for x in analyses]
