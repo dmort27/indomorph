@@ -1,26 +1,30 @@
 Multichar_Symbols
-Punc
+Punct
 
 LEXICON Root
-COMMA:, Punc ;
-। Punc ;
-%( Punc ;
-%) Punc ;
-%! Punc ;
-%@ Punc ;
-%# Punc ;
-%$ Punc ;
-%% Punc ;
-%^ Punc ;
-%& Punc ;
-%* Punc ;
-%& Punc ;
-%- Punc ;
-%_ Punc ;
-%= Punc ;
-%| Punc ;
-%~ Punc ;
-%` Punc ;
+COMMA:, Punct ;
+। Punct ;
+%? Punct ;
+%/ Punct ;
+%\ Punct ;
+%| Punct ;
+%( Punct ;
+%) Punct ;
+%! Punct ;
+%@ Punct ;
+%# Punct ;
+%$ Punct ;
+%% Punct ;
+%^ Punct ;
+%& Punct ;
+%* Punct ;
+%& Punct ;
+%- Punct ;
+%_ Punct ;
+%= Punct ;
+%| Punct ;
+%~ Punct ;
+%` Punct ;
 
-LEXICON Punc
-+Punc:0 # ;
+LEXICON Punct
++Punct:0 # ;
