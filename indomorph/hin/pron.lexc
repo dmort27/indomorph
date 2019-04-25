@@ -1,4 +1,5 @@
 Multichar_Symbols
++Pron
 +Prs +Rel
 +1st +2nd +3rd
 +Sg +Pl
@@ -7,104 +8,104 @@ Multichar_Symbols
 
 LEXICON Root
 ! Direct case pronouns
-+Prs+1st+Sg+Dir:मैं # ;
-+Prs+1st+Pl+Dir:हम # ;
-+Prs+2nd+Sg+Fam+Dir:तू # ;
-+Prs+2nd+Pl+Fam+Dir:तुम # ;
-+Prs+2nd+Sg+Hon+Dir:आप # ;
-+Prs+2nd+Pl+Hon+Dir:आप # ;
-+Prs+3rd+Sg+Prox+Dir:यह # ;
-+Prs+3rd+Pl+Prox+Dir:ये # ;
-+Prs+3rd+Sg+Dist+Dir:वह # ;
-+Prs+3rd+Pl+Dist+Dir:वे # ;
+मैं+Pron+Prs+1st+Sg+Dir:मैं # ;
+हम+Pron+Prs+1st+Pl+Dir:हम # ;
+तू+Pron+Prs+2nd+Sg+Fam+Dir:तू # ;
+तुम+Pron+Prs+2nd+Pl+Fam+Dir:तुम # ;
+आप+Pron+Prs+2nd+Sg+Hon+Dir:आप # ;
+आप+Pron+Prs+2nd+Pl+Hon+Dir:आप # ;
+यह+Pron+Prs+3rd+Sg+Prox+Dir:यह # ;
+य+Pron+Prs+3rd+Pl+Prox+Dir:ये # ;
+वह+Pron+Prs+3rd+Sg+Dist+Dir:वह # ;
+वे+Pron+Prs+3rd+Pl+Dist+Dir:वे # ;
 
 ! Pronouns in dative case
-+Prs+1st+Sg+Dat:मुझे # ;
-+Prs+1st+Sg+Dat:मुझको # ;
-+Prs+2nd+Sg+Fam+Dat:तुझे # ;
-+Prs+2nd+Sg+Fam+Dat:तुझको # ;
-+Prs+2nd+Pl+Fam+Dat:तुम्हें # ;
-+Prs+2nd+Pl+Fam+Dat:तुमको # ;
-+Prs+2nd+Sg+Hon+Dat:आपको # ;
-+Prs+2nd+Pl+Hon+Dat:आपको # ;
-+Prs+3nd+Sg+Prox+Dat:इसे # ;
-+Prs+3nd+Sg+Prox+Dat:इसको # ;
-+Prs+3nd+Pl+Prox+Dat:इन्हें # ;
-+Prs+3nd+Pl+Prox+Dat:इनको # ;
-+Prs+3nd+Sg+Dist+Dat:उसे # ;
-+Prs+3nd+Sg+Dist+Dat:उसको # ;
-+Prs+3nd+Pl+Dist+Dat:उन्हें # ;
-+Prs+3nd+Pl+Dist+Dat:उनको # ;
+मुझे+Pron+Prs+1st+Sg+Dat:मुझे # ;
+मुझको+Pron+Prs+1st+Sg+Dat:मुझको # ;
+तुझे+Pron+Prs+2nd+Sg+Fam+Dat:तुझे # ;
+तुझको+Pron+Prs+2nd+Sg+Fam+Dat:तुझको # ;
+तुम्हें+Pron+Prs+2nd+Pl+Fam+Dat:तुम्हें # ;
+तुमको+Pron+Prs+2nd+Pl+Fam+Dat:तुमको # ;
+आपको+Pron+Prs+2nd+Sg+Hon+Dat:आपको # ;
+आपको+Pron+Prs+2nd+Pl+Hon+Dat:आपको # ;
+इसे+Pron+Prs+3nd+Sg+Prox+Dat:इसे # ;
+इसको+Pron+Prs+3nd+Sg+Prox+Dat:इसको # ;
+इन्हें+Pron+Prs+3nd+Pl+Prox+Dat:इन्हें # ;
+इनको+Pron+Prs+3nd+Pl+Prox+Dat:इनको # ;
+उसे+Pron+Prs+3nd+Sg+Dist+Dat:उसे # ;
+उसको+Pron+Prs+3nd+Sg+Dist+Dat:उसको # ;
+उन्हें+Pron+Prs+3nd+Pl+Dist+Dat:उन्हें # ;
+उनको+Pron+Prs+3nd+Pl+Dist+Dat:उनको # ;
 
 ! Pronouns in genitive case
-+Prs+1sg+Sg+Masc+Gen:मेरा # ;
-+Prs+1sg+Sg+Fem+Gen:मेरी # ;
-+Prs+1sg+Pl+Masc+Gen:हमारा # ;
-+Prs+1sg+Pl+Fem+Gen:हमारी # ;
-+Prs+2nd+Sg+Masc+Fam+Gen:तेरा # ;
-+Prs+2nd+Sg+Fem+Fam+Gen:तेरी # ;
-+Prs+2nd+Pl+Masc+Fam+Gen:तुम्हारा # ;
-+Prs+2nd+Pl+Fem+Fam+Gen:तुम्हारी # ;
-+Prs+2nd+Sg+Masc+Hon+Gen:आपका # ;
-+Prs+2nd+Sg+Fem+Hon+Gen:आपकी # ;
-+Prs+2nd+Pl+Masc+Hon+Gen:आपका # ;
-+Prs+2nd+Pl+Fem+Hon+Gen:आपकी # ;
-+Prs+3rd+Sg+Masc+Prox+Gen:इसका # ;
-+Prs+3rd+Sg+Fem+Prox+Gen:इसकी # ;
-+Prs+3rd+Pl+Masc+Prox+Gen:इनका # ;
-+Prs+3rd+Pl+Fem+Prox+Gen:इनकी # ;
-+Prs+3rd+Sg+Masc+Dist+Gen:उसका # ;
-+Prs+3rd+Sg+Fem+Dist+Gen:उसकी # ;
-+Prs+3rd+Pl+Masc+Dist+Gen:उनका # ;
-+Prs+3rd+Pl+Fem+Dist+Gen:उनकी # ;
+मेरा+Pron+Prs+1sg+Sg+Masc+Gen:मेरा # ;
+मेरी+Pron+Prs+1sg+Sg+Fem+Gen:मेरी # ;
+हमार+Pron+Prs+1sg+Pl+Masc+Gen:हमारा # ;
+हमारी+Pron+Prs+1sg+Pl+Fem+Gen:हमारी # ;
+तेरा+Pron+Prs+2nd+Sg+Masc+Fam+Gen:तेरा # ;
+तेरी+Pron+Prs+2nd+Sg+Fem+Fam+Gen:तेरी # ;
+तुम्हारा+Pron+Prs+2nd+Pl+Masc+Fam+Gen:तुम्हारा # ;
+तुम्हारी+Pron+Prs+2nd+Pl+Fem+Fam+Gen:तुम्हारी # ;
+आपका+Pron+Prs+2nd+Sg+Masc+Hon+Gen:आपका # ;
+आपकी+Pron+Prs+2nd+Sg+Fem+Hon+Gen:आपकी # ;
+आपका+Pron+Prs+2nd+Pl+Masc+Hon+Gen:आपका # ;
+आपकी+Pron+Prs+2nd+Pl+Fem+Hon+Gen:आपकी # ;
+इसका+Pron+Prs+3rd+Sg+Masc+Prox+Gen:इसका # ;
+इसकी+Pron+Prs+3rd+Sg+Fem+Prox+Gen:इसकी # ;
+इनका+Pron+Prs+3rd+Pl+Masc+Prox+Gen:इनका # ;
+इनकी+Pron+Prs+3rd+Pl+Fem+Prox+Gen:इनकी # ;
+उसका+Pron+Prs+3rd+Sg+Masc+Dist+Gen:उसका # ;
+उसकी+Pron+Prs+3rd+Sg+Fem+Dist+Gen:उसकी # ;
+उनका+Pron+Prs+3rd+Pl+Masc+Dist+Gen:उनका # ;
+उनकी+Pron+Prs+3rd+Pl+Fem+Dist+Gen:उनकी # ;
 
 ! Pronouns in ablative case
-+Prs+1st+Sg+Abl:मुझसे # ;
-+Prs+1st+Pl+Abl:हमसे # ;
-+Prs+2nd+Sg+Fam+Abl:तुझसे # ;
-+Prs+2nd+Sg+Fam+Abl:तुमसे # ;
-+Prs+2nd+Pl+Fam+Abl:तुमसे # ;
-+Prs+2nd+Sg+Hon+Abl:आपसे # ;
-+Prs+2nd+Pl+Hon+Abl:आपसे # ;
-+Prs+3rd+Sg+Prox+Abl:इससे # ;
-+Prs+3rd+Pl+Prox+Abl:इनसे # ;
-+Prs+3rd+Sg+Dist+Abl:उससे # ;
-+Prs+3rd+Pl+Dist+Abl:उनसे # ;
+मुझसे+Pron+Prs+1st+Sg+Abl:मुझसे # ;
+हमसे+Pron+Prs+1st+Pl+Abl:हमसे # ;
+तुझसे+Pron+Prs+2nd+Sg+Fam+Abl:तुझसे # ;
+तुमसे+Pron+Prs+2nd+Sg+Fam+Abl:तुमसे # ;
+तुमसे+Pron+Prs+2nd+Pl+Fam+Abl:तुमसे # ;
+आपसे+Pron+Prs+2nd+Sg+Hon+Abl:आपसे # ;
+आपसे+Pron+Prs+2nd+Pl+Hon+Abl:आपसे # ;
+इससे+Pron+Prs+3rd+Sg+Prox+Abl:इससे # ;
+इनसे+Pron+Prs+3rd+Pl+Prox+Abl:इनसे # ;
+उससे+Pron+Prs+3rd+Sg+Dist+Abl:उससे # ;
+उनसे+Pron+Prs+3rd+Pl+Dist+Abl:उनसे # ;
 
 ! Pronouns in the locative case
-+Prs+1st+Sg+Loc:मुझपर # ;
-+Prs+1st+Pl+Loc:हमपर # ;
-+Prs+2nd+Sg+Fam+Loc:तुझपर # ;
-+Prs+2nd+Pl+Fam+Loc:तुमपर # ;
-+Prs+2nd+Sg+Hon+Loc:आपपर # ;
-+Prs+2nd+Pl+Hon+Loc:आपपर # ;
-+Prs+3rd+Sg+Prox+Loc:इसपर # ;
-+Prs+3rd+Pl+Prox+Loc:इनपर # ;
-+Prs+3rd+Sg+Dist+Loc:उसपर # ;
-+Prs+3rd+Pl+Dist+Loc:उनपर # ;
+मुझपर+Pron+Prs+1st+Sg+Loc:मुझपर # ;
+हमपर+Pron+Prs+1st+Pl+Loc:हमपर # ;
+तुझपर+Pron+Prs+2nd+Sg+Fam+Loc:तुझपर # ;
+तुमपर+Pron+Prs+2nd+Pl+Fam+Loc:तुमपर # ;
+आपपर+Pron+Prs+2nd+Sg+Hon+Loc:आपपर # ;
+आपपर+Pron+Prs+2nd+Pl+Hon+Loc:आपपर # ;
+इसपर+Pron+Prs+3rd+Sg+Prox+Loc:इसपर # ;
+इनपर+Pron+Prs+3rd+Pl+Prox+Loc:इनपर # ;
+उसपर+Pron+Prs+3rd+Sg+Dist+Loc:उसपर # ;
+उनपर+Pron+Prs+3rd+Pl+Dist+Loc:उनपर # ;
 
 ! Pronouns in the ergative case
-+Prs+1st+Sg+Erg:मैंने # ;
-+Prs+1st+Pl+Erg:हमने # ;
-+Prs+2nd+Sg+Fam+Erg:तुने # ;
-+Prs+2nd+Pl+Fam+Erg:तुमने # ;
-+Prs+2nd+Sg+Hon+Erg:आपने # ;
-+Prs+2nd+Pl+Hon+Erg:आपने # ;
-+Prs+3rd+Sg+Prox+Erg:इसने # ;
-+Prs+3rd+Pl+Prox+Erg:इन्होंने # ;
-+Prs+3rd+Sg+Dist+Erg:उसने # ;
-+Prs+3rd+Pl+Dist+Erg:उन्होंने # ;
+मैंन+Pron+Prs+1st+Sg+Erg:मैंने # ;
+हमन+Pron+Prs+1st+Pl+Erg:हमने # ;
+तुन+Pron+Prs+2nd+Sg+Fam+Erg:तुने # ;
+तुमन+Pron+Prs+2nd+Pl+Fam+Erg:तुमने # ;
+आपने+Pron+Prs+2nd+Sg+Hon+Erg:आपने # ;
+आपने+Pron+Prs+2nd+Pl+Hon+Erg:आपने # ;
+इसने+Pron+Prs+3rd+Sg+Prox+Erg:इसने # ;
+इन्होंने+Pron+Prs+3rd+Pl+Prox+Erg:इन्होंने # ;
+उसने+Pron+Prs+3rd+Sg+Dist+Erg:उसने # ;
+उन्होंने+Pron+Prs+3rd+Pl+Dist+Erg:उन्होंने # ;
 
 ! Relative pronouns
-+Rel+Sg+Dir:जो # ;
-+Rel+Pl+Dir:जो # ;
-+Rel+Sg+Obl:जिस # ;
-+Rel+Pl+Obl:जिन # ;
-+Rel+Sg+Dat:जिसे # ;
-+Rel+Pl+Dat:जिन्हे # ;
-+Rel+Sg+Gen:जिसका # ;
-+Rel+Pl+Gen:जिनका # ;
-+Rel+Sg+Erg:जिसने # ;
-+Rel+Pl+Erg:जिन्होंने # ;
-+Rel+Sg+Corr:वह # ;
-+Rel+Pl+Corr:वे # ;
+जो+Pron+Rel+Sg+Dir:जो # ;
+जो+Pron+Rel+Pl+Dir:जो # ;
+जिस+Pron+Rel+Sg+Obl:जिस # ;
+जिन+Pron+Rel+Pl+Obl:जिन # ;
+जिसे+Pron+Rel+Sg+Dat:जिसे # ;
+जिन्हे+Pron+Rel+Pl+Dat:जिन्हे # ;
+जिसका+Pron+Rel+Sg+Gen:जिसका # ;
+जिनका+Pron+Rel+Pl+Gen:जिनका # ;
+जिसने+Pron+Rel+Sg+Erg:जिसने # ;
+जिन्होंने+Pron+Rel+Pl+Erg:जिन्होंने # ;
+वह+Pron+Rel+Sg+Corr:वह # ;
+वे+Pron+Rel+Pl+Corr:वे # ;
